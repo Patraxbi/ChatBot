@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ChatbotVisualInterface/bin/Debug
+/ChatbotVisualInterface/.vs/ChatbotVisualInterface
+/ChatbotVisualInterface/obj/Debug
