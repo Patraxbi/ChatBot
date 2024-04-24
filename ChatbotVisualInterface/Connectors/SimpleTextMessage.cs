@@ -16,7 +16,7 @@ namespace ChatbotVisualInterface.Connectors
         private readonly Color questionColor = (Color)ColorConverter.ConvertFromString("#141E46");
         private readonly Color answerColor = (Color)ColorConverter.ConvertFromString("#006837");
 
-        public SimpleTextMessage(string text, bool isQuestion = false) 
+        public SimpleTextMessage(string text, bool isQuestion = false)
         {
             Text = text;
             if (isQuestion)

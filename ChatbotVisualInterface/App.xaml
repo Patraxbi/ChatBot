@@ -4,6 +4,11 @@
              xmlns:local="clr-namespace:ChatbotVisualInterface"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-        <ResourceDictionary Source="DefinedControls/PrimitiveStyleDictionary.xaml"/>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="DefinedControls/PrimitiveStyleDictionary.xaml"/>
+                <ResourceDictionary Source="DefinedControls/IconDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

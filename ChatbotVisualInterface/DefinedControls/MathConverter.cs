@@ -1,11 +1,11 @@
 ﻿// Does a math equation on the bound value.
 // Use @VALUE in your mathEquation as a substitute for bound value
 // Operator order is parenthesis first, then Left-To-Right (no operator precedence)
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Windows.Data;
-using System;
 
 namespace WpfUtilitaryConverters
 {
