@@ -1,4 +1,5 @@
 import random
+import nltk
 answers = ["Hello again", "Howdy", "Go away", "The agony"]
 
 # Main function accessed by interface layer
