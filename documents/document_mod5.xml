@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
-            xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
-            xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
-            xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
-            xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
-            xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
-            xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
-            xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
-            xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
-            xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
-            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-            xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
-            xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
-            xmlns:o="urn:schemas-microsoft-com:office:office"
-            xmlns:oel="http://schemas.microsoft.com/office/2019/extlst"
-            xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
-            xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml"
-            xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
-            xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
-            xmlns:w10="urn:schemas-microsoft-com:office:word"
-            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
-            xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
-            xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
-            xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
-            xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
-            xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
-            xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash"
-            xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
-            xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
-            xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
-            xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
-            xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"
-            mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
+xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
+xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
+xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
+xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
+xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
+xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
+xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
+xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
+xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:oel="http://schemas.microsoft.com/office/2019/extlst"
+xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+xmlns:w10="urn:schemas-microsoft-com:office:word"
+xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
+xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
+xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash"
+xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
 <w:body>
 <w:p w14:paraId="5C6AA8E4" w14:textId="77777777" w:rsidR="007745B4" w:rsidRDefault="007745B4"/>
 <w:p w14:paraId="2B2660B7" w14:textId="3FEC6695" w:rsidR="00EA48A9" w:rsidRDefault="00EA48A9" w:rsidP="00EA48A9">
@@ -68,8 +68,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="12FEA29E" w14:textId="0C2AC161" w:rsidR="00B14AA2" w:rsidRPr="005A77D2" w:rsidRDefault="00B14AA2"
-     w:rsidP="005A77D2">
+<w:p w14:paraId="12FEA29E" w14:textId="0C2AC161" w:rsidR="00B14AA2" w:rsidRPr="005A77D2" w:rsidRDefault="00B14AA2" w:rsidP="005A77D2">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -130,8 +129,7 @@
 <w:t>bring nature back into my life </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="41C4BC1F" w14:textId="23DA3A66" w:rsidR="00815D49" w:rsidRPr="00B14AA2" w:rsidRDefault="00E63D99"
-     w:rsidP="00815D49">
+<w:p w14:paraId="41C4BC1F" w14:textId="23DA3A66" w:rsidR="00815D49" w:rsidRPr="00B14AA2" w:rsidRDefault="00E63D99" w:rsidP="00815D49">
 <w:pPr>
 <w:jc w:val="center"/>
 <w:rPr>
@@ -183,8 +181,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="5078DED5" w14:textId="46D43EA0" w:rsidR="009002EA" w:rsidRPr="009002EA" w:rsidRDefault="00EA48A9"
-     w:rsidP="009002EA">
+<w:p w14:paraId="5078DED5" w14:textId="46D43EA0" w:rsidR="009002EA" w:rsidRPr="009002EA" w:rsidRDefault="00EA48A9" w:rsidP="009002EA">
 <w:pPr>
 <w:rPr>
 <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
@@ -248,8 +245,7 @@
 <w:t>key commitment by 2030 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="48096958" w14:textId="7A132384" w:rsidR="009002EA" w:rsidRPr="005A77D2" w:rsidRDefault="009002EA"
-     w:rsidP="00435A98">
+<w:p w14:paraId="48096958" w14:textId="7A132384" w:rsidR="009002EA" w:rsidRPr="005A77D2" w:rsidRDefault="009002EA" w:rsidP="00435A98">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -304,8 +300,7 @@
 <w:t>area and integrate ecological corridor a part of a true transeuropean nature network </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2C1B3840" w14:textId="77777777" w:rsidR="009002EA" w:rsidRPr="005A77D2" w:rsidRDefault="009002EA"
-     w:rsidP="00435A98">
+<w:p w14:paraId="2C1B3840" w14:textId="77777777" w:rsidR="009002EA" w:rsidRPr="005A77D2" w:rsidRDefault="009002EA" w:rsidP="00435A98">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -334,8 +329,7 @@
 <w:t>2 strictly protect at least a third of the eu’ protect area include all remain eu primary and oldgrowth forest </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4FAA6D28" w14:textId="2B49BC94" w:rsidR="00EA48A9" w:rsidRPr="005A77D2" w:rsidRDefault="009002EA"
-     w:rsidP="00435A98">
+<w:p w14:paraId="4FAA6D28" w14:textId="2B49BC94" w:rsidR="00EA48A9" w:rsidRPr="005A77D2" w:rsidRDefault="009002EA" w:rsidP="00435A98">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -399,8 +393,7 @@
 <w:t>biodiversity be the diversity of life on earth of gene specie and ecosystem in addition to it intrinsic value it underpin the ecosystem service that sustain my life in multiple way they provide food water and medicine ensure soil and water regulation pollination erosion and flood control disease control and carbon storage biodiversity be indispensable for climate change mitigation and adaptation and for maintain human health it also enhance recreational activity creative inspiration and cultural heritage </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0791B546" w14:textId="53F44861" w:rsidR="0011511F" w:rsidRPr="005A77D2" w:rsidRDefault="005A77D2"
-     w:rsidP="009002EA">
+<w:p w14:paraId="0791B546" w14:textId="53F44861" w:rsidR="0011511F" w:rsidRPr="005A77D2" w:rsidRDefault="005A77D2" w:rsidP="009002EA">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -563,8 +556,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3A19FCE9" w14:textId="28ADAF85" w:rsidR="0011511F" w:rsidRPr="005A77D2" w:rsidRDefault="004933F2"
-     w:rsidP="009002EA">
+<w:p w14:paraId="3A19FCE9" w14:textId="28ADAF85" w:rsidR="0011511F" w:rsidRPr="005A77D2" w:rsidRDefault="004933F2" w:rsidP="009002EA">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -880,8 +872,7 @@
 <w:t>all of the world’ ecosystem be restore resilient and adequately protect </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="27C4F62F" w14:textId="517DFCAB" w:rsidR="0029497E" w:rsidRPr="000D69DC" w:rsidRDefault="0029497E"
-     w:rsidP="0029497E">
+<w:p w14:paraId="27C4F62F" w14:textId="517DFCAB" w:rsidR="0029497E" w:rsidRPr="000D69DC" w:rsidRDefault="0029497E" w:rsidP="0029497E">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -1695,8 +1686,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2FB43D77" w14:textId="5BF8FE18" w:rsidR="0003287A" w:rsidRPr="00E616CA" w:rsidRDefault="00594261"
-     w:rsidP="00594261">
+<w:p w14:paraId="2FB43D77" w14:textId="5BF8FE18" w:rsidR="0003287A" w:rsidRPr="00E616CA" w:rsidRDefault="00594261" w:rsidP="00594261">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -2444,8 +2434,7 @@
 <w:t>winwin solution for energy generation </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="162D2905" w14:textId="4EE3FAF0" w:rsidR="00B66FEE" w:rsidRPr="00C106E2" w:rsidRDefault="00C106E2"
-     w:rsidP="00C106E2">
+<w:p w14:paraId="162D2905" w14:textId="4EE3FAF0" w:rsidR="00B66FEE" w:rsidRPr="00C106E2" w:rsidRDefault="00C106E2" w:rsidP="00C106E2">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3146,8 +3135,7 @@
 <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="2B71F5BA" wp14:editId="1FF2406C">
 <wp:extent cx="4660900" cy="3063875"/>
 <wp:effectExtent l="0" t="0" r="6350" b="3175"/>
-<wp:docPr id="1581600741" name="Picture 6"
-          descr="Biodiversity Conservation: Issues and Strategies for the Tropical Islands -  ScienceDirect"/>
+<wp:docPr id="1581600741" name="Picture 6" descr="Biodiversity Conservation: Issues and Strategies for the Tropical Islands -  ScienceDirect"/>
 <wp:cNvGraphicFramePr>
 <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
 </wp:cNvGraphicFramePr>
@@ -3155,8 +3143,7 @@
 <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
 <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
 <pic:nvPicPr>
-<pic:cNvPr id="0" name="Picture 11"
-           descr="Biodiversity Conservation: Issues and Strategies for the Tropical Islands -  ScienceDirect"/>
+<pic:cNvPr id="0" name="Picture 11" descr="Biodiversity Conservation: Issues and Strategies for the Tropical Islands -  ScienceDirect"/>
 <pic:cNvPicPr>
 <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
 </pic:cNvPicPr>
@@ -3206,8 +3193,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="3EE063C6" w14:textId="2F4EB16D" w:rsidR="00977AE4" w:rsidRPr="00C106E2" w:rsidRDefault="00C106E2"
-     w:rsidP="00977AE4">
+<w:p w14:paraId="3EE063C6" w14:textId="2F4EB16D" w:rsidR="00977AE4" w:rsidRPr="00C106E2" w:rsidRDefault="00C106E2" w:rsidP="00977AE4">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3249,8 +3235,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="4116E169" w14:textId="78F97218" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4"
-     w:rsidP="00C106E2">
+<w:p w14:paraId="4116E169" w14:textId="78F97218" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4" w:rsidP="00C106E2">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3292,8 +3277,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="25D242CD" w14:textId="755ABB34" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4"
-     w:rsidP="00C106E2">
+<w:p w14:paraId="25D242CD" w14:textId="755ABB34" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4" w:rsidP="00C106E2">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3318,8 +3302,7 @@
 <w:t>1 legally bind eu nature restoration target propose in 2021 subject to an impact assessment by 2030 significant area of degrade and carbonrich ecosystem be restore habitat and specie show no deterioration in conservation trend and statu and at least 30 reach favorable conservation statu or at least show a positive trend </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0E597B28" w14:textId="77777777" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4"
-     w:rsidP="00C106E2">
+<w:p w14:paraId="0E597B28" w14:textId="77777777" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4" w:rsidP="00C106E2">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3344,8 +3327,7 @@
 <w:t>2 the decline in pollinator be reverse </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="19D6685A" w14:textId="77777777" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4"
-     w:rsidP="00C106E2">
+<w:p w14:paraId="19D6685A" w14:textId="77777777" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4" w:rsidP="00C106E2">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3370,8 +3352,7 @@
 <w:t>3 the risk and use of chemical pesticide be reduce by 50 and the use of more hazardou pesticide be reduce by 50 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="516E0EB9" w14:textId="77777777" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4"
-     w:rsidP="00C106E2">
+<w:p w14:paraId="516E0EB9" w14:textId="77777777" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4" w:rsidP="00C106E2">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3396,8 +3377,7 @@
 <w:t>4 at least 10 of agricultural area be under highdiversity landscape feature </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0637BABC" w14:textId="77777777" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4"
-     w:rsidP="00C106E2">
+<w:p w14:paraId="0637BABC" w14:textId="77777777" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4" w:rsidP="00C106E2">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3422,8 +3402,7 @@
 <w:t>5 at least 25 of agricultural land be under organic farm management and the uptake of agroecological practice be significantly increase </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="23036483" w14:textId="77777777" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4"
-     w:rsidP="00C106E2">
+<w:p w14:paraId="23036483" w14:textId="77777777" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4" w:rsidP="00C106E2">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3448,8 +3427,7 @@
 <w:t>6 three billion new tree be plant in the eu in full respect of ecological principle </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5433C17E" w14:textId="77777777" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4"
-     w:rsidP="00C106E2">
+<w:p w14:paraId="5433C17E" w14:textId="77777777" w:rsidR="00171EF4" w:rsidRPr="00171EF4" w:rsidRDefault="00171EF4" w:rsidP="00C106E2">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3499,8 +3477,7 @@
 <w:t>8 at least 25000 km of freeflowing river be restore </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4F9B3780" w14:textId="2A265DD5" w:rsidR="00172071" w:rsidRPr="00172071" w:rsidRDefault="00172071"
-     w:rsidP="00C106E2">
+<w:p w14:paraId="4F9B3780" w14:textId="2A265DD5" w:rsidR="00172071" w:rsidRPr="00172071" w:rsidRDefault="00172071" w:rsidP="00C106E2">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3547,8 +3524,7 @@
 <w:t>alien specie </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5C1D6778" w14:textId="2C772CE6" w:rsidR="00172071" w:rsidRPr="00172071" w:rsidRDefault="00172071"
-     w:rsidP="00C106E2">
+<w:p w14:paraId="5C1D6778" w14:textId="2C772CE6" w:rsidR="00172071" w:rsidRPr="00172071" w:rsidRDefault="00172071" w:rsidP="00C106E2">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3661,8 +3637,7 @@
 <w:t>er by at least 20 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6F1750FD" w14:textId="77777777" w:rsidR="00172071" w:rsidRPr="00172071" w:rsidRDefault="00172071"
-     w:rsidP="00C106E2">
+<w:p w14:paraId="6F1750FD" w14:textId="77777777" w:rsidR="00172071" w:rsidRPr="00172071" w:rsidRDefault="00172071" w:rsidP="00C106E2">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3687,8 +3662,7 @@
 <w:t>11 city with at least 20000 inhabitant have an ambitiou urban green plan </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6C8AF76A" w14:textId="77777777" w:rsidR="00172071" w:rsidRPr="00172071" w:rsidRDefault="00172071"
-     w:rsidP="00C106E2">
+<w:p w14:paraId="6C8AF76A" w14:textId="77777777" w:rsidR="00172071" w:rsidRPr="00172071" w:rsidRDefault="00172071" w:rsidP="00C106E2">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3713,8 +3687,7 @@
 <w:t>12 no chemical pesticide be use in sensitive area such a eu urban green area </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="01BFC8A2" w14:textId="62C1AEA5" w:rsidR="00172071" w:rsidRPr="00172071" w:rsidRDefault="00172071"
-     w:rsidP="00C106E2">
+<w:p w14:paraId="01BFC8A2" w14:textId="62C1AEA5" w:rsidR="00172071" w:rsidRPr="00172071" w:rsidRDefault="00172071" w:rsidP="00C106E2">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3906,8 +3879,7 @@
 <w:t>nabling transformative change </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0DB21D5C" w14:textId="634F8049" w:rsidR="00FE5E10" w:rsidRPr="007E25B7" w:rsidRDefault="00FE5E10"
-     w:rsidP="007E25B7">
+<w:p w14:paraId="0DB21D5C" w14:textId="634F8049" w:rsidR="00FE5E10" w:rsidRPr="007E25B7" w:rsidRDefault="00FE5E10" w:rsidP="007E25B7">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -4000,8 +3972,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6B7512EF" w14:textId="6AE9105A" w:rsidR="00F122A0" w:rsidRPr="007E25B7" w:rsidRDefault="00F122A0"
-     w:rsidP="007E25B7">
+<w:p w14:paraId="6B7512EF" w14:textId="6AE9105A" w:rsidR="00F122A0" w:rsidRPr="007E25B7" w:rsidRDefault="00F122A0" w:rsidP="007E25B7">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -4072,8 +4043,7 @@
 <w:t>the effective management of all site speciesprotection provision and specie and habitat that show decline trend </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="47BA45BC" w14:textId="7F730A49" w:rsidR="0080562D" w:rsidRPr="0080562D" w:rsidRDefault="007E25B7"
-     w:rsidP="007E25B7">
+<w:p w14:paraId="47BA45BC" w14:textId="7F730A49" w:rsidR="0080562D" w:rsidRPr="0080562D" w:rsidRDefault="007E25B7" w:rsidP="007E25B7">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4645,8 +4615,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="3642E9D1" w14:textId="38F62C3F" w:rsidR="007E25B7" w:rsidRPr="007E25B7" w:rsidRDefault="003342E1"
-     w:rsidP="007E25B7">
+<w:p w14:paraId="3642E9D1" w14:textId="38F62C3F" w:rsidR="007E25B7" w:rsidRPr="007E25B7" w:rsidRDefault="003342E1" w:rsidP="007E25B7">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -4730,8 +4699,7 @@
 <w:t>nion for an ambitiou global biodiversity agenda </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3CDEE31F" w14:textId="1BE373E5" w:rsidR="003342E1" w:rsidRPr="003342E1" w:rsidRDefault="003342E1"
-     w:rsidP="007E25B7">
+<w:p w14:paraId="3CDEE31F" w14:textId="1BE373E5" w:rsidR="003342E1" w:rsidRPr="003342E1" w:rsidRDefault="003342E1" w:rsidP="007E25B7">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4756,8 +4724,7 @@
 <w:t>the commission propose the eu ensure that the post2020 global framework include at a minimum the element outline below </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2FC2A774" w14:textId="61071608" w:rsidR="003342E1" w:rsidRPr="003342E1" w:rsidRDefault="003342E1"
-     w:rsidP="007E25B7">
+<w:p w14:paraId="2FC2A774" w14:textId="61071608" w:rsidR="003342E1" w:rsidRPr="003342E1" w:rsidRDefault="003342E1" w:rsidP="007E25B7">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4965,8 +4932,7 @@
 <w:t>minimum where avoidable </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5ED2B980" w14:textId="5F540EC3" w:rsidR="009F2AFD" w:rsidRPr="004C0C1C" w:rsidRDefault="009F2AFD"
-     w:rsidP="004C0C1C">
+<w:p w14:paraId="5ED2B980" w14:textId="5F540EC3" w:rsidR="009F2AFD" w:rsidRPr="004C0C1C" w:rsidRDefault="009F2AFD" w:rsidP="004C0C1C">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -5053,8 +5019,7 @@
 <w:t>finance capacity research innovation and technology </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="465F0879" w14:textId="6ACF85EE" w:rsidR="009F2AFD" w:rsidRPr="009F2AFD" w:rsidRDefault="009F2AFD"
-     w:rsidP="007E25B7">
+<w:p w14:paraId="465F0879" w14:textId="6ACF85EE" w:rsidR="009F2AFD" w:rsidRPr="009F2AFD" w:rsidRDefault="009F2AFD" w:rsidP="007E25B7">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5187,8 +5152,7 @@
 <w:t>a principle of equality </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="70D7A2CF" w14:textId="674CD48E" w:rsidR="00577C38" w:rsidRPr="004C0C1C" w:rsidRDefault="00577C38"
-     w:rsidP="007E25B7">
+<w:p w14:paraId="70D7A2CF" w14:textId="674CD48E" w:rsidR="00577C38" w:rsidRPr="004C0C1C" w:rsidRDefault="00577C38" w:rsidP="007E25B7">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -5258,8 +5222,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="437C1C9A" w14:textId="77777777" w:rsidR="00186B28" w:rsidRPr="00186B28" w:rsidRDefault="00186B28"
-     w:rsidP="00186B28">
+<w:p w14:paraId="437C1C9A" w14:textId="77777777" w:rsidR="00186B28" w:rsidRPr="00186B28" w:rsidRDefault="00186B28" w:rsidP="00186B28">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:rPr>
@@ -5313,8 +5276,7 @@
 <w:t>summary of action recommendation for different eu biodiversity conservation policy instrument </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="66EFCC31" w14:textId="77777777" w:rsidR="00186B28" w:rsidRPr="00186B28" w:rsidRDefault="00186B28"
-     w:rsidP="00186B28">
+<w:p w14:paraId="66EFCC31" w14:textId="77777777" w:rsidR="00186B28" w:rsidRPr="00186B28" w:rsidRDefault="00186B28" w:rsidP="00186B28">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:rPr>
@@ -5342,8 +5304,7 @@
 <w:t></w:t>
 <w:t></w:t>
 </w:tcPr>
-<w:p w14:paraId="1D36F854" w14:textId="28F0F990" w:rsidR="00186B28" w:rsidRPr="00186B28" w:rsidRDefault="00186B28"
-     w:rsidP="00186B28">
+<w:p w14:paraId="1D36F854" w14:textId="28F0F990" w:rsidR="00186B28" w:rsidRPr="00186B28" w:rsidRDefault="00186B28" w:rsidP="00186B28">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -5372,8 +5333,7 @@
 <w:t></w:t>
 <w:t></w:t>
 </w:tcPr>
-<w:p w14:paraId="60E1697C" w14:textId="0FE93FC8" w:rsidR="00186B28" w:rsidRPr="00186B28" w:rsidRDefault="00186B28"
-     w:rsidP="009F2AFD">
+<w:p w14:paraId="60E1697C" w14:textId="0FE93FC8" w:rsidR="00186B28" w:rsidRPr="00186B28" w:rsidRDefault="00186B28" w:rsidP="009F2AFD">
 <w:pPr>
 <w:rPr>
 <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
@@ -5403,8 +5363,7 @@
 <w:t></w:t>
 <w:t></w:t>
 </w:tcPr>
-<w:p w14:paraId="7226605E" w14:textId="1739D99D" w:rsidR="00186B28" w:rsidRPr="00186B28" w:rsidRDefault="00186B28"
-     w:rsidP="009F2AFD">
+<w:p w14:paraId="7226605E" w14:textId="1739D99D" w:rsidR="00186B28" w:rsidRPr="00186B28" w:rsidRDefault="00186B28" w:rsidP="009F2AFD">
 <w:pPr>
 <w:rPr>
 <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
@@ -5428,8 +5387,7 @@
 <w:t></w:t>
 <w:t></w:t>
 </w:tcPr>
-<w:p w14:paraId="0B1D5778" w14:textId="77777777" w:rsidR="00186B28" w:rsidRPr="00186B28" w:rsidRDefault="00186B28"
-     w:rsidP="00D24932">
+<w:p w14:paraId="0B1D5778" w14:textId="77777777" w:rsidR="00186B28" w:rsidRPr="00186B28" w:rsidRDefault="00186B28" w:rsidP="00D24932">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -5458,8 +5416,7 @@
 <w:t>promote private to public partnership </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="454BE9D6" w14:textId="08B14DE7" w:rsidR="00186B28" w:rsidRPr="00186B28" w:rsidRDefault="00186B28"
-     w:rsidP="00D24932">
+<w:p w14:paraId="454BE9D6" w14:textId="08B14DE7" w:rsidR="00186B28" w:rsidRPr="00186B28" w:rsidRDefault="00186B28" w:rsidP="00D24932">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -5517,8 +5474,7 @@
 <w:t></w:t>
 <w:t></w:t>
 </w:tcPr>
-<w:p w14:paraId="14985176" w14:textId="77777777" w:rsidR="00D24932" w:rsidRPr="00D24932" w:rsidRDefault="00D24932"
-     w:rsidP="009F2AFD">
+<w:p w14:paraId="14985176" w14:textId="77777777" w:rsidR="00D24932" w:rsidRPr="00D24932" w:rsidRDefault="00D24932" w:rsidP="009F2AFD">
 <w:pPr>
 <w:rPr>
 <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
@@ -5537,8 +5493,7 @@
 <w:t>marine strategy framework directive </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="729057CB" w14:textId="54F6A156" w:rsidR="00186B28" w:rsidRPr="00D24932" w:rsidRDefault="00D24932"
-     w:rsidP="009F2AFD">
+<w:p w14:paraId="729057CB" w14:textId="54F6A156" w:rsidR="00186B28" w:rsidRPr="00D24932" w:rsidRDefault="00D24932" w:rsidP="009F2AFD">
 <w:pPr>
 <w:rPr>
 <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
@@ -5741,8 +5696,7 @@
 <w:t>litter </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2685097F" w14:textId="2635FBCE" w:rsidR="00186B28" w:rsidRPr="00D24932" w:rsidRDefault="00D24932"
-     w:rsidP="00D24932">
+<w:p w14:paraId="2685097F" w14:textId="2635FBCE" w:rsidR="00186B28" w:rsidRPr="00D24932" w:rsidRDefault="00D24932" w:rsidP="00D24932">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -5822,8 +5776,7 @@
 <w:t></w:t>
 <w:t></w:t>
 </w:tcPr>
-<w:p w14:paraId="5E1258D2" w14:textId="12AB7839" w:rsidR="00186B28" w:rsidRPr="00D24932" w:rsidRDefault="00D24932"
-     w:rsidP="009F2AFD">
+<w:p w14:paraId="5E1258D2" w14:textId="12AB7839" w:rsidR="00186B28" w:rsidRPr="00D24932" w:rsidRDefault="00D24932" w:rsidP="009F2AFD">
 <w:pPr>
 <w:rPr>
 <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
@@ -5927,8 +5880,7 @@
 <w:t>promote resultbased payment </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="00E64723" w14:textId="4E4E4D43" w:rsidR="00186B28" w:rsidRPr="0093763E" w:rsidRDefault="00D24932"
-     w:rsidP="00D24932">
+<w:p w14:paraId="00E64723" w14:textId="4E4E4D43" w:rsidR="00186B28" w:rsidRPr="0093763E" w:rsidRDefault="00D24932" w:rsidP="00D24932">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -5986,8 +5938,7 @@
 <w:t></w:t>
 <w:t></w:t>
 </w:tcPr>
-<w:p w14:paraId="47FD9229" w14:textId="53AA6FA9" w:rsidR="00186B28" w:rsidRPr="004B5927" w:rsidRDefault="004B5927"
-     w:rsidP="009F2AFD">
+<w:p w14:paraId="47FD9229" w14:textId="53AA6FA9" w:rsidR="00186B28" w:rsidRPr="004B5927" w:rsidRDefault="004B5927" w:rsidP="009F2AFD">
 <w:pPr>
 <w:rPr>
 <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
@@ -6135,8 +6086,7 @@
 <w:t>achievement of biodiversity target </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="65DCF9A2" w14:textId="2F7D3A05" w:rsidR="00186B28" w:rsidRPr="004B5927" w:rsidRDefault="004B5927"
-     w:rsidP="004B5927">
+<w:p w14:paraId="65DCF9A2" w14:textId="2F7D3A05" w:rsidR="00186B28" w:rsidRPr="004B5927" w:rsidRDefault="004B5927" w:rsidP="004B5927">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -6216,8 +6166,7 @@
 <w:t></w:t>
 <w:t></w:t>
 </w:tcPr>
-<w:p w14:paraId="63A96B94" w14:textId="11DABD03" w:rsidR="00186B28" w:rsidRPr="00FF622F" w:rsidRDefault="00FF622F"
-     w:rsidP="009F2AFD">
+<w:p w14:paraId="63A96B94" w14:textId="11DABD03" w:rsidR="00186B28" w:rsidRPr="00FF622F" w:rsidRDefault="00FF622F" w:rsidP="009F2AFD">
 <w:pPr>
 <w:rPr>
 <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
@@ -6241,8 +6190,7 @@
 <w:t></w:t>
 <w:t></w:t>
 </w:tcPr>
-<w:p w14:paraId="7590F177" w14:textId="33A5DD09" w:rsidR="00186B28" w:rsidRPr="00FF622F" w:rsidRDefault="00FF622F"
-     w:rsidP="00FF622F">
+<w:p w14:paraId="7590F177" w14:textId="33A5DD09" w:rsidR="00186B28" w:rsidRPr="00FF622F" w:rsidRDefault="00FF622F" w:rsidP="00FF622F">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -6406,8 +6354,7 @@
 <w:t>european regional development fund </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="296105CC" w14:textId="1C991EE8" w:rsidR="00186B28" w:rsidRPr="00474529" w:rsidRDefault="00272BA2"
-     w:rsidP="009F2AFD">
+<w:p w14:paraId="296105CC" w14:textId="1C991EE8" w:rsidR="00186B28" w:rsidRPr="00474529" w:rsidRDefault="00272BA2" w:rsidP="009F2AFD">
 <w:pPr>
 <w:rPr>
 <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
@@ -6468,8 +6415,7 @@
 <w:t>earmark fund for conservation </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0A2821E7" w14:textId="6443371B" w:rsidR="00186B28" w:rsidRPr="008F53AF" w:rsidRDefault="008F53AF"
-     w:rsidP="008F53AF">
+<w:p w14:paraId="0A2821E7" w14:textId="6443371B" w:rsidR="00186B28" w:rsidRPr="008F53AF" w:rsidRDefault="008F53AF" w:rsidP="008F53AF">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -6570,8 +6516,7 @@
 <w:t></w:t>
 <w:t></w:t>
 </w:tcPr>
-<w:p w14:paraId="3B6D7C23" w14:textId="159C9962" w:rsidR="00186B28" w:rsidRPr="0011787B" w:rsidRDefault="009B7C60"
-     w:rsidP="009F2AFD">
+<w:p w14:paraId="3B6D7C23" w14:textId="159C9962" w:rsidR="00186B28" w:rsidRPr="0011787B" w:rsidRDefault="009B7C60" w:rsidP="009F2AFD">
 <w:pPr>
 <w:rPr>
 <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
@@ -6595,8 +6540,7 @@
 <w:t></w:t>
 <w:t></w:t>
 </w:tcPr>
-<w:p w14:paraId="72402B25" w14:textId="05C471F3" w:rsidR="00186B28" w:rsidRPr="0011787B" w:rsidRDefault="0011787B"
-     w:rsidP="0011787B">
+<w:p w14:paraId="72402B25" w14:textId="05C471F3" w:rsidR="00186B28" w:rsidRPr="0011787B" w:rsidRDefault="0011787B" w:rsidP="0011787B">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -6667,8 +6611,7 @@
 <w:t>solve conflict between agriculture and biodiversity conservation </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="62CB1B90" w14:textId="77777777" w:rsidR="00D96141" w:rsidRPr="00D96141" w:rsidRDefault="00D96141"
-     w:rsidP="00D96141">
+<w:p w14:paraId="62CB1B90" w14:textId="77777777" w:rsidR="00D96141" w:rsidRPr="00D96141" w:rsidRDefault="00D96141" w:rsidP="00D96141">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6699,8 +6642,7 @@
 <w:t>change and nitrogen atmospheric deposition be potentially drive the emergence or evolution of biodiversity conflict in europe </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="40ED5348" w14:textId="77777777" w:rsidR="00D96141" w:rsidRPr="00D96141" w:rsidRDefault="00D96141"
-     w:rsidP="00D96141">
+<w:p w14:paraId="40ED5348" w14:textId="77777777" w:rsidR="00D96141" w:rsidRPr="00D96141" w:rsidRDefault="00D96141" w:rsidP="00D96141">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6791,8 +6733,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="3AB1CE3C" w14:textId="73BF19A1" w:rsidR="00931FBC" w:rsidRPr="00402005" w:rsidRDefault="00931FBC"
-     w:rsidP="00402005">
+<w:p w14:paraId="3AB1CE3C" w14:textId="73BF19A1" w:rsidR="00931FBC" w:rsidRPr="00402005" w:rsidRDefault="00931FBC" w:rsidP="00402005">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6813,8 +6754,7 @@
 <w:t>these trend be interweave with continue debate around landsparing and landsharing that often lead to conflict perspective and social dynamic that influence how local actor interact with each other over agriculture whilst some strategy have be put in place to addres the potential competition between agriculture and biodiversity such a reglementary and marketbased mechanism and nonmonetary voluntary approach these need to be reflect upon and improve for a future agriculture where the negative impact of conflict be minimize </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2DE9ECAF" w14:textId="3A2B089E" w:rsidR="00931FBC" w:rsidRPr="00402005" w:rsidRDefault="00931FBC"
-     w:rsidP="00402005">
+<w:p w14:paraId="2DE9ECAF" w14:textId="3A2B089E" w:rsidR="00931FBC" w:rsidRPr="00402005" w:rsidRDefault="00931FBC" w:rsidP="00402005">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6893,8 +6833,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0959B36A" w14:textId="492ED4FC" w:rsidR="00931FBC" w:rsidRPr="00451D59" w:rsidRDefault="00402005"
-     w:rsidP="00402005">
+<w:p w14:paraId="0959B36A" w14:textId="492ED4FC" w:rsidR="00931FBC" w:rsidRPr="00451D59" w:rsidRDefault="00402005" w:rsidP="00402005">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7002,8 +6941,7 @@
 <w:t>he biodiversity decline continue to be insufficiently address in the past and current cap and no sufficient structural mitigation ha be provide it seem likely that farmer will still be under increase and conflict pressure from market and conservation driver in relation to the land share and land spar debate a useful strategy for address biodiversity conflict and optimal landscape could be a mix of those landuse strategy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1CD29318" w14:textId="536E23A3" w:rsidR="0005519F" w:rsidRPr="00402005" w:rsidRDefault="0005519F"
-     w:rsidP="0005519F">
+<w:p w14:paraId="1CD29318" w14:textId="536E23A3" w:rsidR="0005519F" w:rsidRPr="00402005" w:rsidRDefault="0005519F" w:rsidP="0005519F">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7142,8 +7080,7 @@
 <w:t>approach that involf researcher manager and stakeholder and include monitor adaptive management economic and social assessment a well a the development of a conflict reconciliation plan at an early stage will be essential—especially a land use change emerge base on change social structure </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7B1B9904" w14:textId="4B7AD58A" w:rsidR="00D96141" w:rsidRPr="00402005" w:rsidRDefault="00D96141"
-     w:rsidP="00D96141">
+<w:p w14:paraId="7B1B9904" w14:textId="4B7AD58A" w:rsidR="00D96141" w:rsidRPr="00402005" w:rsidRDefault="00D96141" w:rsidP="00D96141">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7168,8 +7105,7 @@
 <w:t>new approach such a agroecology partnership and conflict transformation all emphasize the need for strong bridge between practice science and politic create a movement from ‘working with others’ to ‘working together’ that tackle deep root dimension of conflict include power asymmetry and dynamic with conflict see a natural and a positive opportunity for transformation in europe both the survival of farm and biodiversity be closely interrelate and work on common grind and share vision will be essential for the future of agriculture </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="76EDD35D" w14:textId="77777777" w:rsidR="0005519F" w:rsidRPr="00402005" w:rsidRDefault="0005519F"
-     w:rsidP="00402005">
+<w:p w14:paraId="76EDD35D" w14:textId="77777777" w:rsidR="0005519F" w:rsidRPr="00402005" w:rsidRDefault="0005519F" w:rsidP="00402005">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7231,8 +7167,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="0DFA65CA" w14:textId="43403516" w:rsidR="00C23460" w:rsidRPr="00C23460" w:rsidRDefault="00C23460"
-     w:rsidP="00C23460">
+<w:p w14:paraId="0DFA65CA" w14:textId="43403516" w:rsidR="00C23460" w:rsidRPr="00C23460" w:rsidRDefault="00C23460" w:rsidP="00C23460">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7268,8 +7203,7 @@
 <w:t>onflict between agriculture and biodiversity conservation in europe </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="674E875C" w14:textId="74BAF4E4" w:rsidR="00D96141" w:rsidRPr="00C23460" w:rsidRDefault="00C23460"
-     w:rsidP="00C23460">
+<w:p w14:paraId="674E875C" w14:textId="74BAF4E4" w:rsidR="00D96141" w:rsidRPr="00C23460" w:rsidRDefault="00C23460" w:rsidP="00C23460">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7373,8 +7307,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="1E58F5A0" w14:textId="71493776" w:rsidR="00C23460" w:rsidRPr="00C23460" w:rsidRDefault="00C23460"
-     w:rsidP="00C23460">
+<w:p w14:paraId="1E58F5A0" w14:textId="71493776" w:rsidR="00C23460" w:rsidRPr="00C23460" w:rsidRDefault="00C23460" w:rsidP="00C23460">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -7402,8 +7335,7 @@
 <w:t>opportunity to conserve and restore biodiversity in agrifood system through bioeconomy practice </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7C853BED" w14:textId="77777777" w:rsidR="00C23460" w:rsidRPr="00C23460" w:rsidRDefault="00C23460"
-     w:rsidP="00C23460">
+<w:p w14:paraId="7C853BED" w14:textId="77777777" w:rsidR="00C23460" w:rsidRPr="00C23460" w:rsidRDefault="00C23460" w:rsidP="00C23460">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7417,8 +7349,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="184F6270" w14:textId="77777777" w:rsidR="00C23460" w:rsidRPr="00C23460" w:rsidRDefault="00C23460"
-     w:rsidP="00C23460">
+<w:p w14:paraId="184F6270" w14:textId="77777777" w:rsidR="00C23460" w:rsidRPr="00C23460" w:rsidRDefault="00C23460" w:rsidP="00C23460">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7472,8 +7403,7 @@
 <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="6BBFA71C" wp14:editId="667EB672">
 <wp:extent cx="3350525" cy="1964734"/>
 <wp:effectExtent l="0" t="0" r="2540" b="0"/>
-<wp:docPr id="2082940994" name="Picture 3"
-          descr="Possibilities for mainstreaming biodiversity? Two perspectives on the  concept of bioeconomy - ScienceDirect"/>
+<wp:docPr id="2082940994" name="Picture 3" descr="Possibilities for mainstreaming biodiversity? Two perspectives on the  concept of bioeconomy - ScienceDirect"/>
 <wp:cNvGraphicFramePr>
 <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
 </wp:cNvGraphicFramePr>
@@ -7481,8 +7411,7 @@
 <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
 <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
 <pic:nvPicPr>
-<pic:cNvPr id="0" name="Picture 5"
-           descr="Possibilities for mainstreaming biodiversity? Two perspectives on the  concept of bioeconomy - ScienceDirect"/>
+<pic:cNvPr id="0" name="Picture 5" descr="Possibilities for mainstreaming biodiversity? Two perspectives on the  concept of bioeconomy - ScienceDirect"/>
 <pic:cNvPicPr>
 <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
 </pic:cNvPicPr>
@@ -7520,8 +7449,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="5370082C" w14:textId="77777777" w:rsidR="00C23460" w:rsidRPr="00C23460" w:rsidRDefault="00C23460"
-     w:rsidP="00886B1E">
+<w:p w14:paraId="5370082C" w14:textId="77777777" w:rsidR="00C23460" w:rsidRPr="00C23460" w:rsidRDefault="00C23460" w:rsidP="00886B1E">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -7548,8 +7476,7 @@
 <w:t>a new bioeconomy model can support biodiversity </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4AC9C58D" w14:textId="77777777" w:rsidR="00C23460" w:rsidRPr="00886B1E" w:rsidRDefault="00C23460"
-     w:rsidP="002D4E56">
+<w:p w14:paraId="4AC9C58D" w14:textId="77777777" w:rsidR="00C23460" w:rsidRPr="00886B1E" w:rsidRDefault="00C23460" w:rsidP="002D4E56">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -7632,8 +7559,7 @@
 <w:t>a the development of an economy that be base on biological resource face several tradeoff to addres these tradeoff to bring about winwin situation it be essential that sustainability and circularity criterium be embed in bioeconomy framework </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="46B7DEEE" w14:textId="5D602572" w:rsidR="00D1755A" w:rsidRPr="00886B1E" w:rsidRDefault="00886B1E"
-     w:rsidP="00886B1E">
+<w:p w14:paraId="46B7DEEE" w14:textId="5D602572" w:rsidR="00D1755A" w:rsidRPr="00886B1E" w:rsidRDefault="00886B1E" w:rsidP="00886B1E">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7691,8 +7617,7 @@
 <w:t>cover all three dimension of sustainability environmental economic social and the governance dimension </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="087D060A" w14:textId="6DAEA641" w:rsidR="00D1755A" w:rsidRPr="00886B1E" w:rsidRDefault="0066682B"
-     w:rsidP="00886B1E">
+<w:p w14:paraId="087D060A" w14:textId="6DAEA641" w:rsidR="00D1755A" w:rsidRPr="00886B1E" w:rsidRDefault="0066682B" w:rsidP="00886B1E">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7721,8 +7646,7 @@
 <w:t>bioeconomy embrace different biobased value chain and economic activity that highly depend on biodiversity and ecosystem service therefore biodiversity conservation protection sustainable use and regeneration a well a ecosystem health be essential component of successful bioeconomy strategy and policy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7F20A149" w14:textId="69932474" w:rsidR="00D1755A" w:rsidRPr="00886B1E" w:rsidRDefault="0066682B"
-     w:rsidP="00886B1E">
+<w:p w14:paraId="7F20A149" w14:textId="69932474" w:rsidR="00D1755A" w:rsidRPr="00886B1E" w:rsidRDefault="0066682B" w:rsidP="00886B1E">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7747,8 +7671,7 @@
 <w:t>there be multiple bioeconomy practice with direct and indirect positive impact on biodiversity address – often simultaneously– the five principal driver of biodiversity los land use change overexploitation of natural resource pollution invasive alien specie and climate change </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="05AE72B3" w14:textId="54FF5CCA" w:rsidR="00D1755A" w:rsidRPr="00886B1E" w:rsidRDefault="0066682B"
-     w:rsidP="00886B1E">
+<w:p w14:paraId="05AE72B3" w14:textId="54FF5CCA" w:rsidR="00D1755A" w:rsidRPr="00886B1E" w:rsidRDefault="0066682B" w:rsidP="00886B1E">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7905,8 +7828,7 @@
 <w:t>among major cause of biodiversity los </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="363354E0" w14:textId="0955A1EC" w:rsidR="00E11CF1" w:rsidRPr="00886B1E" w:rsidRDefault="00E11CF1"
-     w:rsidP="00886B1E">
+<w:p w14:paraId="363354E0" w14:textId="0955A1EC" w:rsidR="00E11CF1" w:rsidRPr="00886B1E" w:rsidRDefault="00E11CF1" w:rsidP="00886B1E">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7942,8 +7864,7 @@
 <w:t>a sustainable and circular bioeconomy promote bioprocess and circular value chain that allow for more sustainable production pattern that produce more with few resource and turn waste into valuable byproduct thereby reduce pressure on my ecosystem </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="268C3889" w14:textId="468311CE" w:rsidR="00E11CF1" w:rsidRPr="00886B1E" w:rsidRDefault="00E11CF1"
-     w:rsidP="00886B1E">
+<w:p w14:paraId="268C3889" w14:textId="468311CE" w:rsidR="00E11CF1" w:rsidRPr="00886B1E" w:rsidRDefault="00E11CF1" w:rsidP="00886B1E">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8049,8 +7970,7 @@
 <w:t>conservation combine tradition and innovation the bioeconomy can empower local community with diversify income opportunity while make sustainable use of biodiversity and relate traditional knowledge </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="31EA9149" w14:textId="7D113FD2" w:rsidR="00E11CF1" w:rsidRPr="00886B1E" w:rsidRDefault="00E11CF1"
-     w:rsidP="00886B1E">
+<w:p w14:paraId="31EA9149" w14:textId="7D113FD2" w:rsidR="00E11CF1" w:rsidRPr="00886B1E" w:rsidRDefault="00E11CF1" w:rsidP="00886B1E">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8087,8 +8007,7 @@
 <w:t>the benefit arise from the sustainable use and conservation of biodiversity and relate traditional knowledge should be share fairly and equitably within the bioeconomy in particular local community </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7922714E" w14:textId="246326DD" w:rsidR="00D1755A" w:rsidRPr="00886B1E" w:rsidRDefault="00BE5D62"
-     w:rsidP="00886B1E">
+<w:p w14:paraId="7922714E" w14:textId="246326DD" w:rsidR="00D1755A" w:rsidRPr="00886B1E" w:rsidRDefault="00BE5D62" w:rsidP="00886B1E">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8184,8 +8103,7 @@
 <w:t>moreover bioeconomy maximize the use of residual stream from agriculture food process and forestbased industry turn them into a range of valueadded product thereby reduce the amount of landfilled waste and pollution which be a seriou threat for biodiversity </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="11B41017" w14:textId="77777777" w:rsidR="00886B1E" w:rsidRPr="00886B1E" w:rsidRDefault="00886B1E"
-     w:rsidP="00886B1E">
+<w:p w14:paraId="11B41017" w14:textId="77777777" w:rsidR="00886B1E" w:rsidRPr="00886B1E" w:rsidRDefault="00886B1E" w:rsidP="00886B1E">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8270,8 +8188,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="40407E40" w14:textId="71357485" w:rsidR="00BE5D62" w:rsidRPr="00CC05C6" w:rsidRDefault="00BE5D62"
-     w:rsidP="00CC05C6">
+<w:p w14:paraId="40407E40" w14:textId="71357485" w:rsidR="00BE5D62" w:rsidRPr="00CC05C6" w:rsidRDefault="00BE5D62" w:rsidP="00CC05C6">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8312,8 +8229,7 @@
 <w:t>conservation </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="38D094F9" w14:textId="77777777" w:rsidR="00BE5D62" w:rsidRPr="00CC05C6" w:rsidRDefault="00BE5D62"
-     w:rsidP="00CC05C6">
+<w:p w14:paraId="38D094F9" w14:textId="77777777" w:rsidR="00BE5D62" w:rsidRPr="00CC05C6" w:rsidRDefault="00BE5D62" w:rsidP="00CC05C6">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8403,8 +8319,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="4DB8BCF5" w14:textId="40869213" w:rsidR="00302259" w:rsidRPr="001D4A14" w:rsidRDefault="003A6A60"
-     w:rsidP="00302259">
+<w:p w14:paraId="4DB8BCF5" w14:textId="40869213" w:rsidR="00302259" w:rsidRPr="001D4A14" w:rsidRDefault="003A6A60" w:rsidP="00302259">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8425,8 +8340,7 @@
 <w:t>sustainable bioeconomy practice reduce habitat los through the restoration of healthy ecosystem that protect and enhance biodiversity </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="100CD223" w14:textId="47586313" w:rsidR="003A6A60" w:rsidRPr="009E37BD" w:rsidRDefault="001D4A14"
-     w:rsidP="00302259">
+<w:p w14:paraId="100CD223" w14:textId="47586313" w:rsidR="003A6A60" w:rsidRPr="009E37BD" w:rsidRDefault="001D4A14" w:rsidP="00302259">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8483,8 +8397,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="29A9A886" w14:textId="77777777" w:rsidR="009E37BD" w:rsidRPr="00D1755A" w:rsidRDefault="009E37BD"
-     w:rsidP="00302259">
+<w:p w14:paraId="29A9A886" w14:textId="77777777" w:rsidR="009E37BD" w:rsidRPr="00D1755A" w:rsidRDefault="009E37BD" w:rsidP="00302259">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8595,8 +8508,7 @@
 <w:t>grid cell within the romanian terrestrial natura 2000 network </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="46092B4F" w14:textId="5BC91577" w:rsidR="00030BC5" w:rsidRPr="00C97CDF" w:rsidRDefault="00C97CDF"
-     w:rsidP="00C97CDF">
+<w:p w14:paraId="46092B4F" w14:textId="5BC91577" w:rsidR="00030BC5" w:rsidRPr="00C97CDF" w:rsidRDefault="00C97CDF" w:rsidP="00C97CDF">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8794,8 +8706,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="251E6B9A" w14:textId="77777777" w:rsidR="00A86593" w:rsidRPr="00C97CDF" w:rsidRDefault="00A86593"
-     w:rsidP="00C97CDF">
+<w:p w14:paraId="251E6B9A" w14:textId="77777777" w:rsidR="00A86593" w:rsidRPr="00C97CDF" w:rsidRDefault="00A86593" w:rsidP="00C97CDF">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8807,8 +8718,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="3816B16C" w14:textId="77777777" w:rsidR="00A86593" w:rsidRPr="00B66FEE" w:rsidRDefault="00A86593"
-     w:rsidP="009F2AFD">
+<w:p w14:paraId="3816B16C" w14:textId="77777777" w:rsidR="00A86593" w:rsidRPr="00B66FEE" w:rsidRDefault="00A86593" w:rsidP="009F2AFD">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:rPr>

@@ -1,41 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
-            xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
-            xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
-            xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
-            xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
-            xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
-            xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
-            xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
-            xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
-            xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
-            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-            xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
-            xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
-            xmlns:o="urn:schemas-microsoft-com:office:office"
-            xmlns:oel="http://schemas.microsoft.com/office/2019/extlst"
-            xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
-            xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml"
-            xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
-            xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
-            xmlns:w10="urn:schemas-microsoft-com:office:word"
-            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
-            xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
-            xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
-            xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
-            xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
-            xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
-            xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du"
-            xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash"
-            xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
-            xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
-            xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
-            xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
-            xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"
-            mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16du wp14">
+xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
+xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
+xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
+xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
+xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
+xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
+xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
+xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
+xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
+xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:oel="http://schemas.microsoft.com/office/2019/extlst"
+xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+xmlns:w10="urn:schemas-microsoft-com:office:word"
+xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
+xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
+xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du"
+xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash"
+xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16du wp14">
 <w:body>
-<w:p w14:paraId="57D717C8" w14:textId="77777777" w:rsidR="007745B4" w:rsidRPr="00BC03D5" w:rsidRDefault="007745B4"
-     w:rsidP="00182522">
+<w:p w14:paraId="57D717C8" w14:textId="77777777" w:rsidR="007745B4" w:rsidRPr="00BC03D5" w:rsidRDefault="007745B4" w:rsidP="00182522">
 <w:pPr>
 <w:jc w:val="center"/>
 <w:rPr>
@@ -47,8 +46,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="513FCA74" w14:textId="77777777" w:rsidR="00182522" w:rsidRPr="00BC03D5" w:rsidRDefault="00182522"
-     w:rsidP="00182522">
+<w:p w14:paraId="513FCA74" w14:textId="77777777" w:rsidR="00182522" w:rsidRPr="00BC03D5" w:rsidRDefault="00182522" w:rsidP="00182522">
 <w:pPr>
 <w:jc w:val="center"/>
 <w:rPr>
@@ -60,8 +58,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="5B3B0FB6" w14:textId="77777777" w:rsidR="00182522" w:rsidRPr="00BC03D5" w:rsidRDefault="00182522"
-     w:rsidP="00182522">
+<w:p w14:paraId="5B3B0FB6" w14:textId="77777777" w:rsidR="00182522" w:rsidRPr="00BC03D5" w:rsidRDefault="00182522" w:rsidP="00182522">
 <w:pPr>
 <w:jc w:val="center"/>
 <w:rPr>
@@ -83,8 +80,7 @@
 <w:t>module 3 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0ABFFC84" w14:textId="03D6A338" w:rsidR="00182522" w:rsidRPr="00BC03D5" w:rsidRDefault="00182522"
-     w:rsidP="00182522">
+<w:p w14:paraId="0ABFFC84" w14:textId="03D6A338" w:rsidR="00182522" w:rsidRPr="00BC03D5" w:rsidRDefault="00182522" w:rsidP="00182522">
 <w:pPr>
 <w:jc w:val="center"/>
 <w:rPr>
@@ -106,8 +102,7 @@
 <w:t>industrial strategy for circular economy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2B479283" w14:textId="77777777" w:rsidR="00182522" w:rsidRPr="00BC03D5" w:rsidRDefault="00182522"
-     w:rsidP="00182522">
+<w:p w14:paraId="2B479283" w14:textId="77777777" w:rsidR="00182522" w:rsidRPr="00BC03D5" w:rsidRDefault="00182522" w:rsidP="00182522">
 <w:pPr>
 <w:jc w:val="center"/>
 <w:rPr>
@@ -119,8 +114,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="6F4166D9" w14:textId="7CC52AD6" w:rsidR="00CE5485" w:rsidRPr="00BC03D5" w:rsidRDefault="00182522"
-     w:rsidP="00CE5485">
+<w:p w14:paraId="6F4166D9" w14:textId="7CC52AD6" w:rsidR="00CE5485" w:rsidRPr="00BC03D5" w:rsidRDefault="00182522" w:rsidP="00CE5485">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -199,8 +193,7 @@
 <w:t>of the european green deal </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="78F4B483" w14:textId="3B137D61" w:rsidR="00CE5485" w:rsidRPr="00BC03D5" w:rsidRDefault="00CE5485"
-     w:rsidP="00182522">
+<w:p w14:paraId="78F4B483" w14:textId="3B137D61" w:rsidR="00CE5485" w:rsidRPr="00BC03D5" w:rsidRDefault="00CE5485" w:rsidP="00182522">
 <w:pPr>
 <w:rPr>
 <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
@@ -211,8 +204,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="5B87FF08" w14:textId="7C7BD54B" w:rsidR="00D608DB" w:rsidRPr="00BC03D5" w:rsidRDefault="0099769A"
-     w:rsidP="0099769A">
+<w:p w14:paraId="5B87FF08" w14:textId="7C7BD54B" w:rsidR="00D608DB" w:rsidRPr="00BC03D5" w:rsidRDefault="0099769A" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -239,8 +231,7 @@
 <w:t>circular economy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1DF1907F" w14:textId="10DE6BD1" w:rsidR="0099769A" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="002734AE">
+<w:p w14:paraId="1DF1907F" w14:textId="10DE6BD1" w:rsidR="0099769A" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="002734AE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -267,8 +258,7 @@
 <w:t>definition </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="558EA337" w14:textId="1FD8D487" w:rsidR="00D608DB" w:rsidRPr="00BC03D5" w:rsidRDefault="00C342D9"
-     w:rsidP="0099769A">
+<w:p w14:paraId="558EA337" w14:textId="1FD8D487" w:rsidR="00D608DB" w:rsidRPr="00BC03D5" w:rsidRDefault="00C342D9" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -334,8 +324,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="3674F4AD" w14:textId="13912302" w:rsidR="00C342D9" w:rsidRPr="00BC03D5" w:rsidRDefault="0099769A"
-     w:rsidP="0099769A">
+<w:p w14:paraId="3674F4AD" w14:textId="13912302" w:rsidR="00C342D9" w:rsidRPr="00BC03D5" w:rsidRDefault="0099769A" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -427,8 +416,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5E88E595" w14:textId="77777777" w:rsidR="001B61B9" w:rsidRPr="00BC03D5" w:rsidRDefault="001B61B9"
-     w:rsidP="0099769A">
+<w:p w14:paraId="5E88E595" w14:textId="77777777" w:rsidR="001B61B9" w:rsidRPr="00BC03D5" w:rsidRDefault="001B61B9" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -438,8 +426,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="59645187" w14:textId="2B2BF50F" w:rsidR="001B61B9" w:rsidRPr="00BC03D5" w:rsidRDefault="0099769A"
-     w:rsidP="0099769A">
+<w:p w14:paraId="59645187" w14:textId="2B2BF50F" w:rsidR="001B61B9" w:rsidRPr="00BC03D5" w:rsidRDefault="0099769A" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -536,8 +523,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="43B935A4" w14:textId="1D92DE02" w:rsidR="002734AE" w:rsidRPr="00BC03D5" w:rsidRDefault="002734AE"
-     w:rsidP="0099769A">
+<w:p w14:paraId="43B935A4" w14:textId="1D92DE02" w:rsidR="002734AE" w:rsidRPr="00BC03D5" w:rsidRDefault="002734AE" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -590,8 +576,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2FF0E290" w14:textId="723A6DF6" w:rsidR="00372897" w:rsidRPr="00BC03D5" w:rsidRDefault="0099769A"
-     w:rsidP="0099769A">
+<w:p w14:paraId="2FF0E290" w14:textId="723A6DF6" w:rsidR="00372897" w:rsidRPr="00BC03D5" w:rsidRDefault="0099769A" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -922,8 +907,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="256CAB7A" w14:textId="4DCE5848" w:rsidR="00527687" w:rsidRPr="00BC03D5" w:rsidRDefault="009E2745"
-     w:rsidP="0099769A">
+<w:p w14:paraId="256CAB7A" w14:textId="4DCE5848" w:rsidR="00527687" w:rsidRPr="00BC03D5" w:rsidRDefault="009E2745" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -1094,8 +1078,7 @@
 <w:t>127973 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1099C3DC" w14:textId="77777777" w:rsidR="002734AE" w:rsidRPr="00BC03D5" w:rsidRDefault="00B70F95"
-     w:rsidP="002734AE">
+<w:p w14:paraId="1099C3DC" w14:textId="77777777" w:rsidR="002734AE" w:rsidRPr="00BC03D5" w:rsidRDefault="00B70F95" w:rsidP="002734AE">
 <w:pPr>
 <w:jc w:val="center"/>
 <w:rPr>
@@ -1116,8 +1099,7 @@
 <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="5E6ADFC3" wp14:editId="62287994">
 <wp:extent cx="4505325" cy="2171291"/>
 <wp:effectExtent l="0" t="0" r="0" b="635"/>
-<wp:docPr id="1573489379" name="Picture 2"
-          descr="Difference between the circular economy and the linear economy. | European  Cluster Collaboration Platform"/>
+<wp:docPr id="1573489379" name="Picture 2" descr="Difference between the circular economy and the linear economy. | European  Cluster Collaboration Platform"/>
 <wp:cNvGraphicFramePr>
 <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
 </wp:cNvGraphicFramePr>
@@ -1125,8 +1107,7 @@
 <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
 <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
 <pic:nvPicPr>
-<pic:cNvPr id="0" name="Picture 3"
-           descr="Difference between the circular economy and the linear economy. | European  Cluster Collaboration Platform"/>
+<pic:cNvPr id="0" name="Picture 3" descr="Difference between the circular economy and the linear economy. | European  Cluster Collaboration Platform"/>
 <pic:cNvPicPr>
 <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
 </pic:cNvPicPr>
@@ -1164,8 +1145,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="2DE41EA6" w14:textId="7695EA7F" w:rsidR="00B70F95" w:rsidRPr="00BC03D5" w:rsidRDefault="002734AE"
-     w:rsidP="002734AE">
+<w:p w14:paraId="2DE41EA6" w14:textId="7695EA7F" w:rsidR="00B70F95" w:rsidRPr="00BC03D5" w:rsidRDefault="002734AE" w:rsidP="002734AE">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -1290,8 +1270,7 @@
 <w:t>2016 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7EB8265F" w14:textId="099C4181" w:rsidR="002734AE" w:rsidRPr="00BC03D5" w:rsidRDefault="002734AE"
-     w:rsidP="0099769A">
+<w:p w14:paraId="7EB8265F" w14:textId="099C4181" w:rsidR="002734AE" w:rsidRPr="00BC03D5" w:rsidRDefault="002734AE" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -1313,8 +1292,7 @@
 <w:t>may be the most clearly explain a circular economy reduce material use redesign material product and service to be le resource intensive and recapture waste a a resource to manufacture new material product and energy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="52FBA308" w14:textId="4C424C09" w:rsidR="0071473C" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="002734AE">
+<w:p w14:paraId="52FBA308" w14:textId="4C424C09" w:rsidR="0071473C" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="002734AE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -1341,8 +1319,7 @@
 <w:t>circular economy and sustainability </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="05795C5F" w14:textId="14E40EFA" w:rsidR="00CE5485" w:rsidRPr="00BC03D5" w:rsidRDefault="00000000"
-     w:rsidP="0099769A">
+<w:p w14:paraId="05795C5F" w14:textId="14E40EFA" w:rsidR="00CE5485" w:rsidRPr="00BC03D5" w:rsidRDefault="00000000" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -1415,8 +1392,7 @@
 <w:t>a share blueprint for peace and prosperity for person and the planet now and into the future at it heart be the 17 sustainable development goal sdg which be an urgent call for action by all country develop and develop in a global partnership they recognize that end poverty and other deprivation must go handinhand with strategy that improve health and education reduce inequality and spur economic growth – all while tackle climate change and work to preserve my ocean and forest </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0277C388" w14:textId="1C8862E6" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76"
-     w:rsidP="0099769A">
+<w:p w14:paraId="0277C388" w14:textId="1C8862E6" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1425,8 +1401,7 @@
 <w:t>the circular economy ha the potential to contribute significantly to the sustainable development goal sdg set by the unite nation un the ellen macarthur foundation state that the circular economy offer a powerful vision for a future in which economic growth be decouple from resource constraint and negative environmental impact ellen macarthur foundation nd </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4794F7F2" w14:textId="77777777" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76"
-     w:rsidP="0099769A">
+<w:p w14:paraId="4794F7F2" w14:textId="77777777" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1443,8 +1418,7 @@
 <w:t>et al 2017 thi can positively impact the goal of ensure sustainable city and community and the pursuit of responsible consumption and production sdg 11 and 12 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="38F8D9F4" w14:textId="507AF6A9" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76"
-     w:rsidP="0099769A">
+<w:p w14:paraId="38F8D9F4" w14:textId="507AF6A9" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1461,8 +1435,7 @@
 <w:t>program launch in 2002 thi program aim to reduce the city environmental impact by implement variou measure include recycle compost and reuse city of malmö nd a part of thi program the city ha establish a network of recycle station compost facility and a range of educational and outreach program to promote the circular economy in addition the city ha implement a range of circular procurement policy include use life cycle assessment tool to evaluate the environmental impact of product and service city of malmö nd </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3DCE4AB8" w14:textId="77777777" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76"
-     w:rsidP="0099769A">
+<w:p w14:paraId="3DCE4AB8" w14:textId="77777777" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1483,8 +1456,7 @@
 <w:t>et al 2017 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2E154FF5" w14:textId="77777777" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76"
-     w:rsidP="0099769A">
+<w:p w14:paraId="2E154FF5" w14:textId="77777777" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1493,8 +1465,7 @@
 <w:t>a successful example of a circular economy economic benefit be the circular textile industry in the netherland accord to the dutch ministry of infrastructure and water management the circular textile industry in the netherland be a fastgrowing sector which generate a turnover of more than €1 billion per year and employ around 15000 person ministry of infrastructure and water management nd thi industry ha develop a range of innovative busines model include circular design production and consumption which have help create new economic opportunity and job and reduce waste and pollution ministry of infrastructure and water management nd </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="02A93F0D" w14:textId="6152910D" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76"
-     w:rsidP="0099769A">
+<w:p w14:paraId="02A93F0D" w14:textId="6152910D" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1509,8 +1480,7 @@
 <w:t>launch in 2002 aim to divert all of the city solid waste from landfill and incineration by 2020 through the implementation of a range of measure include recycle compost and reuse city and county of san francisco nd a of 2019 the city have achieve an 82 waste diversion rate up from just 52 in 2002 result in significant reduction in waste and pollution city and county of san francisco 2019 the succes of the zero waste program demonstrate the significant role that local government can play in promote the circular economy and support the achievement of the sdg </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="31E48F6B" w14:textId="73DD1FE6" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76"
-     w:rsidP="0099769A">
+<w:p w14:paraId="31E48F6B" w14:textId="73DD1FE6" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1527,8 +1497,7 @@
 <w:t>et al 2017 thi can support the goal of ensure acces to affordable reliable and modern energy for all sdg 7 and the goal of climate action sdg 13 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="285ED078" w14:textId="13A717CF" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76"
-     w:rsidP="0099769A">
+<w:p w14:paraId="285ED078" w14:textId="13A717CF" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1543,8 +1512,7 @@
 <w:t>design approach ha successfully reduce nonrenewable resource and promote renewable resource while reduce waste and pollution </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="587058D8" w14:textId="59B1F88F" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76"
-     w:rsidP="0099769A">
+<w:p w14:paraId="587058D8" w14:textId="59B1F88F" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1565,8 +1533,7 @@
 <w:t>et al 2017 a the unite nation development program note achieve the sdg require the active participation and empowerment of all stakeholder include marginalize and disadvantage group to ensure that no one be leave behind thi may require target effort to support the participation of marginalize and disadvantage group in the circular economy such a through train and capacitybuilding program additionally marginalize and disadvantage group must not be negatively impact by the transition to a circular economy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="690D3AB8" w14:textId="77777777" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76"
-     w:rsidP="0099769A">
+<w:p w14:paraId="690D3AB8" w14:textId="77777777" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1575,8 +1542,7 @@
 <w:t>among the circular economy initiative that emphasize equity and inclusion be the circular economy for all initiative launch by the european commission in 2019 thi initiative aim to ensure that the benefit of the circular economy be share equitably and to support the participation of marginalize and disadvantage group in the circular economy european commission 2019 a part of thi initiative the european commission ha develop a range of measure to promote the inclusion of marginalize and disadvantage group in the circular economy include the development of train and capacitybuilding program the establishment of a circular economy stakeholder platform to promote dialogue and cooperation between different stakeholder and the development of a circular economy finance support platform to support the finance of circular project </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3B92A665" w14:textId="77777777" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76"
-     w:rsidP="0099769A">
+<w:p w14:paraId="3B92A665" w14:textId="77777777" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1585,8 +1551,7 @@
 <w:t>the role of local government in promote the circular economy be crucial accord to the european committee of the region local and regional government play a key role in drive the transition toward a circular economy a they be responsible for implement the majority of environmental and waste policy a well a invest in infrastructure and provide public service european committee of the region 2018 local government can take many step to promote the circular economy thi include implement circular procurement policy support the development of circular busines model and invest in infrastructure for waste collection and treatment </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="04064CB5" w14:textId="23DDB7EB" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76"
-     w:rsidP="0099769A">
+<w:p w14:paraId="04064CB5" w14:textId="23DDB7EB" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1601,8 +1566,7 @@
 <w:t>in promote circular economy be the city of gothenburg circular gothenburg initiative launch in 2017 thi initiative aim to transform gothenburg into a circular city by 2030 by implement variou measure include recycle compost and reuse city of gothenburg nd a part of thi initiative the city ha establish a range of circular procurement policy include use life cycle assessment tool to evaluate the environmental impact of product and service city of gothenburg nd in addition the city ha establish a circular economy innovation hub which support business and organization develop circular solution </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="00B97155" w14:textId="77777777" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76"
-     w:rsidP="0099769A">
+<w:p w14:paraId="00B97155" w14:textId="77777777" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1611,8 +1575,7 @@
 <w:t>another example of the role of local government in promote the circular economy be the city of aarhus aarhu the sustainable city initiative which aim to make aarhu a fully sustainable city by 2030 city of aarhu nd a part of thi initiative the city ha implement a number of measure to promote the circular economy include the development of circular procurement guideline for public authority the establishment of a circular economy innovation hub and the implementation of a repair cafe program which provide support for the repair of break or damage item city of aarhu nd the succes of these initiative demonstrate the potential for local government to play a lead role in the transition to a circular economy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="653D787B" w14:textId="77777777" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76"
-     w:rsidP="0099769A">
+<w:p w14:paraId="653D787B" w14:textId="77777777" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1622,8 +1585,7 @@
 <w:t>denmark be a leader in the transition to a circular economy with a range of initiative at the national and local level to promote the circular economy and support the achievement of the sdg the danish ministry of the environment circular denmark initiative launch in 2016 aim to transform denmark into a fully circular economy by 2050 danish ministry of the environment nd a part of thi initiative the ministry ha develop a range of measure to promote the circular economy include the establishment of a circular economy secretariat to support the implementation of circular economy policy the development of circular procurement guideline for public authority and the implementation of a circular public sector program which aim to stimulate the demand for circular product and service in the public sector danish ministry of the environment nd </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="72982FD3" w14:textId="5F59C571" w:rsidR="00EA27D2" w:rsidRPr="00BC03D5" w:rsidRDefault="00EA27D2"
-     w:rsidP="00EA27D2">
+<w:p w14:paraId="72982FD3" w14:textId="5F59C571" w:rsidR="00EA27D2" w:rsidRPr="00BC03D5" w:rsidRDefault="00EA27D2" w:rsidP="00EA27D2">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="center"/>
@@ -1682,8 +1644,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="30215542" w14:textId="6D8C806B" w:rsidR="00EA27D2" w:rsidRPr="00BC03D5" w:rsidRDefault="00EA27D2"
-     w:rsidP="00EA27D2">
+<w:p w14:paraId="30215542" w14:textId="6D8C806B" w:rsidR="00EA27D2" w:rsidRPr="00BC03D5" w:rsidRDefault="00EA27D2" w:rsidP="00EA27D2">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1692,15 +1653,13 @@
 <w:t>fig 3 the circular economy model source european parliament research service </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="01695396" w14:textId="77777777" w:rsidR="00EA27D2" w:rsidRPr="00BC03D5" w:rsidRDefault="00EA27D2"
-     w:rsidP="00EA27D2">
+<w:p w14:paraId="01695396" w14:textId="77777777" w:rsidR="00EA27D2" w:rsidRPr="00BC03D5" w:rsidRDefault="00EA27D2" w:rsidP="00EA27D2">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="02440624" w14:textId="7143781A" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76"
-     w:rsidP="0099769A">
+<w:p w14:paraId="02440624" w14:textId="7143781A" w:rsidR="00102B76" w:rsidRPr="00BC03D5" w:rsidRDefault="00102B76" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1719,8 +1678,7 @@
 <w:t>world busines council for sustainable development circularity index for city be a tool that help city ass their circularity and identify opportunity for improvement world busines council for sustainable development nd </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1CD0ED53" w14:textId="77777777" w:rsidR="00E3008F" w:rsidRPr="00BC03D5" w:rsidRDefault="00E3008F"
-     w:rsidP="00E3008F">
+<w:p w14:paraId="1CD0ED53" w14:textId="77777777" w:rsidR="00E3008F" w:rsidRPr="00BC03D5" w:rsidRDefault="00E3008F" w:rsidP="00E3008F">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1732,8 +1690,7 @@
 <w:t>assess the ethical implication of resource use and waste and examine the value and principle that should guide the transition to a circular economy thi could include the principle of climate justice which recognize the disproportionate impact of climate change on marginalize and disadvantage community and call for a just and equitable transition to a lowcarbon economy unite nation framework convention on climate change 2018 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="737F2426" w14:textId="1CAA5624" w:rsidR="00E3008F" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="00E3008F">
+<w:p w14:paraId="737F2426" w14:textId="1CAA5624" w:rsidR="00E3008F" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="00E3008F">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:numPr>
@@ -1754,8 +1711,7 @@
 <w:t>benefit of switch to a circular economy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="024944C6" w14:textId="2516B735" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9"
-     w:rsidP="00E3008F">
+<w:p w14:paraId="024944C6" w14:textId="2516B735" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9" w:rsidP="00E3008F">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -1772,8 +1728,7 @@
 <w:t>to protect the environment </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4FE004F2" w14:textId="77777777" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9"
-     w:rsidP="0099769A">
+<w:p w14:paraId="4FE004F2" w14:textId="77777777" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="ep-wysiwigparagraph"/>
 <w:jc w:val="both"/>
@@ -1804,8 +1759,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="602A876A" w14:textId="5145574F" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9"
-     w:rsidP="0099769A">
+<w:p w14:paraId="602A876A" w14:textId="5145574F" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="ep-wysiwigparagraph"/>
 <w:jc w:val="both"/>
@@ -1836,8 +1790,7 @@
 <w:t>accord to the european environment agency industrial process and product use be responsible for 910 of greenhouse ga emission in the eu while the management of waste account for 332 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5A99D3A2" w14:textId="6C334DDC" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9"
-     w:rsidP="0099769A">
+<w:p w14:paraId="5A99D3A2" w14:textId="6C334DDC" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="ep-wysiwigparagraph"/>
 <w:jc w:val="both"/>
@@ -1846,8 +1799,7 @@
 <w:t>create more efficient and sustainable product from the start would help to reduce energy and resource consumption a it be estimate that more than 80 of a product environmental impact be determine during the design phase </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0FD30966" w14:textId="77777777" w:rsidR="0058267B" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9"
-     w:rsidP="0058267B">
+<w:p w14:paraId="0FD30966" w14:textId="77777777" w:rsidR="0058267B" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9" w:rsidP="0058267B">
 <w:pPr>
 <w:pStyle w:val="ep-wysiwigparagraph"/>
 <w:jc w:val="both"/>
@@ -1869,8 +1821,7 @@
 <w:t>the aim be to tackle excessive package and improve it design to promote reuse and recycle </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1E419CD3" w14:textId="3DCD80CD" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9"
-     w:rsidP="0058267B">
+<w:p w14:paraId="1E419CD3" w14:textId="3DCD80CD" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9" w:rsidP="0058267B">
 <w:pPr>
 <w:pStyle w:val="ep-wysiwigparagraph"/>
 <w:jc w:val="both"/>
@@ -1887,8 +1838,7 @@
 <w:t>reduce raw material dependence </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="562A0997" w14:textId="77777777" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9"
-     w:rsidP="0099769A">
+<w:p w14:paraId="562A0997" w14:textId="77777777" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="ep-wysiwigparagraph"/>
 <w:jc w:val="both"/>
@@ -1897,8 +1847,7 @@
 <w:t>the world population be grow and with it the demand for raw material however the supply of crucial raw material be limit </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="25BED5E0" w14:textId="55405519" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9"
-     w:rsidP="0099769A">
+<w:p w14:paraId="25BED5E0" w14:textId="55405519" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="ep-wysiwigparagraph"/>
 <w:jc w:val="both"/>
@@ -1906,8 +1855,7 @@
 <w:r w:rsidRPr="00BC03D5">
 <w:t>finite supply also mean some eu country be dependent on other country for their raw material accord to </w:t>
 </w:r>
-<w:hyperlink r:id="rId30" w:anchor="EU.27s_material_footprint_by_material_category_over_time" w:tgtFrame="_blank"
-             w:history="1">
+<w:hyperlink r:id="rId30" w:anchor="EU.27s_material_footprint_by_material_category_over_time" w:tgtFrame="_blank" w:history="1">
 <w:r w:rsidRPr="00BC03D5">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
@@ -1921,8 +1869,7 @@
 <w:t>the eu import about half of the raw material it consume </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="251FBB0F" w14:textId="5B11CF08" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9"
-     w:rsidP="0099769A">
+<w:p w14:paraId="251FBB0F" w14:textId="5B11CF08" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="ep-wysiwigparagraph"/>
 <w:jc w:val="both"/>
@@ -1944,8 +1891,7 @@
 <w:t>between the eu and the rest of the world ha almost triple since 2002 with export grow fast than import regardles the eu still import more than it export in 2021 thi result in a trade deficit of €355 billion </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4D57E944" w14:textId="0E07C4B3" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9"
-     w:rsidP="0099769A">
+<w:p w14:paraId="4D57E944" w14:textId="0E07C4B3" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="ep-wysiwigparagraph"/>
 <w:jc w:val="both"/>
@@ -1955,8 +1901,7 @@
 <w:t>recycle raw material mitigate the risk associate with supply such a price volatility availability and import dependency </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6551B92A" w14:textId="77777777" w:rsidR="0058267B" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9"
-     w:rsidP="0058267B">
+<w:p w14:paraId="6551B92A" w14:textId="77777777" w:rsidR="0058267B" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9" w:rsidP="0058267B">
 <w:pPr>
 <w:pStyle w:val="ep-wysiwigparagraph"/>
 <w:jc w:val="both"/>
@@ -1991,8 +1936,7 @@
 <w:t>and electric engine </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5968723D" w14:textId="33DDF6CC" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9"
-     w:rsidP="0058267B">
+<w:p w14:paraId="5968723D" w14:textId="33DDF6CC" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9" w:rsidP="0058267B">
 <w:pPr>
 <w:pStyle w:val="ep-wysiwigparagraph"/>
 <w:jc w:val="both"/>
@@ -2009,8 +1953,7 @@
 <w:t>create job and save consumer money </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="16F3811A" w14:textId="0B395DEC" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9"
-     w:rsidP="0099769A">
+<w:p w14:paraId="16F3811A" w14:textId="0B395DEC" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="ep-wysiwigparagraph"/>
 <w:jc w:val="both"/>
@@ -2032,8 +1975,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="16AC8E5A" w14:textId="32D4DC29" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9"
-     w:rsidP="0099769A">
+<w:p w14:paraId="16AC8E5A" w14:textId="32D4DC29" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="ep-wysiwigparagraph"/>
 <w:jc w:val="both"/>
@@ -2042,8 +1984,7 @@
 <w:t>redesign material and product for circular use would also boost innovation acros different sector of the economy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0912CF4A" w14:textId="2B0ED7EE" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9"
-     w:rsidP="0099769A">
+<w:p w14:paraId="0912CF4A" w14:textId="2B0ED7EE" w:rsidR="00A969F9" w:rsidRPr="00BC03D5" w:rsidRDefault="00A969F9" w:rsidP="0099769A">
 <w:pPr>
 <w:pStyle w:val="ep-wysiwigparagraph"/>
 <w:jc w:val="both"/>
@@ -2052,8 +1993,7 @@
 <w:t>consumer will be provide with more durable and innovative product that will increase the quality of life and save them money in the long term </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="79155CEA" w14:textId="408F13B9" w:rsidR="00DA0E60" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="00DA0E60">
+<w:p w14:paraId="79155CEA" w14:textId="408F13B9" w:rsidR="00DA0E60" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="00DA0E60">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -2105,8 +2045,7 @@
 <w:t>of the european green deal 2020 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="55E23556" w14:textId="3902937F" w:rsidR="00DA0E60" w:rsidRPr="00BC03D5" w:rsidRDefault="00DA0E60"
-     w:rsidP="00704F74">
+<w:p w14:paraId="55E23556" w14:textId="3902937F" w:rsidR="00DA0E60" w:rsidRPr="00BC03D5" w:rsidRDefault="00DA0E60" w:rsidP="00704F74">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -2125,8 +2064,7 @@
 <w:t>context </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6B2C2907" w14:textId="77777777" w:rsidR="008E13EF" w:rsidRPr="00BC03D5" w:rsidRDefault="008E13EF"
-     w:rsidP="00704F74">
+<w:p w14:paraId="6B2C2907" w14:textId="77777777" w:rsidR="008E13EF" w:rsidRPr="00BC03D5" w:rsidRDefault="008E13EF" w:rsidP="00704F74">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -2194,8 +2132,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="62988ECD" w14:textId="0973FE68" w:rsidR="00704F74" w:rsidRPr="00BC03D5" w:rsidRDefault="00704F74"
-     w:rsidP="00704F74">
+<w:p w14:paraId="62988ECD" w14:textId="0973FE68" w:rsidR="00704F74" w:rsidRPr="00BC03D5" w:rsidRDefault="00704F74" w:rsidP="00704F74">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -2309,8 +2246,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="64FF994A" w14:textId="56EAE29C" w:rsidR="00DA0E60" w:rsidRPr="00BC03D5" w:rsidRDefault="00704F74"
-     w:rsidP="00704F74">
+<w:p w14:paraId="64FF994A" w14:textId="56EAE29C" w:rsidR="00DA0E60" w:rsidRPr="00BC03D5" w:rsidRDefault="00704F74" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2472,8 +2408,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6FFB8C8E" w14:textId="77777777" w:rsidR="00AF2D3C" w:rsidRPr="00BC03D5" w:rsidRDefault="00AF2D3C"
-     w:rsidP="00704F74">
+<w:p w14:paraId="6FFB8C8E" w14:textId="77777777" w:rsidR="00AF2D3C" w:rsidRPr="00BC03D5" w:rsidRDefault="00AF2D3C" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2485,8 +2420,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="620A3879" w14:textId="4DAA0187" w:rsidR="00704F74" w:rsidRPr="00BC03D5" w:rsidRDefault="00704F74"
-     w:rsidP="00704F74">
+<w:p w14:paraId="620A3879" w14:textId="4DAA0187" w:rsidR="00704F74" w:rsidRPr="00BC03D5" w:rsidRDefault="00704F74" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2513,8 +2447,7 @@
 <w:t>b main need action </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="23AA1A43" w14:textId="43A8DD99" w:rsidR="00DA0E60" w:rsidRPr="00BC03D5" w:rsidRDefault="00AF2D3C"
-     w:rsidP="00704F74">
+<w:p w14:paraId="23AA1A43" w14:textId="43A8DD99" w:rsidR="00DA0E60" w:rsidRPr="00BC03D5" w:rsidRDefault="00AF2D3C" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2556,8 +2489,7 @@
 <w:t>design sustainable product </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6D48958B" w14:textId="3E7639AE" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90"
-     w:rsidP="00704F74">
+<w:p w14:paraId="6D48958B" w14:textId="3E7639AE" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2641,8 +2573,7 @@
 <w:t>a sustainable product policy legislative initiative </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="149DF6C0" w14:textId="16885E15" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90"
-     w:rsidP="00704F74">
+<w:p w14:paraId="149DF6C0" w14:textId="16885E15" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2764,8 +2695,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0B0FE3F8" w14:textId="77777777" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90"
-     w:rsidP="00704F74">
+<w:p w14:paraId="0B0FE3F8" w14:textId="77777777" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2814,8 +2744,7 @@
 <w:t>and other appropriate way to regulate the follow aspect </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7BA947C1" w14:textId="77777777" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90"
-     w:rsidP="00704F74">
+<w:p w14:paraId="7BA947C1" w14:textId="77777777" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2875,8 +2804,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3B1D0247" w14:textId="116657D4" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00704F74"
-     w:rsidP="00704F74">
+<w:p w14:paraId="3B1D0247" w14:textId="116657D4" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00704F74" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2971,8 +2899,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="42AFA5B0" w14:textId="3FEF2CF1" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90"
-     w:rsidP="00704F74">
+<w:p w14:paraId="42AFA5B0" w14:textId="3FEF2CF1" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3054,8 +2981,7 @@
 <w:t>safety </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6774175E" w14:textId="77777777" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90"
-     w:rsidP="00704F74">
+<w:p w14:paraId="6774175E" w14:textId="77777777" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3139,8 +3065,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6BB16775" w14:textId="77777777" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90"
-     w:rsidP="00704F74">
+<w:p w14:paraId="6BB16775" w14:textId="77777777" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3200,8 +3125,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0FDAEC71" w14:textId="77777777" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90"
-     w:rsidP="00704F74">
+<w:p w14:paraId="0FDAEC71" w14:textId="77777777" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3285,8 +3209,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5CAD651E" w14:textId="77777777" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90"
-     w:rsidP="00704F74">
+<w:p w14:paraId="5CAD651E" w14:textId="77777777" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3337,8 +3260,7 @@
 <w:t>ban on the destruction of unsold durable good </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="76EA1E14" w14:textId="2A932C9C" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90"
-     w:rsidP="00704F74">
+<w:p w14:paraId="76EA1E14" w14:textId="2A932C9C" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3496,8 +3418,7 @@
 <w:t>lifecycle </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="68A31432" w14:textId="352FD56A" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90"
-     w:rsidP="00704F74">
+<w:p w14:paraId="68A31432" w14:textId="352FD56A" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3627,8 +3548,7 @@
 <w:t>digital passport tag and watermark </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="75490ABE" w14:textId="36642F74" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90"
-     w:rsidP="00704F74">
+<w:p w14:paraId="75490ABE" w14:textId="36642F74" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3710,8 +3630,7 @@
 <w:t>include by link high performance level to incentive </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0E2E043A" w14:textId="77777777" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90"
-     w:rsidP="00704F74">
+<w:p w14:paraId="0E2E043A" w14:textId="77777777" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3797,8 +3716,7 @@
 <w:t>such a steel cement and chemical far product group will be identify base on their environmental impact and circularity potential </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1664D973" w14:textId="3F7427C9" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90"
-     w:rsidP="00704F74">
+<w:p w14:paraId="1664D973" w14:textId="3F7427C9" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3856,8 +3774,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="35F6C2FB" w14:textId="480ECF25" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90"
-     w:rsidP="00704F74">
+<w:p w14:paraId="35F6C2FB" w14:textId="480ECF25" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00E97A90" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3948,8 +3865,7 @@
 <w:t>and the eu gpp criterium </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4AA88697" w14:textId="77777777" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00792712"
-     w:rsidP="00704F74">
+<w:p w14:paraId="4AA88697" w14:textId="77777777" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00792712" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3998,8 +3914,7 @@
 <w:t>of the new sustainable product framework the commission will </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3F35BB88" w14:textId="0A0C93E3" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00792712"
-     w:rsidP="00704F74">
+<w:p w14:paraId="3F35BB88" w14:textId="0A0C93E3" w:rsidR="00E97A90" w:rsidRPr="00BC03D5" w:rsidRDefault="00792712" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4111,8 +4026,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="70E7958A" w14:textId="037DAF8A" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="00704F74">
+<w:p w14:paraId="70E7958A" w14:textId="037DAF8A" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4139,8 +4053,7 @@
 <w:t>empower consumer and public buyer </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="69BDC643" w14:textId="767A0ECC" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00AF2D3C"
-     w:rsidP="00704F74">
+<w:p w14:paraId="69BDC643" w14:textId="767A0ECC" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00AF2D3C" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4223,8 +4136,7 @@
 <w:t>availability of repair service spare part and repair manual </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="69144050" w14:textId="6CE5016E" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="00704F74">
+<w:p w14:paraId="69144050" w14:textId="6CE5016E" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4251,8 +4163,7 @@
 <w:t>circularity in production process </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1AFECF0A" w14:textId="206EE0FC" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00530872"
-     w:rsidP="00704F74">
+<w:p w14:paraId="1AFECF0A" w14:textId="206EE0FC" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00530872" w:rsidP="00704F74">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4288,8 +4199,7 @@
 <w:t>he commission will enable great circularity in industry by </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="26E37DE4" w14:textId="60C30FF7" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00792712"
-     w:rsidP="00AF2D3C">
+<w:p w14:paraId="26E37DE4" w14:textId="60C30FF7" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00792712" w:rsidP="00AF2D3C">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4404,8 +4314,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="331DFD4A" w14:textId="1124ED3F" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00792712"
-     w:rsidP="00AF2D3C">
+<w:p w14:paraId="331DFD4A" w14:textId="1124ED3F" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00792712" w:rsidP="00AF2D3C">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4494,8 +4403,7 @@
 <w:t>and enable the implementation of industrial symbiosi </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="06123956" w14:textId="010526A4" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00792712"
-     w:rsidP="00AF2D3C">
+<w:p w14:paraId="06123956" w14:textId="010526A4" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00792712" w:rsidP="00AF2D3C">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4577,8 +4485,7 @@
 <w:t>implementation of the bioeconomy action plan </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7D021BB2" w14:textId="75E5F89E" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00792712"
-     w:rsidP="00AF2D3C">
+<w:p w14:paraId="7D021BB2" w14:textId="75E5F89E" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00792712" w:rsidP="00AF2D3C">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4666,8 +4573,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4216BA54" w14:textId="6F392BEC" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00792712"
-     w:rsidP="00AF2D3C">
+<w:p w14:paraId="4216BA54" w14:textId="6F392BEC" w:rsidR="00792712" w:rsidRPr="00BC03D5" w:rsidRDefault="00792712" w:rsidP="00AF2D3C">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4771,8 +4677,7 @@
 <w:t>eu certification mark </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="63049943" w14:textId="77777777" w:rsidR="0021769F" w:rsidRPr="00BC03D5" w:rsidRDefault="0021769F"
-     w:rsidP="00AF2D3C">
+<w:p w14:paraId="63049943" w14:textId="77777777" w:rsidR="0021769F" w:rsidRPr="00BC03D5" w:rsidRDefault="0021769F" w:rsidP="00AF2D3C">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4786,8 +4691,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="27F51006" w14:textId="26FDE839" w:rsidR="0021769F" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="00792712">
+<w:p w14:paraId="27F51006" w14:textId="26FDE839" w:rsidR="0021769F" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="00792712">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:rPr>
@@ -4813,8 +4717,7 @@
 <w:t>key product value chain </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="349FDAD8" w14:textId="158349FC" w:rsidR="0021769F" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="00792712">
+<w:p w14:paraId="349FDAD8" w14:textId="158349FC" w:rsidR="0021769F" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="00792712">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:rPr>
@@ -4837,8 +4740,7 @@
 <w:t>electronic and ict </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="25C4D74B" w14:textId="1B765DEC" w:rsidR="0021769F" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="00792712">
+<w:p w14:paraId="25C4D74B" w14:textId="1B765DEC" w:rsidR="0021769F" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="00792712">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:rPr>
@@ -4858,8 +4760,7 @@
 <w:t>battery and vehicle </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2D826804" w14:textId="0A1F9468" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="00792712">
+<w:p w14:paraId="2D826804" w14:textId="0A1F9468" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="00792712">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:rPr>
@@ -4879,8 +4780,7 @@
 <w:t>package </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="17212A5F" w14:textId="540F1F5B" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="00EB3D29">
+<w:p w14:paraId="17212A5F" w14:textId="540F1F5B" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="00EB3D29">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4964,8 +4864,7 @@
 <w:t>and other waste prevention measure </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3039B8ED" w14:textId="6E633AE7" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00CC06AF"
-     w:rsidP="00EB3D29">
+<w:p w14:paraId="3039B8ED" w14:textId="6E633AE7" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00CC06AF" w:rsidP="00EB3D29">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5016,8 +4915,7 @@
 <w:t>design for reuse and recyclability of package </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="220C76D9" w14:textId="64137F3C" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="00EB3D29">
+<w:p w14:paraId="220C76D9" w14:textId="64137F3C" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="00EB3D29">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5059,8 +4957,7 @@
 <w:t>plastic </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6A0BA496" w14:textId="76484D22" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="00EB3D29">
+<w:p w14:paraId="6A0BA496" w14:textId="76484D22" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="00EB3D29">
 <w:pPr>
 <w:spacing w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5206,8 +5103,7 @@
 <w:t>beyond reduction in use fossil resource </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="700425CF" w14:textId="08B6CDF6" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00CC06AF"
-     w:rsidP="00EB3D29">
+<w:p w14:paraId="700425CF" w14:textId="08B6CDF6" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00CC06AF" w:rsidP="00EB3D29">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5271,8 +5167,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7982F429" w14:textId="090FB836" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="00EB3D29">
+<w:p w14:paraId="7982F429" w14:textId="090FB836" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="00EB3D29">
 <w:pPr>
 <w:spacing w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5382,8 +5277,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="08515CFF" w14:textId="77777777" w:rsidR="00EB3D29" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="00EB3D29">
+<w:p w14:paraId="08515CFF" w14:textId="77777777" w:rsidR="00EB3D29" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="00EB3D29">
 <w:pPr>
 <w:spacing w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5404,8 +5298,7 @@
 <w:t>construction and build </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="67B73A86" w14:textId="0BD3B74B" w:rsidR="006558A1" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="003720C3">
+<w:p w14:paraId="67B73A86" w14:textId="0BD3B74B" w:rsidR="006558A1" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="003720C3">
 <w:pPr>
 <w:spacing w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5528,8 +5421,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="698B294E" w14:textId="78D93E7E" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29"
-     w:rsidP="003720C3">
+<w:p w14:paraId="698B294E" w14:textId="78D93E7E" w:rsidR="00CC06AF" w:rsidRPr="00BC03D5" w:rsidRDefault="00EB3D29" w:rsidP="003720C3">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5568,8 +5460,7 @@
 <w:t>the sustainability of renewable biobased material include through action follow the bioeconomy strategy and action plan </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1C339FD6" w14:textId="7D2D45FA" w:rsidR="00BC3CEE" w:rsidRPr="00BC03D5" w:rsidRDefault="003720C3"
-     w:rsidP="003720C3">
+<w:p w14:paraId="1C339FD6" w14:textId="7D2D45FA" w:rsidR="00BC3CEE" w:rsidRPr="00BC03D5" w:rsidRDefault="003720C3" w:rsidP="003720C3">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5628,8 +5519,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7476B7AA" w14:textId="77777777" w:rsidR="005555E1" w:rsidRPr="00BC03D5" w:rsidRDefault="005555E1"
-     w:rsidP="003720C3">
+<w:p w14:paraId="7476B7AA" w14:textId="77777777" w:rsidR="005555E1" w:rsidRPr="00BC03D5" w:rsidRDefault="005555E1" w:rsidP="003720C3">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5638,8 +5528,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="73EDA0AE" w14:textId="77777777" w:rsidR="003720C3" w:rsidRPr="00BC03D5" w:rsidRDefault="003720C3"
-     w:rsidP="003720C3">
+<w:p w14:paraId="73EDA0AE" w14:textId="77777777" w:rsidR="003720C3" w:rsidRPr="00BC03D5" w:rsidRDefault="003720C3" w:rsidP="003720C3">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -5660,8 +5549,7 @@
 <w:t>other topic </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6BEA71A9" w14:textId="20204090" w:rsidR="005555E1" w:rsidRPr="00BC03D5" w:rsidRDefault="003720C3"
-     w:rsidP="003720C3">
+<w:p w14:paraId="6BEA71A9" w14:textId="20204090" w:rsidR="005555E1" w:rsidRPr="00BC03D5" w:rsidRDefault="003720C3" w:rsidP="003720C3">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5854,8 +5742,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6736BBAE" w14:textId="14DCC14C" w:rsidR="005555E1" w:rsidRPr="00BC03D5" w:rsidRDefault="003720C3"
-     w:rsidP="003720C3">
+<w:p w14:paraId="6736BBAE" w14:textId="14DCC14C" w:rsidR="005555E1" w:rsidRPr="00BC03D5" w:rsidRDefault="003720C3" w:rsidP="003720C3">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5881,8 +5768,7 @@
 <w:t>create a wellfunctioning eu market for secondary raw material </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="15F1FF65" w14:textId="1AA183B3" w:rsidR="005555E1" w:rsidRPr="00BC03D5" w:rsidRDefault="003720C3"
-     w:rsidP="003720C3">
+<w:p w14:paraId="15F1FF65" w14:textId="1AA183B3" w:rsidR="005555E1" w:rsidRPr="00BC03D5" w:rsidRDefault="003720C3" w:rsidP="003720C3">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5992,8 +5878,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3AC9AB1F" w14:textId="5C282929" w:rsidR="00300A06" w:rsidRPr="00BC03D5" w:rsidRDefault="003C6422"
-     w:rsidP="005555E1">
+<w:p w14:paraId="3AC9AB1F" w14:textId="5C282929" w:rsidR="00300A06" w:rsidRPr="00BC03D5" w:rsidRDefault="003C6422" w:rsidP="005555E1">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:rPr>
@@ -6025,8 +5910,7 @@
 <w:t>ation </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="54C94F7E" w14:textId="77777777" w:rsidR="001E047A" w:rsidRPr="00BC03D5" w:rsidRDefault="001E047A"
-     w:rsidP="005555E1">
+<w:p w14:paraId="54C94F7E" w14:textId="77777777" w:rsidR="001E047A" w:rsidRPr="00BC03D5" w:rsidRDefault="001E047A" w:rsidP="005555E1">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:rPr>
@@ -6041,8 +5925,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="0BE43517" w14:textId="4CD55D51" w:rsidR="00EA27D2" w:rsidRPr="00BC03D5" w:rsidRDefault="00EA27D2"
-     w:rsidP="00ED209C">
+<w:p w14:paraId="0BE43517" w14:textId="4CD55D51" w:rsidR="00EA27D2" w:rsidRPr="00BC03D5" w:rsidRDefault="00EA27D2" w:rsidP="00ED209C">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -6100,8 +5983,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="1C53FE0D" w14:textId="2FEAD560" w:rsidR="00CF2F6A" w:rsidRPr="00BC03D5" w:rsidRDefault="00CF2F6A"
-     w:rsidP="0099769A">
+<w:p w14:paraId="1C53FE0D" w14:textId="2FEAD560" w:rsidR="00CF2F6A" w:rsidRPr="00BC03D5" w:rsidRDefault="00CF2F6A" w:rsidP="0099769A">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6125,8 +6007,7 @@
 <w:t>fig 4 the international dimension of the eu’ circular economy action plan source spbl netherland </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5F7B61BA" w14:textId="2C442DA2" w:rsidR="00551631" w:rsidRPr="00BC03D5" w:rsidRDefault="007621EC"
-     w:rsidP="001456B8">
+<w:p w14:paraId="5F7B61BA" w14:textId="2C442DA2" w:rsidR="00551631" w:rsidRPr="00BC03D5" w:rsidRDefault="007621EC" w:rsidP="001456B8">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -6171,8 +6052,7 @@
 <w:t>bm </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7304AA6C" w14:textId="1A99F534" w:rsidR="001456B8" w:rsidRPr="00BC03D5" w:rsidRDefault="00551631"
-     w:rsidP="00551631">
+<w:p w14:paraId="7304AA6C" w14:textId="1A99F534" w:rsidR="001456B8" w:rsidRPr="00BC03D5" w:rsidRDefault="00551631" w:rsidP="00551631">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6268,8 +6148,7 @@
 <w:t>et al 2020 circular busines model a review journal of clean production article 123741 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="03ABF3A8" w14:textId="77777777" w:rsidR="00DC526A" w:rsidRPr="00BC03D5" w:rsidRDefault="00DC526A"
-     w:rsidP="001456B8">
+<w:p w14:paraId="03ABF3A8" w14:textId="77777777" w:rsidR="00DC526A" w:rsidRPr="00BC03D5" w:rsidRDefault="00DC526A" w:rsidP="001456B8">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6280,8 +6159,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="372CC7AD" w14:textId="77777777" w:rsidR="00DC526A" w:rsidRPr="00BC03D5" w:rsidRDefault="00DC526A"
-     w:rsidP="001456B8">
+<w:p w14:paraId="372CC7AD" w14:textId="77777777" w:rsidR="00DC526A" w:rsidRPr="00BC03D5" w:rsidRDefault="00DC526A" w:rsidP="001456B8">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6292,8 +6170,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="0B92E176" w14:textId="76AF1E5D" w:rsidR="007621EC" w:rsidRPr="00BC03D5" w:rsidRDefault="00DC526A"
-     w:rsidP="001456B8">
+<w:p w14:paraId="0B92E176" w14:textId="76AF1E5D" w:rsidR="007621EC" w:rsidRPr="00BC03D5" w:rsidRDefault="00DC526A" w:rsidP="001456B8">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6351,8 +6228,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="2C92A322" w14:textId="2CBF02A9" w:rsidR="003F5D69" w:rsidRPr="00BC03D5" w:rsidRDefault="003F5D69"
-     w:rsidP="003F5D69">
+<w:p w14:paraId="2C92A322" w14:textId="2CBF02A9" w:rsidR="003F5D69" w:rsidRPr="00BC03D5" w:rsidRDefault="003F5D69" w:rsidP="003F5D69">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -6418,8 +6294,7 @@
 <w:t>et al 2020 circular busines model a review journal of clean production article 123741 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="72F41AAE" w14:textId="60D5F75D" w:rsidR="00F60D22" w:rsidRPr="00BC03D5" w:rsidRDefault="004D056B"
-     w:rsidP="008A22B8">
+<w:p w14:paraId="72F41AAE" w14:textId="60D5F75D" w:rsidR="00F60D22" w:rsidRPr="00BC03D5" w:rsidRDefault="004D056B" w:rsidP="008A22B8">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6451,8 +6326,7 @@
 <w:t>he fmy different type of circular busines model innovation identify </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0AD87635" w14:textId="77777777" w:rsidR="00B8579C" w:rsidRPr="00BC03D5" w:rsidRDefault="00B8579C"
-     w:rsidP="008A22B8">
+<w:p w14:paraId="0AD87635" w14:textId="77777777" w:rsidR="00B8579C" w:rsidRPr="00BC03D5" w:rsidRDefault="00B8579C" w:rsidP="008A22B8">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6477,8 +6351,7 @@
 <w:t>1 circular busines model transformation describe the modification of an exist busines model while the initial busines model can be either both conventional or circular the result busines model incorporate circular economy strategy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2D3B8E0C" w14:textId="70EA46D6" w:rsidR="00B8579C" w:rsidRPr="00BC03D5" w:rsidRDefault="00B8579C"
-     w:rsidP="008A22B8">
+<w:p w14:paraId="2D3B8E0C" w14:textId="70EA46D6" w:rsidR="00B8579C" w:rsidRPr="00BC03D5" w:rsidRDefault="00B8579C" w:rsidP="008A22B8">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6547,8 +6420,7 @@
 <w:t>institution such a incubator or accelerator </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="60C51E13" w14:textId="68425431" w:rsidR="00B8579C" w:rsidRPr="00BC03D5" w:rsidRDefault="00B8579C"
-     w:rsidP="008A22B8">
+<w:p w14:paraId="60C51E13" w14:textId="68425431" w:rsidR="00B8579C" w:rsidRPr="00BC03D5" w:rsidRDefault="00B8579C" w:rsidP="008A22B8">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6683,8 +6555,7 @@
 <w:t>ation </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="050674CC" w14:textId="051FB631" w:rsidR="00F60D22" w:rsidRPr="00BC03D5" w:rsidRDefault="00B8579C"
-     w:rsidP="008A22B8">
+<w:p w14:paraId="050674CC" w14:textId="051FB631" w:rsidR="00F60D22" w:rsidRPr="00BC03D5" w:rsidRDefault="00B8579C" w:rsidP="008A22B8">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6710,8 +6581,7 @@
 <w:t>4 circular busines model acquisition describe merger and acquisition mampa activity that target busines model that incorporate circular economy strategy it comprise the identification acquisition and integration of new circular busines model the extent of integration can vary </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="79C22F2E" w14:textId="0F75D245" w:rsidR="008A22B8" w:rsidRPr="00BC03D5" w:rsidRDefault="008A22B8"
-     w:rsidP="008A22B8">
+<w:p w14:paraId="79C22F2E" w14:textId="0F75D245" w:rsidR="008A22B8" w:rsidRPr="00BC03D5" w:rsidRDefault="008A22B8" w:rsidP="008A22B8">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6770,8 +6640,7 @@
 <w:t>also divest from their core busines toward thi new portfolio or leverage acquisition to introduce circular economy capability to transform their core busines model </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4E59B604" w14:textId="77777777" w:rsidR="008A22B8" w:rsidRPr="00BC03D5" w:rsidRDefault="008A22B8"
-     w:rsidP="008A22B8">
+<w:p w14:paraId="4E59B604" w14:textId="77777777" w:rsidR="008A22B8" w:rsidRPr="00BC03D5" w:rsidRDefault="008A22B8" w:rsidP="008A22B8">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6785,8 +6654,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="2DE0EF24" w14:textId="77777777" w:rsidR="00727984" w:rsidRPr="00BC03D5" w:rsidRDefault="00727984"
-     w:rsidP="008A22B8">
+<w:p w14:paraId="2DE0EF24" w14:textId="77777777" w:rsidR="00727984" w:rsidRPr="00BC03D5" w:rsidRDefault="00727984" w:rsidP="008A22B8">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6800,8 +6668,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="7B2D95A2" w14:textId="3CF6B56B" w:rsidR="008A22B8" w:rsidRPr="00BC03D5" w:rsidRDefault="008A22B8"
-     w:rsidP="008A22B8">
+<w:p w14:paraId="7B2D95A2" w14:textId="3CF6B56B" w:rsidR="008A22B8" w:rsidRPr="00BC03D5" w:rsidRDefault="008A22B8" w:rsidP="008A22B8">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -6856,8 +6723,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="4D05ADEE" w14:textId="77777777" w:rsidR="008A22B8" w:rsidRPr="00BC03D5" w:rsidRDefault="008A22B8"
-     w:rsidP="008A22B8">
+<w:p w14:paraId="4D05ADEE" w14:textId="77777777" w:rsidR="008A22B8" w:rsidRPr="00BC03D5" w:rsidRDefault="008A22B8" w:rsidP="008A22B8">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6871,8 +6737,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="30082802" w14:textId="763205B5" w:rsidR="008A22B8" w:rsidRPr="00BC03D5" w:rsidRDefault="008A22B8"
-     w:rsidP="008A22B8">
+<w:p w14:paraId="30082802" w14:textId="763205B5" w:rsidR="008A22B8" w:rsidRPr="00BC03D5" w:rsidRDefault="008A22B8" w:rsidP="008A22B8">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -6917,8 +6782,7 @@
 <w:t>et al 2020 circular busines model a review journal of clean production article 123741 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6DEB3438" w14:textId="43F3AC9E" w:rsidR="008A22B8" w:rsidRPr="00BC03D5" w:rsidRDefault="008A22B8"
-     w:rsidP="008A22B8">
+<w:p w14:paraId="6DEB3438" w14:textId="43F3AC9E" w:rsidR="008A22B8" w:rsidRPr="00BC03D5" w:rsidRDefault="008A22B8" w:rsidP="008A22B8">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6932,8 +6796,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="29CC37BE" w14:textId="00211DF7" w:rsidR="00983C2E" w:rsidRPr="00BC03D5" w:rsidRDefault="00983C2E"
-     w:rsidP="00021DC7">
+<w:p w14:paraId="29CC37BE" w14:textId="00211DF7" w:rsidR="00983C2E" w:rsidRPr="00BC03D5" w:rsidRDefault="00983C2E" w:rsidP="00021DC7">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6963,8 +6826,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4C8D3332" w14:textId="209E3CA7" w:rsidR="00021DC7" w:rsidRPr="00BC03D5" w:rsidRDefault="00021DC7"
-     w:rsidP="00021DC7">
+<w:p w14:paraId="4C8D3332" w14:textId="209E3CA7" w:rsidR="00021DC7" w:rsidRPr="00BC03D5" w:rsidRDefault="00021DC7" w:rsidP="00021DC7">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7011,8 +6873,7 @@
 <w:t>package recycle </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5B2210C3" w14:textId="77777777" w:rsidR="00021DC7" w:rsidRPr="00BC03D5" w:rsidRDefault="00021DC7"
-     w:rsidP="00021DC7">
+<w:p w14:paraId="5B2210C3" w14:textId="77777777" w:rsidR="00021DC7" w:rsidRPr="00BC03D5" w:rsidRDefault="00021DC7" w:rsidP="00021DC7">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7026,8 +6887,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="34BB5DB0" w14:textId="77777777" w:rsidR="006F7154" w:rsidRPr="00BC03D5" w:rsidRDefault="006F7154"
-     w:rsidP="00021DC7">
+<w:p w14:paraId="34BB5DB0" w14:textId="77777777" w:rsidR="006F7154" w:rsidRPr="00BC03D5" w:rsidRDefault="006F7154" w:rsidP="00021DC7">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7041,8 +6901,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="66526FBC" w14:textId="77777777" w:rsidR="006F7154" w:rsidRPr="00BC03D5" w:rsidRDefault="006F7154"
-     w:rsidP="00021DC7">
+<w:p w14:paraId="66526FBC" w14:textId="77777777" w:rsidR="006F7154" w:rsidRPr="00BC03D5" w:rsidRDefault="006F7154" w:rsidP="00021DC7">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7056,8 +6915,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="13942A41" w14:textId="19EC5AAE" w:rsidR="00C3530D" w:rsidRPr="00BC03D5" w:rsidRDefault="00C3530D"
-     w:rsidP="00C3530D">
+<w:p w14:paraId="13942A41" w14:textId="19EC5AAE" w:rsidR="00C3530D" w:rsidRPr="00BC03D5" w:rsidRDefault="00C3530D" w:rsidP="00C3530D">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -7092,8 +6950,7 @@
 <w:t>circular economy implementation in the eu </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="48DD1618" w14:textId="77777777" w:rsidR="008E13BB" w:rsidRPr="00BC03D5" w:rsidRDefault="008E13BB"
-     w:rsidP="008E13BB">
+<w:p w14:paraId="48DD1618" w14:textId="77777777" w:rsidR="008E13BB" w:rsidRPr="00BC03D5" w:rsidRDefault="008E13BB" w:rsidP="008E13BB">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7109,8 +6966,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="1AF35998" w14:textId="77777777" w:rsidR="00302BCD" w:rsidRPr="00BC03D5" w:rsidRDefault="00302BCD"
-     w:rsidP="008E13BB">
+<w:p w14:paraId="1AF35998" w14:textId="77777777" w:rsidR="00302BCD" w:rsidRPr="00BC03D5" w:rsidRDefault="00302BCD" w:rsidP="008E13BB">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7126,8 +6982,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="324BA625" w14:textId="5D5FAB61" w:rsidR="004D5A9C" w:rsidRPr="00BC03D5" w:rsidRDefault="004D5A9C"
-     w:rsidP="004D5A9C">
+<w:p w14:paraId="324BA625" w14:textId="5D5FAB61" w:rsidR="004D5A9C" w:rsidRPr="00BC03D5" w:rsidRDefault="004D5A9C" w:rsidP="004D5A9C">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -7177,8 +7032,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="591CEC57" w14:textId="59C1CC55" w:rsidR="004D5A9C" w:rsidRPr="00BC03D5" w:rsidRDefault="004D5A9C"
-     w:rsidP="00302BCD">
+<w:p w14:paraId="591CEC57" w14:textId="59C1CC55" w:rsidR="004D5A9C" w:rsidRPr="00BC03D5" w:rsidRDefault="004D5A9C" w:rsidP="00302BCD">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7223,8 +7077,7 @@
 <w:t>sustainable production and consumption 26 2021 187–202 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="33DD6AEB" w14:textId="77777777" w:rsidR="004D5A9C" w:rsidRPr="00BC03D5" w:rsidRDefault="004D5A9C"
-     w:rsidP="00302BCD">
+<w:p w14:paraId="33DD6AEB" w14:textId="77777777" w:rsidR="004D5A9C" w:rsidRPr="00BC03D5" w:rsidRDefault="004D5A9C" w:rsidP="00302BCD">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7235,8 +7088,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="3C23C164" w14:textId="7B3EF47A" w:rsidR="00C3530D" w:rsidRPr="00BC03D5" w:rsidRDefault="00C3530D"
-     w:rsidP="00302BCD">
+<w:p w14:paraId="3C23C164" w14:textId="7B3EF47A" w:rsidR="00C3530D" w:rsidRPr="00BC03D5" w:rsidRDefault="00C3530D" w:rsidP="00302BCD">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7266,8 +7118,7 @@
 <w:t>principle industry like mine and quarry health equipment and entertainment and recreation have have a slow approach toward ce </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="27DC2CD5" w14:textId="77777777" w:rsidR="00C3530D" w:rsidRPr="00BC03D5" w:rsidRDefault="00C3530D"
-     w:rsidP="00C3530D">
+<w:p w14:paraId="27DC2CD5" w14:textId="77777777" w:rsidR="00C3530D" w:rsidRPr="00BC03D5" w:rsidRDefault="00C3530D" w:rsidP="00C3530D">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7278,8 +7129,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="4EE6AAAE" w14:textId="2ED22693" w:rsidR="0071473C" w:rsidRPr="00BC03D5" w:rsidRDefault="00182D38"
-     w:rsidP="00C3530D">
+<w:p w14:paraId="4EE6AAAE" w14:textId="2ED22693" w:rsidR="0071473C" w:rsidRPr="00BC03D5" w:rsidRDefault="00182D38" w:rsidP="00C3530D">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -7307,8 +7157,7 @@
 <w:t>circular bioeconomy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="108AECE8" w14:textId="77777777" w:rsidR="003C03B1" w:rsidRPr="00BC03D5" w:rsidRDefault="003C03B1"
-     w:rsidP="0099769A">
+<w:p w14:paraId="108AECE8" w14:textId="77777777" w:rsidR="003C03B1" w:rsidRPr="00BC03D5" w:rsidRDefault="003C03B1" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -7320,8 +7169,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="2A19375D" w14:textId="01AE9FB4" w:rsidR="003C03B1" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="2A19375D" w14:textId="01AE9FB4" w:rsidR="003C03B1" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -7348,8 +7196,7 @@
 <w:t>biobased economy bioeconomy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4DF70DB1" w14:textId="7371EEBA" w:rsidR="003E2662" w:rsidRPr="00BC03D5" w:rsidRDefault="003E2662"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="4DF70DB1" w14:textId="7371EEBA" w:rsidR="003E2662" w:rsidRPr="00BC03D5" w:rsidRDefault="003E2662" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -7365,8 +7212,7 @@
 <w:t>eu commission definition strong development of the bioeconomy will help the eu accelerate progress toward a circular and lowcarbon economy it will help modernize and strengthen the eu industrial base create new value chain and green more costeffective industrial process while protect biodiversity and the environment </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="15C9315A" w14:textId="3762077A" w:rsidR="00865C51" w:rsidRPr="00BC03D5" w:rsidRDefault="000E3CD9"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="15C9315A" w14:textId="3762077A" w:rsidR="00865C51" w:rsidRPr="00BC03D5" w:rsidRDefault="000E3CD9" w:rsidP="00B64ACF">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -7490,8 +7336,7 @@
 <w:t>in the production of good service or energy the term be widely use by regional development agency national and international organization and biotechnology company they be closely link to the evolution of the biotechnology industry and the capacity to study understand and manipulate genetic material that ha be possible due to scientific research and technological development thi include the application of scientific and technological development to agriculture health chemical and energy industry </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="174984A6" w14:textId="1B0D4C40" w:rsidR="000E3CD9" w:rsidRPr="00BC03D5" w:rsidRDefault="000E3CD9"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="174984A6" w14:textId="1B0D4C40" w:rsidR="000E3CD9" w:rsidRPr="00BC03D5" w:rsidRDefault="000E3CD9" w:rsidP="00B64ACF">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -7509,8 +7354,7 @@
 <w:t>the term bioeconomy be and biobased economy bbe be sometime use interchangeably however it be worth to distinguish them the biobased economy take into consideration the production of nonfood good whilst bioeconomy cover both biobased economy and the production and use of food and fee </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="695C701B" w14:textId="3973F5AE" w:rsidR="000E3CD9" w:rsidRPr="00BC03D5" w:rsidRDefault="000E3CD9"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="695C701B" w14:textId="3973F5AE" w:rsidR="000E3CD9" w:rsidRPr="00BC03D5" w:rsidRDefault="000E3CD9" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -7600,8 +7444,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1A45A649" w14:textId="788C3228" w:rsidR="000E3CD9" w:rsidRPr="00BC03D5" w:rsidRDefault="000E3CD9"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="1A45A649" w14:textId="788C3228" w:rsidR="000E3CD9" w:rsidRPr="00BC03D5" w:rsidRDefault="000E3CD9" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -7613,8 +7456,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7D08F643" w14:textId="77777777" w:rsidR="000E3CD9" w:rsidRPr="00BC03D5" w:rsidRDefault="000E3CD9"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="7D08F643" w14:textId="77777777" w:rsidR="000E3CD9" w:rsidRPr="00BC03D5" w:rsidRDefault="000E3CD9" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -7641,8 +7483,7 @@
 <w:t>the bioeconomy bring together variou sector of the economy that produce proces and reuse renewable biological resource agriculture forestry fishery food biobased chemical and material and bioenergy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="03C19FA2" w14:textId="20017B39" w:rsidR="000E3CD9" w:rsidRPr="00BC03D5" w:rsidRDefault="0061145F"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="03C19FA2" w14:textId="20017B39" w:rsidR="000E3CD9" w:rsidRPr="00BC03D5" w:rsidRDefault="0061145F" w:rsidP="00B64ACF">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -7663,8 +7504,7 @@
 <w:t>one opportunity wa make economic use of the emerge new potential of use biotechnology a indicate above another opportunity inherent in the concept of the bioeconomy be the replacement of fossilbased resource by biobased resource both for energy and for material use in develop the concept of the bioeconomy in the eu the label “knowledgebased” wa add so that it become the “knowledgebased bioeconomy” the label “knowledgebased” wa in line with the eu innovation policy that prevail at the time </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5622EF96" w14:textId="3F1FCBB0" w:rsidR="0061145F" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="5622EF96" w14:textId="3F1FCBB0" w:rsidR="0061145F" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00B64ACF">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -7693,8 +7533,7 @@
 <w:t>he concept of the knowledgebased economy reflect the vision of achieve economic growth through hightechnology industry which require investment in innovation and highly skilled labor </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="631CA79F" w14:textId="51660F6B" w:rsidR="0061145F" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="631CA79F" w14:textId="51660F6B" w:rsidR="0061145F" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00B64ACF">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7763,8 +7602,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6C764903" w14:textId="77777777" w:rsidR="00E8570C" w:rsidRPr="00BC03D5" w:rsidRDefault="00E8570C"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="6C764903" w14:textId="77777777" w:rsidR="00E8570C" w:rsidRPr="00BC03D5" w:rsidRDefault="00E8570C" w:rsidP="00B64ACF">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7778,8 +7616,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="4D906A88" w14:textId="124B1004" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="4D906A88" w14:textId="124B1004" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 <w:rPr>
@@ -7803,8 +7640,7 @@
 <w:t>use and application </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3853B0F5" w14:textId="32FAE630" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="3853B0F5" w14:textId="32FAE630" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00E728F6">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -7828,8 +7664,7 @@
 <w:t>main product category be </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7DB880C4" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="7DB880C4" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:autoSpaceDE w:val="0"/>
@@ -7863,8 +7698,7 @@
 <w:t>therapeutic </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2A30D046" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="2A30D046" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:autoSpaceDE w:val="0"/>
@@ -7898,8 +7732,7 @@
 <w:t>biologic and vaccine </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2DB2C4A7" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="2DB2C4A7" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:autoSpaceDE w:val="0"/>
@@ -7943,8 +7776,7 @@
 <w:t>diagnostic and personalize medicine </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3E2F0F7D" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="3E2F0F7D" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:autoSpaceDE w:val="0"/>
@@ -7978,8 +7810,7 @@
 <w:t>medical device </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2E71F991" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="2E71F991" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:autoSpaceDE w:val="0"/>
@@ -8013,8 +7844,7 @@
 <w:t>combination devicetherapeutic </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="657FEA45" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="657FEA45" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:autoSpaceDE w:val="0"/>
@@ -8048,8 +7878,7 @@
 <w:t>digital health it application </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="774B348D" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="774B348D" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:autoSpaceDE w:val="0"/>
@@ -8083,8 +7912,7 @@
 <w:t>research instrument and tool </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1B2BFD1C" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="1B2BFD1C" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:autoSpaceDE w:val="0"/>
@@ -8118,8 +7946,7 @@
 <w:t>biocrop </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0199E6A1" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="0199E6A1" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:autoSpaceDE w:val="0"/>
@@ -8153,8 +7980,7 @@
 <w:t>biofuel </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="08315E99" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="08315E99" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00B64ACF">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:autoSpaceDE w:val="0"/>
@@ -8188,8 +8014,7 @@
 <w:t>industrial biotechnology </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6C60830D" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="6C60830D" w14:textId="77777777" w:rsidR="00B64ACF" w:rsidRPr="00BC03D5" w:rsidRDefault="00B64ACF" w:rsidP="00B64ACF">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8203,8 +8028,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="61FC4520" w14:textId="77777777" w:rsidR="00E8570C" w:rsidRPr="00BC03D5" w:rsidRDefault="00E8570C"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="61FC4520" w14:textId="77777777" w:rsidR="00E8570C" w:rsidRPr="00BC03D5" w:rsidRDefault="00E8570C" w:rsidP="00B64ACF">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8218,8 +8042,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="10F588E7" w14:textId="77777777" w:rsidR="000018F6" w:rsidRPr="00BC03D5" w:rsidRDefault="000018F6"
-     w:rsidP="00B64ACF">
+<w:p w14:paraId="10F588E7" w14:textId="77777777" w:rsidR="000018F6" w:rsidRPr="00BC03D5" w:rsidRDefault="000018F6" w:rsidP="00B64ACF">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8240,8 +8063,7 @@
 </w:sectPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="3C4A33E3" w14:textId="6C79435E" w:rsidR="00E8570C" w:rsidRPr="00BC03D5" w:rsidRDefault="000018F6"
-     w:rsidP="00E8570C">
+<w:p w14:paraId="3C4A33E3" w14:textId="6C79435E" w:rsidR="00E8570C" w:rsidRPr="00BC03D5" w:rsidRDefault="000018F6" w:rsidP="00E8570C">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:rPr>
@@ -8263,8 +8085,7 @@
 <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="25040105" wp14:editId="7B026CE4">
 <wp:extent cx="8229600" cy="4627880"/>
 <wp:effectExtent l="0" t="0" r="0" b="1270"/>
-<wp:docPr id="567369175" name="Picture 1"
-          descr="The figure shows a diagram with a bar, a circle, another bar and a list of words. The bars and circles are arranged below each other and contain words."/>
+<wp:docPr id="567369175" name="Picture 1" descr="The figure shows a diagram with a bar, a circle, another bar and a list of words. The bars and circles are arranged below each other and contain words."/>
 <wp:cNvGraphicFramePr>
 <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
 </wp:cNvGraphicFramePr>
@@ -8272,8 +8093,7 @@
 <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
 <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
 <pic:nvPicPr>
-<pic:cNvPr id="0" name="Picture 1"
-           descr="The figure shows a diagram with a bar, a circle, another bar and a list of words. The bars and circles are arranged below each other and contain words."/>
+<pic:cNvPr id="0" name="Picture 1" descr="The figure shows a diagram with a bar, a circle, another bar and a list of words. The bars and circles are arranged below each other and contain words."/>
 <pic:cNvPicPr>
 <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
 </pic:cNvPicPr>
@@ -8311,8 +8131,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="1C9180C6" w14:textId="52D07780" w:rsidR="00E8570C" w:rsidRPr="00BC03D5" w:rsidRDefault="00E8570C"
-     w:rsidP="00E8570C">
+<w:p w14:paraId="1C9180C6" w14:textId="52D07780" w:rsidR="00E8570C" w:rsidRPr="00BC03D5" w:rsidRDefault="00E8570C" w:rsidP="00E8570C">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -8326,8 +8145,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="6AABF850" w14:textId="62534016" w:rsidR="000018F6" w:rsidRPr="00BC03D5" w:rsidRDefault="00E728F6"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="6AABF850" w14:textId="62534016" w:rsidR="000018F6" w:rsidRPr="00BC03D5" w:rsidRDefault="00E728F6" w:rsidP="00E728F6">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8393,8 +8211,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="66D6CEE2" w14:textId="77777777" w:rsidR="000018F6" w:rsidRPr="00BC03D5" w:rsidRDefault="000018F6"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="66D6CEE2" w14:textId="77777777" w:rsidR="000018F6" w:rsidRPr="00BC03D5" w:rsidRDefault="000018F6" w:rsidP="00E728F6">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8408,8 +8225,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="66FC2466" w14:textId="2982D0A7" w:rsidR="00C51C62" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E8570C">
+<w:p w14:paraId="66FC2466" w14:textId="2982D0A7" w:rsidR="00C51C62" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E8570C">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -8478,8 +8294,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="01A08E1D" w14:textId="362C9E7C" w:rsidR="00793DAB" w:rsidRPr="00BC03D5" w:rsidRDefault="00E728F6"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="01A08E1D" w14:textId="362C9E7C" w:rsidR="00793DAB" w:rsidRPr="00BC03D5" w:rsidRDefault="00E728F6" w:rsidP="00E728F6">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8526,8 +8341,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3C4D8359" w14:textId="77777777" w:rsidR="00793DAB" w:rsidRPr="00BC03D5" w:rsidRDefault="00793DAB"
-     w:rsidP="00E8570C">
+<w:p w14:paraId="3C4D8359" w14:textId="77777777" w:rsidR="00793DAB" w:rsidRPr="00BC03D5" w:rsidRDefault="00793DAB" w:rsidP="00E8570C">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -8541,8 +8355,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="4B682D5F" w14:textId="77777777" w:rsidR="00793DAB" w:rsidRPr="00BC03D5" w:rsidRDefault="00793DAB"
-     w:rsidP="00E8570C">
+<w:p w14:paraId="4B682D5F" w14:textId="77777777" w:rsidR="00793DAB" w:rsidRPr="00BC03D5" w:rsidRDefault="00793DAB" w:rsidP="00E8570C">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -8562,8 +8375,7 @@
 </w:sectPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="644D484F" w14:textId="7EFB9E34" w:rsidR="00E728F6" w:rsidRPr="00BC03D5" w:rsidRDefault="00E728F6"
-     w:rsidP="007C0B6C">
+<w:p w14:paraId="644D484F" w14:textId="7EFB9E34" w:rsidR="00E728F6" w:rsidRPr="00BC03D5" w:rsidRDefault="00E728F6" w:rsidP="007C0B6C">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 </w:pPr>
@@ -8572,8 +8384,7 @@
 <w:t>type of application function of domain of interest </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="05E2C284" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="007C0B6C">
+<w:p w14:paraId="05E2C284" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="007C0B6C">
 <w:pPr>
 <w:pStyle w:val="Heading3"/>
 <w:rPr>
@@ -8589,8 +8400,7 @@
 <w:t>environment </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="674CF07B" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="674CF07B" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -8599,8 +8409,7 @@
 <w:t>the aim of environmental biotechnology be to develop sustainable environmental practice that reduce pollution and waste the follow be example of environmental biotech </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0DB2972C" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="0DB2972C" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8632,8 +8441,7 @@
 <w:t>use genetically engineer microorganism to purify soil of heavy metal and other pollutant </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="175E2976" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="175E2976" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8665,8 +8473,7 @@
 <w:t>introduce microorganism into waste site in order to organically break down nonrecyclable waste </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1269495E" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="1269495E" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8698,8 +8505,7 @@
 <w:t>break down waste such a plastic in soil and water </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6C306925" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="6C306925" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8731,8 +8537,7 @@
 <w:t>stay fresh long and reduce food waste </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="183EB405" w14:textId="61DF7106" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="183EB405" w14:textId="61DF7106" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8788,8 +8593,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="388CD5CB" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="388CD5CB" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8841,8 +8645,7 @@
 <w:t>emission when extract and use </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0DF2AC82" w14:textId="3CFA3332" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="0DF2AC82" w14:textId="3CFA3332" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:spacing w:after="0"/>
 <w:jc w:val="both"/>
@@ -8861,8 +8664,7 @@
 <w:t>most genetic engineer be perform in laboratory </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="31D0AFF3" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="31D0AFF3" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:pStyle w:val="Heading3"/>
 <w:jc w:val="both"/>
@@ -8879,8 +8681,7 @@
 <w:t>medicine </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2DFAC403" w14:textId="40BB4C56" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="2DFAC403" w14:textId="40BB4C56" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -8892,8 +8693,7 @@
 <w:t>s </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="083E6C8D" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="083E6C8D" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8916,8 +8716,7 @@
 <w:t>stem cell research that help replace or repair dead or defective cell </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5DD71F4F" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="5DD71F4F" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8940,8 +8739,7 @@
 <w:t>antibiotic development </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="20D8FB7C" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="20D8FB7C" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8964,8 +8762,7 @@
 <w:t>gene therapy for disease such a leukemium </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3F347919" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="3F347919" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8988,8 +8785,7 @@
 <w:t>research into dangerou pathogen and the antibody that fight them </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5B167EA2" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00000000"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="5B167EA2" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00000000" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9024,8 +8820,7 @@
 <w:t>or grow of organ and bone in lab and </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="090502CB" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="090502CB" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9068,8 +8863,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2048D57A" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="2048D57A" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:pStyle w:val="Heading3"/>
 <w:jc w:val="both"/>
@@ -9086,8 +8880,7 @@
 <w:t>industry </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="253277D9" w14:textId="6C6C6298" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="253277D9" w14:textId="6C6C6298" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -9102,8 +8895,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="178B0224" w14:textId="70D87244" w:rsidR="00CF1844" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="178B0224" w14:textId="70D87244" w:rsidR="00CF1844" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936" w:rsidP="00E728F6">
 <w:pPr>
 <w:pStyle w:val="Default"/>
 <w:numPr>
@@ -9122,8 +8914,7 @@
 <w:t>production of industrial enzyme </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7CE1808A" w14:textId="5484AE4F" w:rsidR="00CF1844" w:rsidRPr="00BC03D5" w:rsidRDefault="00CF1844"
-     w:rsidP="00514936">
+<w:p w14:paraId="7CE1808A" w14:textId="5484AE4F" w:rsidR="00CF1844" w:rsidRPr="00BC03D5" w:rsidRDefault="00CF1844" w:rsidP="00514936">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:numPr>
@@ -9145,8 +8936,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1C2C8119" w14:textId="517AD8B5" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="1C2C8119" w14:textId="517AD8B5" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9177,8 +8967,7 @@
 <w:t>ermentation and the use of enzyme and microbe to streamline chemical manufacture and reduce operational cost and chemical emission </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="72615793" w14:textId="3FAB3001" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="72615793" w14:textId="3FAB3001" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9210,8 +8999,7 @@
 <w:t>iofuel that use renewable crop such a corn to produce combustible fuel instead of natural nonrenewable fossil fuel resource such a petroleum and oil and </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1B6984C9" w14:textId="0B954451" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="1B6984C9" w14:textId="0B954451" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9242,8 +9030,7 @@
 <w:t>iodegradable garment and textile make from the protein of live organism such a the silk protein of spider </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3A17D987" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="3A17D987" w14:textId="77777777" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:pStyle w:val="Heading3"/>
 <w:jc w:val="both"/>
@@ -9260,8 +9047,7 @@
 <w:t>agriculture </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="60C414E1" w14:textId="39DABEFF" w:rsidR="00E728F6" w:rsidRPr="00BC03D5" w:rsidRDefault="00E728F6"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="60C414E1" w14:textId="39DABEFF" w:rsidR="00E728F6" w:rsidRPr="00BC03D5" w:rsidRDefault="00E728F6" w:rsidP="00E728F6">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -9317,8 +9103,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4000E6F6" w14:textId="3BBD99A0" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="4000E6F6" w14:textId="3BBD99A0" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="007C0B6C" w:rsidP="00E728F6">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -9351,8 +9136,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4800E66B" w14:textId="04329D03" w:rsidR="00514936" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936"
-     w:rsidP="00514936">
+<w:p w14:paraId="4800E66B" w14:textId="04329D03" w:rsidR="00514936" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936" w:rsidP="00514936">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -9387,8 +9171,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1192CE4C" w14:textId="088720E2" w:rsidR="00514936" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936"
-     w:rsidP="00514936">
+<w:p w14:paraId="1192CE4C" w14:textId="088720E2" w:rsidR="00514936" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936" w:rsidP="00514936">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -9426,8 +9209,7 @@
 <w:t>base on genetically modify organism </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7DA939D0" w14:textId="74B4400F" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="7DA939D0" w14:textId="74B4400F" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9458,8 +9240,7 @@
 <w:t>iologically produce pesticide and herbicide that be le harmful to human than chemical one </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="601BE795" w14:textId="268E09E7" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="601BE795" w14:textId="268E09E7" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9490,8 +9271,7 @@
 <w:t>roughtresistant crop </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="29902542" w14:textId="5BA4850B" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="29902542" w14:textId="5BA4850B" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9522,8 +9302,7 @@
 <w:t>inimal spaceresilient crop </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="19F21E8F" w14:textId="3B385875" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="19F21E8F" w14:textId="3B385875" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9554,8 +9333,7 @@
 <w:t>eat grow in lab or use 3d printer </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="788B15A9" w14:textId="38EA47DF" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="788B15A9" w14:textId="38EA47DF" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9586,8 +9364,7 @@
 <w:t>lutenfree grain friendly to sufferer of celiac </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0ACAD9B3" w14:textId="79AD21A3" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="0ACAD9B3" w14:textId="79AD21A3" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9618,8 +9395,7 @@
 <w:t>elective breed that produce healthy big livestock and crop and </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="230E71AF" w14:textId="002C513E" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="230E71AF" w14:textId="002C513E" w:rsidR="007C0B6C" w:rsidRPr="00BC03D5" w:rsidRDefault="00514936" w:rsidP="00E728F6">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9650,8 +9426,7 @@
 <w:t>utrient supplementation that infuse food with add nutrient to improve diet and medical treatment </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1434DF53" w14:textId="77777777" w:rsidR="00C51C62" w:rsidRPr="00BC03D5" w:rsidRDefault="00C51C62"
-     w:rsidP="00E728F6">
+<w:p w14:paraId="1434DF53" w14:textId="77777777" w:rsidR="00C51C62" w:rsidRPr="00BC03D5" w:rsidRDefault="00C51C62" w:rsidP="00E728F6">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -9665,8 +9440,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="6D0C1EE8" w14:textId="71B8EED8" w:rsidR="0061145F" w:rsidRPr="00BC03D5" w:rsidRDefault="006C78C5"
-     w:rsidP="0099769A">
+<w:p w14:paraId="6D0C1EE8" w14:textId="71B8EED8" w:rsidR="0061145F" w:rsidRPr="00BC03D5" w:rsidRDefault="006C78C5" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -9688,8 +9462,7 @@
 <w:t>2 circular bioeconomy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3C20D7B7" w14:textId="237396B8" w:rsidR="0061145F" w:rsidRPr="00BC03D5" w:rsidRDefault="00870C06"
-     w:rsidP="0099769A">
+<w:p w14:paraId="3C20D7B7" w14:textId="237396B8" w:rsidR="0061145F" w:rsidRPr="00BC03D5" w:rsidRDefault="00870C06" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -9709,8 +9482,7 @@
 <w:t>biomas be project to play a key role in meet global climate target to achieve a resourceefficient biomas use european bioeconomy strategy increasingly consider the concept of a circular bioeconomy cbe </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0A90664E" w14:textId="702C09A3" w:rsidR="00870C06" w:rsidRPr="00BC03D5" w:rsidRDefault="006C78C5"
-     w:rsidP="0099769A">
+<w:p w14:paraId="0A90664E" w14:textId="702C09A3" w:rsidR="00870C06" w:rsidRPr="00BC03D5" w:rsidRDefault="006C78C5" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -9784,8 +9556,7 @@
 <w:t>depend on a close cooperation of local actor from agriculture industry research and regional public institution eg within bioeconomy cluster </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0CD735CE" w14:textId="2E9C51C9" w:rsidR="00870C06" w:rsidRPr="00BC03D5" w:rsidRDefault="00BC03D5"
-     w:rsidP="0099769A">
+<w:p w14:paraId="0CD735CE" w14:textId="2E9C51C9" w:rsidR="00870C06" w:rsidRPr="00BC03D5" w:rsidRDefault="00BC03D5" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -9873,8 +9644,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2C9BD14E" w14:textId="77777777" w:rsidR="00C96268" w:rsidRPr="00BC03D5" w:rsidRDefault="00C96268"
-     w:rsidP="0099769A">
+<w:p w14:paraId="2C9BD14E" w14:textId="77777777" w:rsidR="00C96268" w:rsidRPr="00BC03D5" w:rsidRDefault="00C96268" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -9885,8 +9655,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="22FD7BAB" w14:textId="6B3EA5F2" w:rsidR="00C96268" w:rsidRPr="00BC03D5" w:rsidRDefault="00C96268"
-     w:rsidP="0099769A">
+<w:p w14:paraId="22FD7BAB" w14:textId="6B3EA5F2" w:rsidR="00C96268" w:rsidRPr="00BC03D5" w:rsidRDefault="00C96268" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -9939,8 +9708,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="138E6882" w14:textId="367AC49E" w:rsidR="00C96268" w:rsidRPr="00BC03D5" w:rsidRDefault="00BC03D5"
-     w:rsidP="0099769A">
+<w:p w14:paraId="138E6882" w14:textId="367AC49E" w:rsidR="00C96268" w:rsidRPr="00BC03D5" w:rsidRDefault="00BC03D5" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -9966,8 +9734,7 @@
 <w:t>the circular bioeconomy cbe in relation with bioeconomy beand circular economy ce </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="09A6B3FB" w14:textId="77777777" w:rsidR="003E2BF5" w:rsidRPr="00BC03D5" w:rsidRDefault="003E2BF5"
-     w:rsidP="0099769A">
+<w:p w14:paraId="09A6B3FB" w14:textId="77777777" w:rsidR="003E2BF5" w:rsidRPr="00BC03D5" w:rsidRDefault="003E2BF5" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -9979,8 +9746,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="2573D5CC" w14:textId="4770163B" w:rsidR="003E2BF5" w:rsidRPr="00BC03D5" w:rsidRDefault="003E2BF5"
-     w:rsidP="0099769A">
+<w:p w14:paraId="2573D5CC" w14:textId="4770163B" w:rsidR="003E2BF5" w:rsidRPr="00BC03D5" w:rsidRDefault="003E2BF5" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -10058,8 +9824,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0B146083" w14:textId="02BCD721" w:rsidR="00CD33D3" w:rsidRPr="00BC03D5" w:rsidRDefault="00CD33D3"
-     w:rsidP="005C25B0">
+<w:p w14:paraId="0B146083" w14:textId="02BCD721" w:rsidR="00CD33D3" w:rsidRPr="00BC03D5" w:rsidRDefault="00CD33D3" w:rsidP="005C25B0">
 <w:pPr>
 <w:jc w:val="center"/>
 <w:rPr>
@@ -10112,8 +9877,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="4004488C" w14:textId="30A95D1F" w:rsidR="00CD33D3" w:rsidRPr="005C25B0" w:rsidRDefault="005C25B0"
-     w:rsidP="0099769A">
+<w:p w14:paraId="4004488C" w14:textId="30A95D1F" w:rsidR="00CD33D3" w:rsidRPr="005C25B0" w:rsidRDefault="005C25B0" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -10163,8 +9927,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4C16D13A" w14:textId="77777777" w:rsidR="00CD33D3" w:rsidRPr="00BC03D5" w:rsidRDefault="00CD33D3"
-     w:rsidP="0099769A">
+<w:p w14:paraId="4C16D13A" w14:textId="77777777" w:rsidR="00CD33D3" w:rsidRPr="00BC03D5" w:rsidRDefault="00CD33D3" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -10176,8 +9939,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="2CF4B1F1" w14:textId="14E83189" w:rsidR="00CD33D3" w:rsidRPr="00BC03D5" w:rsidRDefault="00CD33D3"
-     w:rsidP="0013756D">
+<w:p w14:paraId="2CF4B1F1" w14:textId="14E83189" w:rsidR="00CD33D3" w:rsidRPr="00BC03D5" w:rsidRDefault="00CD33D3" w:rsidP="0013756D">
 <w:pPr>
 <w:jc w:val="center"/>
 <w:rPr>
@@ -10230,8 +9992,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="72B23FDF" w14:textId="7B3BD001" w:rsidR="00CD33D3" w:rsidRPr="0013756D" w:rsidRDefault="0013756D"
-     w:rsidP="0099769A">
+<w:p w14:paraId="72B23FDF" w14:textId="7B3BD001" w:rsidR="00CD33D3" w:rsidRPr="0013756D" w:rsidRDefault="0013756D" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -10281,8 +10042,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="021D46AB" w14:textId="77777777" w:rsidR="00CD33D3" w:rsidRPr="00BC03D5" w:rsidRDefault="00CD33D3"
-     w:rsidP="0099769A">
+<w:p w14:paraId="021D46AB" w14:textId="77777777" w:rsidR="00CD33D3" w:rsidRPr="00BC03D5" w:rsidRDefault="00CD33D3" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -10294,8 +10054,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="27B88002" w14:textId="0684A7F7" w:rsidR="00CD33D3" w:rsidRPr="00BC03D5" w:rsidRDefault="00CD33D3"
-     w:rsidP="0099769A">
+<w:p w14:paraId="27B88002" w14:textId="0684A7F7" w:rsidR="00CD33D3" w:rsidRPr="00BC03D5" w:rsidRDefault="00CD33D3" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -10346,8 +10105,7 @@
 <w:t>in theory thi cascade would follow a movement down the biobased value pyramid and the waste hierarchy move from high value to low value biomas application move from the upper part of the biobased value pyramid and the waste hierarchy to the low part theoretically go along with decrease option for far use and cascade opportunity due to the lower of the resource quality stay on the upper part of both hierarchy would therefore theoretically be desirable in a cbe however in practice application on the low part might still be preferable from an environmental and economic perspective </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0B52C61B" w14:textId="445592BC" w:rsidR="00E50693" w:rsidRPr="00BC03D5" w:rsidRDefault="00E50693"
-     w:rsidP="0099769A">
+<w:p w14:paraId="0B52C61B" w14:textId="445592BC" w:rsidR="00E50693" w:rsidRPr="00BC03D5" w:rsidRDefault="00E50693" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -10367,8 +10125,7 @@
 <w:t>practitioner in bioeconomy cluster can support the development toward a cbe by 1 facilitate cooperation between stakeholder along and acros supply chain 2 foster biobased product design that facilitate durability reuse repair recycle or biodegradability 3 foster the use of residue and waste a resource 4 intensify the cooperation with the waste management sector to ensure that the biobased product can be integrate in collection separation recycle and compost scheme </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0B83D2E6" w14:textId="0F1CEA3C" w:rsidR="00D32F29" w:rsidRPr="009B689D" w:rsidRDefault="00D32F29"
-     w:rsidP="009B689D">
+<w:p w14:paraId="0B83D2E6" w14:textId="0F1CEA3C" w:rsidR="00D32F29" w:rsidRPr="009B689D" w:rsidRDefault="00D32F29" w:rsidP="009B689D">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10725,8 +10482,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4908839D" w14:textId="6299D559" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40"
-     w:rsidP="00C22B40">
+<w:p w14:paraId="4908839D" w14:textId="6299D559" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40" w:rsidP="00C22B40">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10773,8 +10529,7 @@
 <w:t>e an inclusive european economic political and societal project that be urgently need </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="66AE0BF4" w14:textId="77777777" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40"
-     w:rsidP="00C22B40">
+<w:p w14:paraId="66AE0BF4" w14:textId="77777777" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40" w:rsidP="00C22B40">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10797,8 +10552,7 @@
 <w:t>the shift to a circular biobased economic paradigm should be a longterm strategy for decouple economic growth from environmental degradation </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3E0D7B63" w14:textId="422F7D40" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40"
-     w:rsidP="00C22B40">
+<w:p w14:paraId="3E0D7B63" w14:textId="422F7D40" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40" w:rsidP="00C22B40">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10890,8 +10644,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="26436673" w14:textId="77777777" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40"
-     w:rsidP="00C22B40">
+<w:p w14:paraId="26436673" w14:textId="77777777" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40" w:rsidP="00C22B40">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10912,8 +10665,7 @@
 <w:t>circular bioeconomy strategy should not take sustainability a a give but addres it explicitly </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="02BE0952" w14:textId="0343DB0F" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40"
-     w:rsidP="00C22B40">
+<w:p w14:paraId="02BE0952" w14:textId="0343DB0F" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40" w:rsidP="00C22B40">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -11013,8 +10765,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4F784377" w14:textId="77777777" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40"
-     w:rsidP="00C22B40">
+<w:p w14:paraId="4F784377" w14:textId="77777777" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40" w:rsidP="00C22B40">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -11040,8 +10791,7 @@
 <w:t>natural capital be a necessary production input along with the traditional one </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="53C0FA4F" w14:textId="77777777" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40"
-     w:rsidP="00C22B40">
+<w:p w14:paraId="53C0FA4F" w14:textId="77777777" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40" w:rsidP="00C22B40">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -11067,8 +10817,7 @@
 <w:t>research development and innovation rampdampus need to increase to strengthen the foundation of a circular bioeconomy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2D4F7D85" w14:textId="77777777" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40"
-     w:rsidP="00C22B40">
+<w:p w14:paraId="2D4F7D85" w14:textId="77777777" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40" w:rsidP="00C22B40">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -11093,8 +10842,7 @@
 <w:t>a circular bioeconomy can help to support biodiversity and climate mitigation biodiversity and climate mitigation be necessary for a successful circular bioeconomy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5D8F2278" w14:textId="77777777" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40"
-     w:rsidP="00C22B40">
+<w:p w14:paraId="5D8F2278" w14:textId="77777777" w:rsidR="00C22B40" w:rsidRPr="00C22B40" w:rsidRDefault="00C22B40" w:rsidP="00C22B40">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -11106,8 +10854,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="6049220E" w14:textId="77777777" w:rsidR="009B689D" w:rsidRPr="00BC03D5" w:rsidRDefault="009B689D"
-     w:rsidP="009B689D">
+<w:p w14:paraId="6049220E" w14:textId="77777777" w:rsidR="009B689D" w:rsidRPr="00BC03D5" w:rsidRDefault="009B689D" w:rsidP="009B689D">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -11121,8 +10868,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="7D415766" w14:textId="4CF520FF" w:rsidR="00941F69" w:rsidRPr="00BC03D5" w:rsidRDefault="00941F69"
-     w:rsidP="00953CB4">
+<w:p w14:paraId="7D415766" w14:textId="4CF520FF" w:rsidR="00941F69" w:rsidRPr="00BC03D5" w:rsidRDefault="00941F69" w:rsidP="00953CB4">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -11176,8 +10922,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="182121EB" w14:textId="0F903C74" w:rsidR="00941F69" w:rsidRPr="00953CB4" w:rsidRDefault="00953CB4"
-     w:rsidP="00953CB4">
+<w:p w14:paraId="182121EB" w14:textId="0F903C74" w:rsidR="00941F69" w:rsidRPr="00953CB4" w:rsidRDefault="00953CB4" w:rsidP="00953CB4">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -11204,8 +10949,7 @@
 <w:t>societal economic and environmental benefit of cbe approach source adapt from bioways’ public consultation on the bioeconomy available at httpwwwbiowayseu </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4671AFF7" w14:textId="77777777" w:rsidR="00953CB4" w:rsidRPr="00953CB4" w:rsidRDefault="00953CB4"
-     w:rsidP="00953CB4">
+<w:p w14:paraId="4671AFF7" w14:textId="77777777" w:rsidR="00953CB4" w:rsidRPr="00953CB4" w:rsidRDefault="00953CB4" w:rsidP="00953CB4">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -11216,8 +10960,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="0A28EF2B" w14:textId="5F20038A" w:rsidR="00865C51" w:rsidRPr="00953CB4" w:rsidRDefault="00953CB4"
-     w:rsidP="00953CB4">
+<w:p w14:paraId="0A28EF2B" w14:textId="5F20038A" w:rsidR="00865C51" w:rsidRPr="00953CB4" w:rsidRDefault="00953CB4" w:rsidP="00953CB4">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11271,8 +11014,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5841FEB0" w14:textId="77777777" w:rsidR="00953CB4" w:rsidRPr="00953CB4" w:rsidRDefault="00953CB4"
-     w:rsidP="00953CB4">
+<w:p w14:paraId="5841FEB0" w14:textId="77777777" w:rsidR="00953CB4" w:rsidRPr="00953CB4" w:rsidRDefault="00953CB4" w:rsidP="00953CB4">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11294,8 +11036,7 @@
 <w:t>biorefining concept </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="76D48385" w14:textId="77777777" w:rsidR="00953CB4" w:rsidRPr="00BC03D5" w:rsidRDefault="00953CB4"
-     w:rsidP="00953CB4">
+<w:p w14:paraId="76D48385" w14:textId="77777777" w:rsidR="00953CB4" w:rsidRPr="00BC03D5" w:rsidRDefault="00953CB4" w:rsidP="00953CB4">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11322,8 +11063,7 @@
 <w:t>a biorefinery be an overall concept of a process plant where biomas feedstock be convert and extract into a spectrum of valuable product httpsknowledge4policyeceuropaeuglossaryitembiorefineryen </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="51C6807F" w14:textId="722775A1" w:rsidR="00953CB4" w:rsidRPr="00BC03D5" w:rsidRDefault="00953CB4"
-     w:rsidP="00953CB4">
+<w:p w14:paraId="51C6807F" w14:textId="722775A1" w:rsidR="00953CB4" w:rsidRPr="00BC03D5" w:rsidRDefault="00953CB4" w:rsidP="00953CB4">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11375,8 +11115,7 @@
 <w:t>economy it will result in costcompetitive coproduction of foodfeed ingredient biobased product and bioenergy combine with optimal socioeconomic and environmental impact efficient use of resource reduce ghg emission etc </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="09713D1C" w14:textId="77777777" w:rsidR="00953CB4" w:rsidRPr="00BC03D5" w:rsidRDefault="00953CB4"
-     w:rsidP="00953CB4">
+<w:p w14:paraId="09713D1C" w14:textId="77777777" w:rsidR="00953CB4" w:rsidRPr="00BC03D5" w:rsidRDefault="00953CB4" w:rsidP="00953CB4">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11388,8 +11127,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="06E9F57F" w14:textId="1BFD79BE" w:rsidR="001A07A7" w:rsidRPr="00BC03D5" w:rsidRDefault="001A07A7"
-     w:rsidP="0099769A">
+<w:p w14:paraId="06E9F57F" w14:textId="1BFD79BE" w:rsidR="001A07A7" w:rsidRPr="00BC03D5" w:rsidRDefault="001A07A7" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11456,8 +11194,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="1AC79B22" w14:textId="4AD5B0F3" w:rsidR="001A07A7" w:rsidRPr="009703CD" w:rsidRDefault="001A07A7"
-     w:rsidP="0099769A">
+<w:p w14:paraId="1AC79B22" w14:textId="4AD5B0F3" w:rsidR="001A07A7" w:rsidRPr="009703CD" w:rsidRDefault="001A07A7" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11520,8 +11257,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0024816C" w14:textId="77777777" w:rsidR="00B95765" w:rsidRPr="00953CB4" w:rsidRDefault="00B95765"
-     w:rsidP="0099769A">
+<w:p w14:paraId="0024816C" w14:textId="77777777" w:rsidR="00B95765" w:rsidRPr="00953CB4" w:rsidRDefault="00B95765" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11531,8 +11267,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="4CB2672A" w14:textId="684EC34A" w:rsidR="00B95765" w:rsidRPr="00BC03D5" w:rsidRDefault="00AF06A0"
-     w:rsidP="00953CB4">
+<w:p w14:paraId="4CB2672A" w14:textId="684EC34A" w:rsidR="00B95765" w:rsidRPr="00BC03D5" w:rsidRDefault="00AF06A0" w:rsidP="00953CB4">
 <w:pPr>
 <w:jc w:val="center"/>
 <w:rPr>
@@ -11550,8 +11285,7 @@
 <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="6A12508B" wp14:editId="4D238FC1">
 <wp:extent cx="2581275" cy="1771650"/>
 <wp:effectExtent l="0" t="0" r="9525" b="0"/>
-<wp:docPr id="1532210738" name="Picture 2"
-          descr="Biorefinery | Climate Technology Centre &amp; Network | Mon, 04/24/2017"/>
+<wp:docPr id="1532210738" name="Picture 2" descr="Biorefinery | Climate Technology Centre &amp; Network | Mon, 04/24/2017"/>
 <wp:cNvGraphicFramePr>
 <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
 </wp:cNvGraphicFramePr>
@@ -11597,8 +11331,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="0E30FD5E" w14:textId="56015BAD" w:rsidR="00AF06A0" w:rsidRPr="009703CD" w:rsidRDefault="00953CB4"
-     w:rsidP="0099769A">
+<w:p w14:paraId="0E30FD5E" w14:textId="56015BAD" w:rsidR="00AF06A0" w:rsidRPr="009703CD" w:rsidRDefault="00953CB4" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11655,8 +11388,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="3CBD2CAF" w14:textId="77777777" w:rsidR="00953CB4" w:rsidRPr="009703CD" w:rsidRDefault="00953CB4"
-     w:rsidP="00953CB4">
+<w:p w14:paraId="3CBD2CAF" w14:textId="77777777" w:rsidR="00953CB4" w:rsidRPr="009703CD" w:rsidRDefault="00953CB4" w:rsidP="00953CB4">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11678,8 +11410,7 @@
 <w:t>example of integrate biorefinery of biomas waste </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="56DECF22" w14:textId="77777777" w:rsidR="00953CB4" w:rsidRPr="00BC03D5" w:rsidRDefault="00953CB4"
-     w:rsidP="0099769A">
+<w:p w14:paraId="56DECF22" w14:textId="77777777" w:rsidR="00953CB4" w:rsidRPr="00BC03D5" w:rsidRDefault="00953CB4" w:rsidP="0099769A">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11689,8 +11420,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="36D92187" w14:textId="5B91EFA0" w:rsidR="00A43D4F" w:rsidRPr="00BC03D5" w:rsidRDefault="008A2064"
-     w:rsidP="009703CD">
+<w:p w14:paraId="36D92187" w14:textId="5B91EFA0" w:rsidR="00A43D4F" w:rsidRPr="00BC03D5" w:rsidRDefault="008A2064" w:rsidP="009703CD">
 <w:pPr>
 <w:jc w:val="center"/>
 <w:rPr>
@@ -11742,8 +11472,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="3604D35E" w14:textId="50A3D16C" w:rsidR="00441F49" w:rsidRPr="00BC03D5" w:rsidRDefault="009703CD"
-     w:rsidP="00441F49">
+<w:p w14:paraId="3604D35E" w14:textId="50A3D16C" w:rsidR="00441F49" w:rsidRPr="00BC03D5" w:rsidRDefault="009703CD" w:rsidP="00441F49">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11811,8 +11540,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="269CB244" w14:textId="722D8FB7" w:rsidR="008A2064" w:rsidRPr="00BC03D5" w:rsidRDefault="008A2064"
-     w:rsidP="008A2064">
+<w:p w14:paraId="269CB244" w14:textId="722D8FB7" w:rsidR="008A2064" w:rsidRPr="00BC03D5" w:rsidRDefault="008A2064" w:rsidP="008A2064">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11822,8 +11550,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="0126F852" w14:textId="09781060" w:rsidR="00441F49" w:rsidRPr="00BC03D5" w:rsidRDefault="001F1FFD"
-     w:rsidP="008A2064">
+<w:p w14:paraId="0126F852" w14:textId="09781060" w:rsidR="00441F49" w:rsidRPr="00BC03D5" w:rsidRDefault="001F1FFD" w:rsidP="008A2064">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11875,8 +11602,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="52608556" w14:textId="22D34C74" w:rsidR="00A717EB" w:rsidRPr="00BC03D5" w:rsidRDefault="009703CD"
-     w:rsidP="008A2064">
+<w:p w14:paraId="52608556" w14:textId="22D34C74" w:rsidR="00A717EB" w:rsidRPr="00BC03D5" w:rsidRDefault="009703CD" w:rsidP="008A2064">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11949,8 +11675,7 @@
 <w:t>bali tm proces httpswwwborregaardcom </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0A3F5B72" w14:textId="1F28C134" w:rsidR="0064145A" w:rsidRPr="00BC03D5" w:rsidRDefault="0064145A"
-     w:rsidP="008A2064">
+<w:p w14:paraId="0A3F5B72" w14:textId="1F28C134" w:rsidR="0064145A" w:rsidRPr="00BC03D5" w:rsidRDefault="0064145A" w:rsidP="008A2064">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -11964,8 +11689,7 @@
 <w:t>the bioprocessing of lignocellulosic biomas to produce biobased product under biorefinery setup be gain global attention the economic viability of thi biorefinery would be incline by the efficient bioconversion of all three major constituent of lignocellulosic biomas ie cellulose hemicellulose and lignin for valueadded biochemical and biofuel production although the lignocellulosic biorefinery setup ha a clear value proposition the commercial succes at the industrial scale be still inadequate thi can be attribute mainly to irregular biomas supply chain market uncertainty and scaleup challenge global research effort be underway by public and private sector to get deep market penetration a comprehensive account of important factor limitation and proposition be worth consideration for the commercial succes of lignocellulosic biorefinery </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5AAC4D16" w14:textId="4B7ED61C" w:rsidR="005D57A5" w:rsidRPr="00BC03D5" w:rsidRDefault="005D57A5"
-     w:rsidP="008A2064">
+<w:p w14:paraId="5AAC4D16" w14:textId="4B7ED61C" w:rsidR="005D57A5" w:rsidRPr="00BC03D5" w:rsidRDefault="005D57A5" w:rsidP="008A2064">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -12063,8 +11787,7 @@
 <w:t>project be to demonstrate technoeconomic and environmental viability of an integrate and innovative biorefinery for the transformation of the organic fraction of municipal solid waste msw into new marketable bioproduct chemical build block biopolymer and additive </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7B00FF0F" w14:textId="04A4719E" w:rsidR="005D57A5" w:rsidRPr="00BC03D5" w:rsidRDefault="000C5A02"
-     w:rsidP="005D57A5">
+<w:p w14:paraId="7B00FF0F" w14:textId="04A4719E" w:rsidR="005D57A5" w:rsidRPr="00BC03D5" w:rsidRDefault="000C5A02" w:rsidP="005D57A5">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 </w:pPr>
@@ -12090,8 +11813,7 @@
 <w:t>base product urbiofin </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7045E2CC" w14:textId="77777777" w:rsidR="005D57A5" w:rsidRPr="00BC03D5" w:rsidRDefault="005D57A5"
-     w:rsidP="005D57A5">
+<w:p w14:paraId="7045E2CC" w14:textId="77777777" w:rsidR="005D57A5" w:rsidRPr="00BC03D5" w:rsidRDefault="005D57A5" w:rsidP="005D57A5">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 </w:pPr>
@@ -12105,8 +11827,7 @@
 <w:t>urbiofin </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="441AB228" w14:textId="77777777" w:rsidR="005D57A5" w:rsidRPr="000C5A02" w:rsidRDefault="005D57A5"
-     w:rsidP="000C5A02">
+<w:p w14:paraId="441AB228" w14:textId="77777777" w:rsidR="005D57A5" w:rsidRPr="000C5A02" w:rsidRDefault="005D57A5" w:rsidP="000C5A02">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -12122,8 +11843,7 @@
 <w:t>innovation action – “demonstration action” </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="06ED2181" w14:textId="77777777" w:rsidR="005D57A5" w:rsidRPr="000C5A02" w:rsidRDefault="005D57A5"
-     w:rsidP="000C5A02">
+<w:p w14:paraId="06ED2181" w14:textId="77777777" w:rsidR="005D57A5" w:rsidRPr="000C5A02" w:rsidRDefault="005D57A5" w:rsidP="000C5A02">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -12158,8 +11878,7 @@
 <w:t>the urbiofin consortium be compose of 15 recognize key actor on the topic of waste management bioprocessing technology industrial process rely on biological agent to drive the proces bioproduct product that be manufacture use biological material a feedstock and biomaterial biofuel municipal solid waste industrial process and integration </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="522B0F31" w14:textId="016AFDE7" w:rsidR="005D57A5" w:rsidRPr="000C5A02" w:rsidRDefault="005D57A5"
-     w:rsidP="000C5A02">
+<w:p w14:paraId="522B0F31" w14:textId="016AFDE7" w:rsidR="005D57A5" w:rsidRPr="000C5A02" w:rsidRDefault="005D57A5" w:rsidP="000C5A02">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -12230,8 +11949,7 @@
 <w:t>sa etam sa </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="58F2AB45" w14:textId="77777777" w:rsidR="005D57A5" w:rsidRPr="000C5A02" w:rsidRDefault="005D57A5"
-     w:rsidP="000C5A02">
+<w:p w14:paraId="58F2AB45" w14:textId="77777777" w:rsidR="005D57A5" w:rsidRPr="000C5A02" w:rsidRDefault="005D57A5" w:rsidP="000C5A02">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -12440,8 +12158,7 @@
 </w:r>
 <w:proofErr w:type="spellEnd"/>
 </w:p>
-<w:p w14:paraId="70A15DC4" w14:textId="77777777" w:rsidR="005D57A5" w:rsidRPr="000C5A02" w:rsidRDefault="005D57A5"
-     w:rsidP="000C5A02">
+<w:p w14:paraId="70A15DC4" w14:textId="77777777" w:rsidR="005D57A5" w:rsidRPr="000C5A02" w:rsidRDefault="005D57A5" w:rsidP="000C5A02">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -12480,8 +12197,7 @@
 <w:t>university of valladolid </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="79971106" w14:textId="4855925E" w:rsidR="005D57A5" w:rsidRPr="000C5A02" w:rsidRDefault="005D57A5"
-     w:rsidP="000C5A02">
+<w:p w14:paraId="79971106" w14:textId="4855925E" w:rsidR="005D57A5" w:rsidRPr="000C5A02" w:rsidRDefault="005D57A5" w:rsidP="000C5A02">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -12608,8 +12324,7 @@
 <w:t>by use the biorefinery concept apply to msw urbiofin will exploit the organic fraction of msw a feedstock to produce different valuable marketable product for different market like agriculture and cosmetic </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6E0E93BA" w14:textId="77777777" w:rsidR="005D57A5" w:rsidRPr="00BC03D5" w:rsidRDefault="005D57A5"
-     w:rsidP="008A2064">
+<w:p w14:paraId="6E0E93BA" w14:textId="77777777" w:rsidR="005D57A5" w:rsidRPr="00BC03D5" w:rsidRDefault="005D57A5" w:rsidP="008A2064">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -12617,8 +12332,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="12C75C5D" w14:textId="230153E1" w:rsidR="0064145A" w:rsidRPr="00BC03D5" w:rsidRDefault="0064145A"
-     w:rsidP="008A2064">
+<w:p w14:paraId="12C75C5D" w14:textId="230153E1" w:rsidR="0064145A" w:rsidRPr="00BC03D5" w:rsidRDefault="0064145A" w:rsidP="008A2064">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>
@@ -12709,8 +12423,7 @@
 <w:pStyle w:val="NormalWeb"/>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="13150996" w14:textId="022C6156" w:rsidR="009703CD" w:rsidRPr="00BC03D5" w:rsidRDefault="009703CD"
-     w:rsidP="0046282C">
+<w:p w14:paraId="13150996" w14:textId="022C6156" w:rsidR="009703CD" w:rsidRPr="00BC03D5" w:rsidRDefault="009703CD" w:rsidP="0046282C">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:sectPr w:rsidR="009703CD" w:rsidRPr="00BC03D5" w:rsidSect="00280024">
@@ -12721,8 +12434,7 @@
 </w:sectPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="205B00D6" w14:textId="2E8A1B08" w:rsidR="0064145A" w:rsidRPr="00BB2584" w:rsidRDefault="0046282C"
-     w:rsidP="008A2064">
+<w:p w14:paraId="205B00D6" w14:textId="2E8A1B08" w:rsidR="0064145A" w:rsidRPr="00BB2584" w:rsidRDefault="0046282C" w:rsidP="008A2064">
 <w:pPr>
 <w:jc w:val="both"/>
 <w:rPr>

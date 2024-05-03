@@ -137,7 +137,7 @@ void parsemodule(FILE *output, char *input_txt, char *input_xml, int modul) {
 
         if (important == 1 || important == 2) {
             // aici se termina boldul si italicul
-            if (isthewordinside("</w:r", line)) {
+            if (isthewordinside("</w:r>", line)) {
                 important = 0;
             }
         }
@@ -164,34 +164,6 @@ void parsemodule(FILE *output, char *input_txt, char *input_xml, int modul) {
 
         if (isthewordinside("<w:t>", line)) {
             char *content = &line[5];
-            content[strlen(content) - 7] = '\0';
-            if (!isgoodword(content))
-                continue;
-
-            // acum marea cautare in txt
-            rewind(txt);
-            char txtparagraph[5000];
-            int paragraph = 0;
-
-            while (fgets(txtparagraph, 5000, txt) != NULL) {
-                paragraph++;
-                if (isthewordinside(content, txtparagraph)) {
-                    // bagam pe cuvinte
-                    char *word = strtok(content, " ");
-                    while (word != NULL) {
-                        if (isgoodword(word)) {
-                            // secventa, importanta, modulul, paragraful
-                            fprintf(output, "%s,%d,%d,%d\n", word, important, modul, paragraph);
-                        }
-                        word = strtok(NULL, " ");
-                    }
-                    break;
-                }
-            }
-        }
-
-        if (isthewordinside("<w:t xml:space=\"preserve\">", line)) {
-            char *content = &line[26];
             content[strlen(content) - 7] = '\0';
             if (!isgoodword(content))
                 continue;

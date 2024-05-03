@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
-            xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
-            xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
-            xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
-            xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
-            xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
-            xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
-            xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
-            xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
-            xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
-            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-            xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
-            xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
-            xmlns:o="urn:schemas-microsoft-com:office:office"
-            xmlns:oel="http://schemas.microsoft.com/office/2019/extlst"
-            xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
-            xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml"
-            xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
-            xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
-            xmlns:w10="urn:schemas-microsoft-com:office:word"
-            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
-            xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
-            xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
-            xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
-            xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
-            xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
-            xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash"
-            xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
-            xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
-            xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
-            xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
-            xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"
-            mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
+xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
+xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
+xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
+xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
+xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
+xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
+xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
+xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
+xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:oel="http://schemas.microsoft.com/office/2019/extlst"
+xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+xmlns:w10="urn:schemas-microsoft-com:office:word"
+xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
+xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
+xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash"
+xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
 <w:body>
 <w:p w14:paraId="3A4CE15E" w14:textId="77777777" w:rsidR="00764C15" w:rsidRPr="00917A79" w:rsidRDefault="00764C15">
 <w:pPr>
@@ -42,8 +42,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="570D67D6" w14:textId="1AD0584F" w:rsidR="00764C15" w:rsidRPr="00917A79" w:rsidRDefault="00764C15"
-     w:rsidP="00A33A7E">
+<w:p w14:paraId="570D67D6" w14:textId="1AD0584F" w:rsidR="00764C15" w:rsidRPr="00917A79" w:rsidRDefault="00764C15" w:rsidP="00A33A7E">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -86,8 +85,7 @@
 <w:t>agriculture </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7F952F5C" w14:textId="77777777" w:rsidR="002F245E" w:rsidRPr="00917A79" w:rsidRDefault="002F245E"
-     w:rsidP="00A33A7E">
+<w:p w14:paraId="7F952F5C" w14:textId="77777777" w:rsidR="002F245E" w:rsidRPr="00917A79" w:rsidRDefault="002F245E" w:rsidP="00A33A7E">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -100,8 +98,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="259169CA" w14:textId="53CA3302" w:rsidR="00135388" w:rsidRPr="00917A79" w:rsidRDefault="002F245E"
-     w:rsidP="00135388">
+<w:p w14:paraId="259169CA" w14:textId="53CA3302" w:rsidR="00135388" w:rsidRPr="00917A79" w:rsidRDefault="002F245E" w:rsidP="00135388">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:rPr>
@@ -123,8 +120,7 @@
 <w:t>eu target </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="56943862" w14:textId="77777777" w:rsidR="00135388" w:rsidRPr="00F7642C" w:rsidRDefault="00135388"
-     w:rsidP="00135388">
+<w:p w14:paraId="56943862" w14:textId="77777777" w:rsidR="00135388" w:rsidRPr="00F7642C" w:rsidRDefault="00135388" w:rsidP="00135388">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -150,8 +146,7 @@
 <w:t>ensure food security in the face of geopolitical uncertainty climate change and biodiversity los </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0F43E4D1" w14:textId="77777777" w:rsidR="00135388" w:rsidRPr="00F7642C" w:rsidRDefault="00135388"
-     w:rsidP="00135388">
+<w:p w14:paraId="0F43E4D1" w14:textId="77777777" w:rsidR="00135388" w:rsidRPr="00F7642C" w:rsidRDefault="00135388" w:rsidP="00135388">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -177,8 +172,7 @@
 <w:t>reduce the environmental and climate footprint of the eu food system </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3AADD7E7" w14:textId="77777777" w:rsidR="00135388" w:rsidRPr="00F7642C" w:rsidRDefault="00135388"
-     w:rsidP="00135388">
+<w:p w14:paraId="3AADD7E7" w14:textId="77777777" w:rsidR="00135388" w:rsidRPr="00F7642C" w:rsidRDefault="00135388" w:rsidP="00135388">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -204,8 +198,7 @@
 <w:t>strengthen the eu food system’ resilience </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5000670F" w14:textId="4A0DD258" w:rsidR="002F245E" w:rsidRPr="00F7642C" w:rsidRDefault="00135388"
-     w:rsidP="00135388">
+<w:p w14:paraId="5000670F" w14:textId="4A0DD258" w:rsidR="002F245E" w:rsidRPr="00F7642C" w:rsidRDefault="00135388" w:rsidP="00135388">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -231,8 +224,7 @@
 <w:t>lead a global transition toward competitive sustainability from farm to fork </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="74B73E58" w14:textId="7160BFBD" w:rsidR="00A33A7E" w:rsidRPr="00917A79" w:rsidRDefault="00A33A7E"
-     w:rsidP="00A33A7E">
+<w:p w14:paraId="74B73E58" w14:textId="7160BFBD" w:rsidR="00A33A7E" w:rsidRPr="00917A79" w:rsidRDefault="00A33A7E" w:rsidP="00A33A7E">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -275,8 +267,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1C1FADF2" w14:textId="1A508A8F" w:rsidR="00B55890" w:rsidRPr="00EF42DE" w:rsidRDefault="00135388"
-     w:rsidP="00EF42DE">
+<w:p w14:paraId="1C1FADF2" w14:textId="1A508A8F" w:rsidR="00B55890" w:rsidRPr="00EF42DE" w:rsidRDefault="00135388" w:rsidP="00EF42DE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -314,8 +305,7 @@
 <w:t>intensive agriculture </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0BC58599" w14:textId="3E12212E" w:rsidR="002309B7" w:rsidRPr="00EF42DE" w:rsidRDefault="002309B7"
-     w:rsidP="00EF42DE">
+<w:p w14:paraId="0BC58599" w14:textId="3E12212E" w:rsidR="002309B7" w:rsidRPr="00EF42DE" w:rsidRDefault="002309B7" w:rsidP="00EF42DE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -333,8 +323,7 @@
 <w:t>emission avoid soil degradation from pesticide and fertilizer conserve water and increase biodiversity however achieve thi goal require consider variou social and economic factor one crucial aspect be the integration of innovative technology that could either help to transition to sustainable agriculture or worsen the environmental impact of industrial agriculture in essence sustainable agriculture aim to produce food without harm the environment while ensure fair condition for farmer and worker </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0660DBB5" w14:textId="1D259729" w:rsidR="00B55890" w:rsidRPr="00EF42DE" w:rsidRDefault="00A550B9"
-     w:rsidP="00EF42DE">
+<w:p w14:paraId="0660DBB5" w14:textId="1D259729" w:rsidR="00B55890" w:rsidRPr="00EF42DE" w:rsidRDefault="00A550B9" w:rsidP="00EF42DE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -346,8 +335,7 @@
 <w:t>the link between healthy person healthy society and a healthy planet put sustainable food system at the heart of the european green deal the eu’ sustainable and inclusive growth strategy it be design to boost the economy improve people health and quality of life and care for nature </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0AA49564" w14:textId="054B1341" w:rsidR="00135388" w:rsidRPr="00EF42DE" w:rsidRDefault="00102989"
-     w:rsidP="00EF42DE">
+<w:p w14:paraId="0AA49564" w14:textId="054B1341" w:rsidR="00135388" w:rsidRPr="00EF42DE" w:rsidRDefault="00102989" w:rsidP="00EF42DE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -375,8 +363,7 @@
 <w:t>capcommon agriculture policy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0A188EF8" w14:textId="704654BA" w:rsidR="00102989" w:rsidRPr="00EF42DE" w:rsidRDefault="00102989"
-     w:rsidP="00EF42DE">
+<w:p w14:paraId="0A188EF8" w14:textId="704654BA" w:rsidR="00102989" w:rsidRPr="00EF42DE" w:rsidRDefault="00102989" w:rsidP="00EF42DE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -421,8 +408,7 @@
 <w:t>and biodiversity strategy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4CD96A79" w14:textId="77777777" w:rsidR="00B55890" w:rsidRPr="00EF42DE" w:rsidRDefault="00B55890"
-     w:rsidP="00EF42DE">
+<w:p w14:paraId="4CD96A79" w14:textId="77777777" w:rsidR="00B55890" w:rsidRPr="00EF42DE" w:rsidRDefault="00B55890" w:rsidP="00EF42DE">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -460,8 +446,7 @@
 <w:t>be already a global standard in term of safety security of supply nutrition and quality now it must also become the global standard for sustainability a shift to a sustainable food system while ensure food affordability and availability bring environmental health and social benefit a well a offer fair economic gain </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4BD674E1" w14:textId="77777777" w:rsidR="00B55890" w:rsidRPr="00917A79" w:rsidRDefault="00B55890"
-     w:rsidP="00EF42DE">
+<w:p w14:paraId="4BD674E1" w14:textId="77777777" w:rsidR="00B55890" w:rsidRPr="00917A79" w:rsidRDefault="00B55890" w:rsidP="00EF42DE">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -507,8 +492,7 @@
 <w:t>textile waste it adoption complete the previou proposal under the ‘natural resource pillar of the european green deal </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="25C044A5" w14:textId="63027F1E" w:rsidR="00B74DA7" w:rsidRPr="00917A79" w:rsidRDefault="00B74DA7"
-     w:rsidP="00EF42DE">
+<w:p w14:paraId="25C044A5" w14:textId="63027F1E" w:rsidR="00B74DA7" w:rsidRPr="00917A79" w:rsidRDefault="00B74DA7" w:rsidP="00EF42DE">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -595,8 +579,7 @@
 <w:t>market ‘measures’ to help the agrifood sector deal with difficult market situation </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="51041C58" w14:textId="2E6FE683" w:rsidR="00B74DA7" w:rsidRPr="000D1157" w:rsidRDefault="00B74DA7"
-     w:rsidP="00B55890">
+<w:p w14:paraId="51041C58" w14:textId="2E6FE683" w:rsidR="00B74DA7" w:rsidRPr="000D1157" w:rsidRDefault="00B74DA7" w:rsidP="00B55890">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -685,8 +668,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="116BDC58" w14:textId="0BF769EB" w:rsidR="006235E2" w:rsidRPr="00917A79" w:rsidRDefault="00C7494C"
-     w:rsidP="006235E2">
+<w:p w14:paraId="116BDC58" w14:textId="0BF769EB" w:rsidR="006235E2" w:rsidRPr="00917A79" w:rsidRDefault="00C7494C" w:rsidP="006235E2">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -824,8 +806,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1D544EEF" w14:textId="77777777" w:rsidR="00C7494C" w:rsidRPr="00917A79" w:rsidRDefault="00C7494C"
-     w:rsidP="00C7494C">
+<w:p w14:paraId="1D544EEF" w14:textId="77777777" w:rsidR="00C7494C" w:rsidRPr="00917A79" w:rsidRDefault="00C7494C" w:rsidP="00C7494C">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -852,8 +833,7 @@
 <w:t>main objective </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4664F892" w14:textId="77777777" w:rsidR="00C7494C" w:rsidRPr="00917A79" w:rsidRDefault="00C7494C"
-     w:rsidP="00C7494C">
+<w:p w14:paraId="4664F892" w14:textId="77777777" w:rsidR="00C7494C" w:rsidRPr="00917A79" w:rsidRDefault="00C7494C" w:rsidP="00C7494C">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -880,8 +860,7 @@
 <w:t>1 ensure viable farm income </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6D66D708" w14:textId="77C0E828" w:rsidR="00C7494C" w:rsidRPr="00C7494C" w:rsidRDefault="00C7494C"
-     w:rsidP="00C7494C">
+<w:p w14:paraId="6D66D708" w14:textId="77C0E828" w:rsidR="00C7494C" w:rsidRPr="00C7494C" w:rsidRDefault="00C7494C" w:rsidP="00C7494C">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -894,8 +873,7 @@
 <w:t>support viable farm income and the resilience of the agricultural sector acros the eu in order to enhance longterm food security and agricultural diversity a well a to ensure the economic sustainability of agricultural production </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="084E1BEA" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="002646ED"
-     w:rsidP="00785984">
+<w:p w14:paraId="084E1BEA" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="002646ED" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="center"/>
@@ -954,8 +932,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="6DE1FD80" w14:textId="6E7E453F" w:rsidR="00F6321D" w:rsidRPr="00C7494C" w:rsidRDefault="00C7494C"
-     w:rsidP="00785984">
+<w:p w14:paraId="6DE1FD80" w14:textId="6E7E453F" w:rsidR="00F6321D" w:rsidRPr="00C7494C" w:rsidRDefault="00C7494C" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:jc w:val="both"/>
@@ -967,8 +944,7 @@
 <w:t>cap specific objective </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2526299C" w14:textId="6800A58F" w:rsidR="003207F7" w:rsidRPr="00917A79" w:rsidRDefault="003207F7"
-     w:rsidP="00785984">
+<w:p w14:paraId="2526299C" w14:textId="6800A58F" w:rsidR="003207F7" w:rsidRPr="00917A79" w:rsidRDefault="003207F7" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -986,8 +962,7 @@
 <w:t>2 increase competitivenes the role of productivity </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1D3CA25D" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="003207F7"
-     w:rsidP="00785984">
+<w:p w14:paraId="1D3CA25D" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="003207F7" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1003,8 +978,7 @@
 <w:t>ation </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5B2DC854" w14:textId="1176FFB6" w:rsidR="003207F7" w:rsidRPr="00917A79" w:rsidRDefault="003207F7"
-     w:rsidP="00785984">
+<w:p w14:paraId="5B2DC854" w14:textId="1176FFB6" w:rsidR="003207F7" w:rsidRPr="00917A79" w:rsidRDefault="003207F7" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1022,8 +996,7 @@
 <w:t>3 farmer position in value chain </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="71EF2A2E" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="003207F7"
-     w:rsidP="00785984">
+<w:p w14:paraId="71EF2A2E" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="003207F7" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1033,8 +1006,7 @@
 <w:t>provide measure that aim to strengthen farmers’ position in a continuously evolve value chain increase market transparency and ensure effective mechanism against unfair trade practice </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="796204BF" w14:textId="029D91CD" w:rsidR="00031663" w:rsidRPr="00917A79" w:rsidRDefault="00031663"
-     w:rsidP="00785984">
+<w:p w14:paraId="796204BF" w14:textId="029D91CD" w:rsidR="00031663" w:rsidRPr="00917A79" w:rsidRDefault="00031663" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1053,8 +1025,7 @@
 <w:t>4 agriculture and climate mitigation </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="49A4F73A" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="00031663"
-     w:rsidP="00785984">
+<w:p w14:paraId="49A4F73A" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="00031663" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1064,8 +1035,7 @@
 <w:t>contribute to climate change mitigation and adaptation include by reduce greenhouse ga emission and enhance carbon sequestration a well a promote sustainable energy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="134A6255" w14:textId="3F8AC499" w:rsidR="00031663" w:rsidRPr="00917A79" w:rsidRDefault="00031663"
-     w:rsidP="00785984">
+<w:p w14:paraId="134A6255" w14:textId="3F8AC499" w:rsidR="00031663" w:rsidRPr="00917A79" w:rsidRDefault="00031663" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1083,8 +1053,7 @@
 <w:t>5 efficient soil management </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3C24F95B" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="00031663"
-     w:rsidP="00785984">
+<w:p w14:paraId="3C24F95B" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="00031663" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1094,8 +1063,7 @@
 <w:t>foster sustainable development and efficient management of natural resource such a water soil and air include by reduce chemical dependency </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1B37653F" w14:textId="082986CC" w:rsidR="00031663" w:rsidRPr="00917A79" w:rsidRDefault="00031663"
-     w:rsidP="00785984">
+<w:p w14:paraId="1B37653F" w14:textId="082986CC" w:rsidR="00031663" w:rsidRPr="00917A79" w:rsidRDefault="00031663" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1113,8 +1081,7 @@
 <w:t>6 biodiversity and farm landscape </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2BC94D4B" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="00031663"
-     w:rsidP="00785984">
+<w:p w14:paraId="2BC94D4B" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="00031663" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1124,8 +1091,7 @@
 <w:t>contribute to halt and reverse biodiversity los enhance ecosystem service and preserve habitat and landscape </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="28277E07" w14:textId="2CC5653B" w:rsidR="00031663" w:rsidRPr="00917A79" w:rsidRDefault="00031663"
-     w:rsidP="00785984">
+<w:p w14:paraId="28277E07" w14:textId="2CC5653B" w:rsidR="00031663" w:rsidRPr="00917A79" w:rsidRDefault="00031663" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1143,8 +1109,7 @@
 <w:t>7 structural change and generational renewal </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="321D1E32" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="00031663"
-     w:rsidP="00785984">
+<w:p w14:paraId="321D1E32" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="00031663" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1154,8 +1119,7 @@
 <w:t>attract and sustain young farmer and new farmer and facilitate sustainable busines development in rural area </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2939E35F" w14:textId="77B69272" w:rsidR="00031663" w:rsidRPr="00917A79" w:rsidRDefault="00031663"
-     w:rsidP="00785984">
+<w:p w14:paraId="2939E35F" w14:textId="77B69272" w:rsidR="00031663" w:rsidRPr="00917A79" w:rsidRDefault="00031663" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1173,8 +1137,7 @@
 <w:t>8 job and growth in rural area </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4A0255D5" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="00031663"
-     w:rsidP="00785984">
+<w:p w14:paraId="4A0255D5" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="00031663" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1184,8 +1147,7 @@
 <w:t>promote employment growth gender equality include the participation of woman in farm social inclusion and local development in rural area a well a the circular bioeconomy and sustainable forestry </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6D7455A1" w14:textId="2CB22A02" w:rsidR="00031663" w:rsidRPr="00917A79" w:rsidRDefault="00031663"
-     w:rsidP="00785984">
+<w:p w14:paraId="6D7455A1" w14:textId="2CB22A02" w:rsidR="00031663" w:rsidRPr="00917A79" w:rsidRDefault="00031663" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1203,8 +1165,7 @@
 <w:t>9 health food amp antimicrobial resistance </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6CE73BBD" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="00031663"
-     w:rsidP="00785984">
+<w:p w14:paraId="6CE73BBD" w14:textId="77777777" w:rsidR="00785984" w:rsidRPr="00917A79" w:rsidRDefault="00031663" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1214,8 +1175,7 @@
 <w:t>improve the response of eu agriculture to societal demand relate to food and health include highquality safe and nutritiou food produce in a sustainable way to reduce food waste a well a to improve animal welfare and combat antimicrobial resistance </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5E488D30" w14:textId="61574B0E" w:rsidR="00031663" w:rsidRPr="00917A79" w:rsidRDefault="00031663"
-     w:rsidP="00785984">
+<w:p w14:paraId="5E488D30" w14:textId="61574B0E" w:rsidR="00031663" w:rsidRPr="00917A79" w:rsidRDefault="00031663" w:rsidP="00785984">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1255,8 +1215,7 @@
 <w:t>ation and by encourage their uptake by farmer through improve acces to research innovation knowledge exchange and train </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1FC999E6" w14:textId="014D76BC" w:rsidR="0065009F" w:rsidRPr="00C7494C" w:rsidRDefault="0065009F"
-     w:rsidP="00C7494C">
+<w:p w14:paraId="1FC999E6" w14:textId="014D76BC" w:rsidR="0065009F" w:rsidRPr="00C7494C" w:rsidRDefault="0065009F" w:rsidP="00C7494C">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -1315,8 +1274,7 @@
 <w:t>for example </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0171FE64" w14:textId="5557325E" w:rsidR="0065009F" w:rsidRPr="00C7494C" w:rsidRDefault="00351396"
-     w:rsidP="00C7494C">
+<w:p w14:paraId="0171FE64" w14:textId="5557325E" w:rsidR="0065009F" w:rsidRPr="00C7494C" w:rsidRDefault="00351396" w:rsidP="00C7494C">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1406,8 +1364,7 @@
 <w:t>er in each case </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="06B70F1F" w14:textId="1D6C56BE" w:rsidR="00E378D0" w:rsidRPr="00351396" w:rsidRDefault="00E378D0"
-     w:rsidP="00351396">
+<w:p w14:paraId="06B70F1F" w14:textId="1D6C56BE" w:rsidR="00E378D0" w:rsidRPr="00351396" w:rsidRDefault="00E378D0" w:rsidP="00351396">
 <w:pPr>
 <w:pStyle w:val="card-text"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1425,8 +1382,7 @@
 <w:t>compatibility with the green deal </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="37CBC632" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0"
-     w:rsidP="00C7494C">
+<w:p w14:paraId="37CBC632" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0" w:rsidP="00C7494C">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1448,8 +1404,7 @@
 <w:t>cover economic social and environmental dimension in line with the green deal’ ambition they aim to increase the contribution of eu agriculture to climate change action improve the management of natural resource ensure a fair economic return for farmer and reinforce the protection of biodiversity among other </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1F7F2CE8" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0"
-     w:rsidP="00C7494C">
+<w:p w14:paraId="1F7F2CE8" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0" w:rsidP="00C7494C">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1471,8 +1426,7 @@
 <w:t>propose for the future cap be one of the key element that make the proposal compatible with the green deal base on a thorough assessment of the local condition and need member state will produce a national cap strategic plan that will explain how they will use cap tool to achieve the nine objective in consultation with stakeholder and competent national authority in addition to ensure that these plan be coherent and consistent with the require environmental ambition the commission will approve each cap strategic plan ahead of their implementation finally quantify target will allow the commission to monitor the progress make by member state when implement the cap </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6CEA715B" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0"
-     w:rsidP="00C7494C">
+<w:p w14:paraId="6CEA715B" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0" w:rsidP="00C7494C">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1482,8 +1436,7 @@
 <w:t>in addition the cap proposal include tool that will far promote sustainable farm practice throughout the eu crucial to achieve the green deal’ ambition </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="790BAF49" w14:textId="70718F7E" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0"
-     w:rsidP="00C7494C">
+<w:p w14:paraId="790BAF49" w14:textId="70718F7E" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0" w:rsidP="00C7494C">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1517,8 +1470,7 @@
 <w:t>that aim to reward farmer for go far in the implementation of sustainable agricultural practice these practice could include the implementation of environmentally friendly production system such a agroecology agroforestry and organic farm the rural development framework also include environmental and climate management commitment which aim to compensate farmer and other beneficiary for voluntarily commit themself to implement sustainable practice </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="50506DD8" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0"
-     w:rsidP="00C7494C">
+<w:p w14:paraId="50506DD8" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0" w:rsidP="00C7494C">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1584,8 +1536,7 @@
 <w:t>eal’ ambition they will be essential to enable the transition while leave no one behind </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="67B97F1F" w14:textId="29368FAC" w:rsidR="00A647FD" w:rsidRPr="00A647FD" w:rsidRDefault="00A647FD"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="67B97F1F" w14:textId="29368FAC" w:rsidR="00A647FD" w:rsidRPr="00A647FD" w:rsidRDefault="00A647FD" w:rsidP="00A647FD">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1666,8 +1617,7 @@
 <w:t>enter into force on 1 january 2023 thi mark the begin of the implementation of the 28 approve cap strategic plan in 27 eu country eu member have one strategic plan each except belgium which ha one for flander and one for wallonium </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="326482FB" w14:textId="77777777" w:rsidR="00CF283B" w:rsidRPr="00EF42DE" w:rsidRDefault="00CF283B"
-     w:rsidP="00CF283B">
+<w:p w14:paraId="326482FB" w14:textId="77777777" w:rsidR="00CF283B" w:rsidRPr="00EF42DE" w:rsidRDefault="00CF283B" w:rsidP="00CF283B">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -1690,8 +1640,7 @@
 <w:t>a total of €3866 billion be available for the cap from the eu budget 20212027 thi be divide between two fund often refer to a the ‘two pillars’ of the cap these be </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="550198AC" w14:textId="77777777" w:rsidR="00CF283B" w:rsidRPr="00917A79" w:rsidRDefault="00CF283B"
-     w:rsidP="00CF283B">
+<w:p w14:paraId="550198AC" w14:textId="77777777" w:rsidR="00CF283B" w:rsidRPr="00917A79" w:rsidRDefault="00CF283B" w:rsidP="00CF283B">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -1740,8 +1689,7 @@
 <w:t>eagf know a pillar 1 which provide €2911 billion of direct financial support to farmer </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2D29A9D1" w14:textId="329FD9EB" w:rsidR="00CF283B" w:rsidRPr="00351396" w:rsidRDefault="00CF283B"
-     w:rsidP="00C7494C">
+<w:p w14:paraId="2D29A9D1" w14:textId="329FD9EB" w:rsidR="00CF283B" w:rsidRPr="00351396" w:rsidRDefault="00CF283B" w:rsidP="00C7494C">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -1791,8 +1739,7 @@
 <w:t>eafrd know a pillar 2 which provide €955 billion include €81 billion from the next generation eu recovery instrument for socioeconomic and environmental intervention </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4DBFDFCA" w14:textId="6DF90920" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0"
-     w:rsidP="00C7494C">
+<w:p w14:paraId="4DBFDFCA" w14:textId="6DF90920" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0" w:rsidP="00C7494C">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -1830,8 +1777,7 @@
 <w:t>intervention plan by eu country to addres the cap specific objective and the six euwide green deal target on </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="54F936FA" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0"
-     w:rsidP="00C7494C">
+<w:p w14:paraId="54F936FA" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0" w:rsidP="00C7494C">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -1854,8 +1800,7 @@
 <w:t>fair income for farmer and keep rural area vibrant </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="77BEF28D" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0"
-     w:rsidP="00C7494C">
+<w:p w14:paraId="77BEF28D" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0" w:rsidP="00C7494C">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -1878,8 +1823,7 @@
 <w:t>environment and climate action </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="736C1457" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0"
-     w:rsidP="00C7494C">
+<w:p w14:paraId="736C1457" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00C7494C" w:rsidRDefault="00E378D0" w:rsidP="00C7494C">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -2053,8 +1997,7 @@
 <w:t>direction of action </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3A8EEEDB" w14:textId="70255FC0" w:rsidR="00573F4F" w:rsidRPr="006433AC" w:rsidRDefault="006433AC"
-     w:rsidP="006433AC">
+<w:p w14:paraId="3A8EEEDB" w14:textId="70255FC0" w:rsidR="00573F4F" w:rsidRPr="006433AC" w:rsidRDefault="006433AC" w:rsidP="006433AC">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2094,8 +2037,7 @@
 <w:t>a strong position for farmer in the marketplace </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="186E28BE" w14:textId="77777777" w:rsidR="00573F4F" w:rsidRPr="006433AC" w:rsidRDefault="00573F4F"
-     w:rsidP="006433AC">
+<w:p w14:paraId="186E28BE" w14:textId="77777777" w:rsidR="00573F4F" w:rsidRPr="006433AC" w:rsidRDefault="00573F4F" w:rsidP="006433AC">
 <w:pPr>
 <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2524,8 +2466,7 @@
 <w:t>ation of the member state’ agricultural knowledge and innovation system aki </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2EDC560E" w14:textId="3012AB4B" w:rsidR="00705FFE" w:rsidRPr="006433AC" w:rsidRDefault="006433AC"
-     w:rsidP="006433AC">
+<w:p w14:paraId="2EDC560E" w14:textId="3012AB4B" w:rsidR="00705FFE" w:rsidRPr="006433AC" w:rsidRDefault="006433AC" w:rsidP="006433AC">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2559,8 +2500,7 @@
 <w:t>the way in which cap network advisory service and research will cooperate in the context of aki </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="56AA41F8" w14:textId="6C107F93" w:rsidR="00705FFE" w:rsidRPr="006433AC" w:rsidRDefault="006433AC"
-     w:rsidP="006433AC">
+<w:p w14:paraId="56AA41F8" w14:textId="6C107F93" w:rsidR="00705FFE" w:rsidRPr="006433AC" w:rsidRDefault="006433AC" w:rsidP="006433AC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2685,8 +2625,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="68F51E86" w14:textId="7A662581" w:rsidR="00193B5C" w:rsidRPr="006433AC" w:rsidRDefault="007C45EF"
-     w:rsidP="006433AC">
+<w:p w14:paraId="68F51E86" w14:textId="7A662581" w:rsidR="00193B5C" w:rsidRPr="006433AC" w:rsidRDefault="007C45EF" w:rsidP="006433AC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2749,8 +2688,7 @@
 <w:t>go directly to small and mediumsized farm </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="03C614AE" w14:textId="153901C7" w:rsidR="00193B5C" w:rsidRPr="006433AC" w:rsidRDefault="005067CB"
-     w:rsidP="006433AC">
+<w:p w14:paraId="03C614AE" w14:textId="153901C7" w:rsidR="00193B5C" w:rsidRPr="006433AC" w:rsidRDefault="005067CB" w:rsidP="006433AC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2800,8 +2738,7 @@
 <w:t>by compensate high cost of produce food and fee in area affect by poor climate soil or other condition such a mountain or land in dry or cold territory thi support help maintain agricultural activity in such area and positively influence socioeconomic factor </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="136CF4C3" w14:textId="2AD5AC43" w:rsidR="005E1AA0" w:rsidRPr="006433AC" w:rsidRDefault="005067CB"
-     w:rsidP="006433AC">
+<w:p w14:paraId="136CF4C3" w14:textId="2AD5AC43" w:rsidR="005E1AA0" w:rsidRPr="006433AC" w:rsidRDefault="005067CB" w:rsidP="006433AC">
 <w:pPr>
 <w:spacing w:after="0" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -2934,8 +2871,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="24448652" w14:textId="3AC28272" w:rsidR="005E1AA0" w:rsidRPr="006433AC" w:rsidRDefault="005067CB"
-     w:rsidP="006433AC">
+<w:p w14:paraId="24448652" w14:textId="3AC28272" w:rsidR="005E1AA0" w:rsidRPr="006433AC" w:rsidRDefault="005067CB" w:rsidP="006433AC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3101,8 +3037,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0DD28D63" w14:textId="6FA35A31" w:rsidR="006047D5" w:rsidRPr="006433AC" w:rsidRDefault="005067CB"
-     w:rsidP="006433AC">
+<w:p w14:paraId="0DD28D63" w14:textId="6FA35A31" w:rsidR="006047D5" w:rsidRPr="006433AC" w:rsidRDefault="005067CB" w:rsidP="006433AC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3192,8 +3127,7 @@
 <w:t>photovoltaic and investment in biomethane production </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3C896F48" w14:textId="0CEF5CF8" w:rsidR="006047D5" w:rsidRPr="006433AC" w:rsidRDefault="005067CB"
-     w:rsidP="006433AC">
+<w:p w14:paraId="3C896F48" w14:textId="0CEF5CF8" w:rsidR="006047D5" w:rsidRPr="006433AC" w:rsidRDefault="005067CB" w:rsidP="006433AC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3325,8 +3259,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6010C57C" w14:textId="389BBFAD" w:rsidR="00392E6C" w:rsidRPr="006433AC" w:rsidRDefault="005067CB"
-     w:rsidP="006433AC">
+<w:p w14:paraId="6010C57C" w14:textId="389BBFAD" w:rsidR="00392E6C" w:rsidRPr="006433AC" w:rsidRDefault="005067CB" w:rsidP="006433AC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3622,8 +3555,7 @@
 <w:t>about the sustainable use of pesticide </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="75ED8515" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84"
-     w:rsidP="00AB4F84">
+<w:p w14:paraId="75ED8515" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84" w:rsidP="00AB4F84">
 <w:pPr>
 <w:spacing w:after="0" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3646,8 +3578,7 @@
 <w:t>over the past 10 year the eu agricultural sector make significant step toward a more sustainable future without impact it capacity to supply quality food </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="34175BDC" w14:textId="5510D90B" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84"
-     w:rsidP="00AB4F84">
+<w:p w14:paraId="34175BDC" w14:textId="5510D90B" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84" w:rsidP="00AB4F84">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -3675,8 +3606,7 @@
 <w:t>in 2019 pesticide sale decline by almost 30 000 ton 7 compare to 2011 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7F2BC9AE" w14:textId="3B26A83C" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84"
-     w:rsidP="00AB4F84">
+<w:p w14:paraId="7F2BC9AE" w14:textId="3B26A83C" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84" w:rsidP="00AB4F84">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -3725,8 +3655,7 @@
 <w:t>equivalent a 25 decrease compare to 1990 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4DE51258" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84"
-     w:rsidP="00AB4F84">
+<w:p w14:paraId="4DE51258" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84" w:rsidP="00AB4F84">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -3754,8 +3683,7 @@
 <w:t>the area under organic production reach 138 million ha in 2019 follow an annual increase of 55 over the period 20122019 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="67FD96CE" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84"
-     w:rsidP="00AB4F84">
+<w:p w14:paraId="67FD96CE" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84" w:rsidP="00AB4F84">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -3783,8 +3711,7 @@
 <w:t>over the last ten year the eu organic food and drink market double it size worth around €41 billion in 2019 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="068F38B4" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84"
-     w:rsidP="00AB4F84">
+<w:p w14:paraId="068F38B4" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84" w:rsidP="00AB4F84">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -3812,8 +3739,7 @@
 <w:t>the gros valueadded of the eu agricultural production reach 224 billion euro in 2019 a 19 increase compare to 2010 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3F7EF907" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00AB4F84" w:rsidRDefault="00AB4F84"
-     w:rsidP="00AB4F84">
+<w:p w14:paraId="3F7EF907" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00AB4F84" w:rsidRDefault="00AB4F84" w:rsidP="00AB4F84">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -3841,8 +3767,7 @@
 <w:t>the eu agrifood product trade balance record an annual growth of almost 10 in average between 2010 and 2020 reach 62 billion euro of net trade in 2020 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="05245EC2" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84"
-     w:rsidP="00AB4F84">
+<w:p w14:paraId="05245EC2" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84" w:rsidP="00AB4F84">
 <w:pPr>
 <w:spacing w:after="0" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -3865,8 +3790,7 @@
 <w:t>in the meantime climate change and biodiversity los be already impact eu agriculture </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5F53EA74" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84"
-     w:rsidP="00AB4F84">
+<w:p w14:paraId="5F53EA74" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84" w:rsidP="00AB4F84">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -3894,8 +3818,7 @@
 <w:t>50 of land in the eu cultivate with crop dependent on pollinator face a pollination deficit </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="315643E6" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84"
-     w:rsidP="00AB4F84">
+<w:p w14:paraId="315643E6" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84" w:rsidP="00AB4F84">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -3924,8 +3847,7 @@
 <w:t>drought be cost an average of 9 billion euro a year in economic damage to agriculture energy and public water supply </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5577ADA3" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84"
-     w:rsidP="00AB4F84">
+<w:p w14:paraId="5577ADA3" w14:textId="77777777" w:rsidR="00AB4F84" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84" w:rsidP="00AB4F84">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -3953,8 +3875,7 @@
 <w:t>antimicrobial resistance link to excessive and inappropriate use in animal and human healthcare lead to an estimate 33000 human death a year </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="62190BFB" w14:textId="62E39D1A" w:rsidR="00AB4F84" w:rsidRPr="00AB4F84" w:rsidRDefault="00AB4F84"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="62190BFB" w14:textId="62E39D1A" w:rsidR="00AB4F84" w:rsidRPr="00AB4F84" w:rsidRDefault="00AB4F84" w:rsidP="00A647FD">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -3982,8 +3903,7 @@
 <w:t>global mean crop yield of rice maize and wheat be project to decrease 3 to 10 per degree of warm </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="71BC0FF3" w14:textId="752BAF04" w:rsidR="00E378D0" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="71BC0FF3" w14:textId="752BAF04" w:rsidR="00E378D0" w:rsidRPr="00A647FD" w:rsidRDefault="00AB4F84" w:rsidP="00A647FD">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -4045,8 +3965,7 @@
 <w:t>strategy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="56BCDD2E" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00A647FD" w:rsidRDefault="00E378D0"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="56BCDD2E" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00A647FD" w:rsidRDefault="00E378D0" w:rsidP="00A647FD">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -4056,8 +3975,7 @@
 <w:t>the proposal adopt on 22 june 2022 be part of a package of measure to reduce the environmental footprint of the eu food system and help mitigate the economic loss that we be already suffer due to climate change and biodiversity los the main measure include </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="267E09F3" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00A647FD" w:rsidRDefault="00E378D0"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="267E09F3" w14:textId="77777777" w:rsidR="00E378D0" w:rsidRPr="00A647FD" w:rsidRDefault="00E378D0" w:rsidP="00A647FD">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -4089,8 +4007,7 @@
 <w:t>to reduce by 50 the use and the risk of chemical pesticide a well a the use of the more hazardou pesticide by 2030 member state will set their own national reduction target within define parameter to ensure that the eu wide target be achieve </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4C5079C1" w14:textId="123EBE53" w:rsidR="00E378D0" w:rsidRPr="00A647FD" w:rsidRDefault="00E378D0"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="4C5079C1" w14:textId="123EBE53" w:rsidR="00E378D0" w:rsidRPr="00A647FD" w:rsidRDefault="00E378D0" w:rsidP="00A647FD">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -4138,8 +4055,7 @@
 <w:t>e alternative pest control method with chemical pesticide only use a a last resort </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="030A4A91" w14:textId="37794A62" w:rsidR="00C023C8" w:rsidRPr="00AB4F84" w:rsidRDefault="00E378D0"
-     w:rsidP="00AB4F84">
+<w:p w14:paraId="030A4A91" w14:textId="37794A62" w:rsidR="00C023C8" w:rsidRPr="00AB4F84" w:rsidRDefault="00E378D0" w:rsidP="00AB4F84">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -4199,8 +4115,7 @@
 <w:t>and any ecologically sensitive area to be preserve for threaten pollinator </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="532DBA1B" w14:textId="77777777" w:rsidR="00C023C8" w:rsidRPr="00A647FD" w:rsidRDefault="00C023C8"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="532DBA1B" w14:textId="77777777" w:rsidR="00C023C8" w:rsidRPr="00A647FD" w:rsidRDefault="00C023C8" w:rsidP="00A647FD">
 <w:pPr>
 <w:spacing w:after="0" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4213,8 +4128,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="48F03371" w14:textId="4F86B4F1" w:rsidR="00C023C8" w:rsidRPr="00A647FD" w:rsidRDefault="00E412E7"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="48F03371" w14:textId="4F86B4F1" w:rsidR="00C023C8" w:rsidRPr="00A647FD" w:rsidRDefault="00E412E7" w:rsidP="00A647FD">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -4244,8 +4158,7 @@
 <w:t>farm to fork strategy </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6FA163B9" w14:textId="0CC7069A" w:rsidR="00C023C8" w:rsidRPr="00A647FD" w:rsidRDefault="00C023C8"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="6FA163B9" w14:textId="0CC7069A" w:rsidR="00C023C8" w:rsidRPr="00A647FD" w:rsidRDefault="00C023C8" w:rsidP="00A647FD">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4347,8 +4260,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="44F7A5E4" w14:textId="4A54FCFD" w:rsidR="005839FF" w:rsidRPr="00A647FD" w:rsidRDefault="005839FF"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="44F7A5E4" w14:textId="4A54FCFD" w:rsidR="005839FF" w:rsidRPr="00A647FD" w:rsidRDefault="005839FF" w:rsidP="00A647FD">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4367,8 +4279,7 @@
 <w:t>overall european diet be not in line with national dietary recommendation and the ‘food environment’ do not ensure that the healthy option be alway the easy one if european diet be in line with dietary recommendation the environmental footprint of food system would be significantly reduce </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="21BF5667" w14:textId="6A2A6FE3" w:rsidR="009A274D" w:rsidRPr="00A647FD" w:rsidRDefault="00A608CC"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="21BF5667" w14:textId="6A2A6FE3" w:rsidR="009A274D" w:rsidRPr="00A647FD" w:rsidRDefault="00A608CC" w:rsidP="00A647FD">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4429,8 +4340,7 @@
 <w:t>ation and export of unsustainable practice </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="427ADC08" w14:textId="6002687A" w:rsidR="00C074CE" w:rsidRPr="00A647FD" w:rsidRDefault="00C074CE"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="427ADC08" w14:textId="6002687A" w:rsidR="00C074CE" w:rsidRPr="00A647FD" w:rsidRDefault="00C074CE" w:rsidP="00A647FD">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4521,8 +4431,7 @@
 <w:t>thi mean </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5839149D" w14:textId="68C878BF" w:rsidR="00C074CE" w:rsidRPr="00A647FD" w:rsidRDefault="00C074CE"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="5839149D" w14:textId="68C878BF" w:rsidR="00C074CE" w:rsidRPr="00A647FD" w:rsidRDefault="00C074CE" w:rsidP="00A647FD">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4579,8 +4488,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="668E38A3" w14:textId="7B8BCCA8" w:rsidR="006B1C1B" w:rsidRPr="00A647FD" w:rsidRDefault="0037787A"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="668E38A3" w14:textId="7B8BCCA8" w:rsidR="006B1C1B" w:rsidRPr="00A647FD" w:rsidRDefault="0037787A" w:rsidP="00A647FD">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4657,8 +4565,7 @@
 <w:t>land freshwater and seabased resource on which the food system depend help to mitigate climate change and adapt to it impact protect land soil water air plant and animal health and welfare and reverse the los of biodiversity </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1EA2D400" w14:textId="77777777" w:rsidR="0037787A" w:rsidRPr="00A647FD" w:rsidRDefault="0037787A"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="1EA2D400" w14:textId="77777777" w:rsidR="0037787A" w:rsidRPr="00A647FD" w:rsidRDefault="0037787A" w:rsidP="00A647FD">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4759,8 +4666,7 @@
 <w:t>animal health and welfare while meet dietary need and food preference </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0970B0B9" w14:textId="0E96A23D" w:rsidR="006B1C1B" w:rsidRPr="00A647FD" w:rsidRDefault="0037787A"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="0970B0B9" w14:textId="0E96A23D" w:rsidR="006B1C1B" w:rsidRPr="00A647FD" w:rsidRDefault="0037787A" w:rsidP="00A647FD">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4853,8 +4759,7 @@
 <w:t>ensure integrity of the single market and occupational health and safety </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5231177B" w14:textId="5DEE7372" w:rsidR="0037787A" w:rsidRPr="00A647FD" w:rsidRDefault="0037787A"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="5231177B" w14:textId="5DEE7372" w:rsidR="0037787A" w:rsidRPr="00A647FD" w:rsidRDefault="0037787A" w:rsidP="00A647FD">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4874,8 +4779,7 @@
 <w:t>technical and financial assistance from exist eu instrument such a cohesion fund and the european agricultural fund for rural development eafrd will support the transition </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5A162618" w14:textId="019EF7F6" w:rsidR="005E53A8" w:rsidRPr="00A647FD" w:rsidRDefault="005E53A8"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="5A162618" w14:textId="019EF7F6" w:rsidR="005E53A8" w:rsidRPr="00A647FD" w:rsidRDefault="005E53A8" w:rsidP="00A647FD">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4894,8 +4798,7 @@
 <w:t>combine with certification and label on the sustainability performance of food product and with target incentive the framework will allow operator to benefit from sustainable practice and progressively raise sustainability standard so a to become the norm for all food product place on the eu market </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="61173AD4" w14:textId="47FEC1D2" w:rsidR="00255543" w:rsidRPr="00A647FD" w:rsidRDefault="00255543"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="61173AD4" w14:textId="47FEC1D2" w:rsidR="00255543" w:rsidRPr="00A647FD" w:rsidRDefault="00255543" w:rsidP="00A647FD">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4924,8 +4827,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="27BAA398" w14:textId="1BC697A8" w:rsidR="00255543" w:rsidRPr="00A647FD" w:rsidRDefault="00255543"
-     w:rsidP="00A647FD">
+<w:p w14:paraId="27BAA398" w14:textId="1BC697A8" w:rsidR="00255543" w:rsidRPr="00A647FD" w:rsidRDefault="00255543" w:rsidP="00A647FD">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -4953,8 +4855,7 @@
 <w:t>ensure sustainable food production </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="145B57FC" w14:textId="70F1DE17" w:rsidR="00255543" w:rsidRPr="00A608CC" w:rsidRDefault="00255543"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="145B57FC" w14:textId="70F1DE17" w:rsidR="00255543" w:rsidRPr="00A608CC" w:rsidRDefault="00255543" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:after="0" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -4998,8 +4899,7 @@
 <w:t>removal from the atmosphere base on robust and transparent carbon account to monitor and verify the authenticity of carbon removal </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7A69F14C" w14:textId="40176BAB" w:rsidR="00F47517" w:rsidRPr="00A608CC" w:rsidRDefault="00F47517"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="7A69F14C" w14:textId="40176BAB" w:rsidR="00F47517" w:rsidRPr="00A608CC" w:rsidRDefault="00F47517" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:after="0" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5062,8 +4962,7 @@
 <w:t>er protein fee bioenergy and biochemical offer opportunity for the transition to a climateneutral european economy and the creation of new job in primary production </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5AF7139E" w14:textId="671C5BBA" w:rsidR="00F47517" w:rsidRPr="00A608CC" w:rsidRDefault="00F47517"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="5AF7139E" w14:textId="671C5BBA" w:rsidR="00F47517" w:rsidRPr="00A608CC" w:rsidRDefault="00F47517" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:after="0" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5100,8 +4999,7 @@
 <w:t>and invest in anaerobic digester for bioga production from agriculture waste and residue such a manure farm also have the potential to produce bioga from other source of waste and residue such a from the food and beverage industry sewage wastewater and municipal waste </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6DB73645" w14:textId="1D6FDEF7" w:rsidR="00A50A8C" w:rsidRPr="00A608CC" w:rsidRDefault="00A50A8C"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="6DB73645" w14:textId="1D6FDEF7" w:rsidR="00A50A8C" w:rsidRPr="00A608CC" w:rsidRDefault="00A50A8C" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:after="0" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5136,8 +5034,7 @@
 <w:t>ed in the future cap strategic plan </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="044D3D26" w14:textId="046CBBB3" w:rsidR="00A50A8C" w:rsidRPr="00A608CC" w:rsidRDefault="00A50A8C"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="044D3D26" w14:textId="046CBBB3" w:rsidR="00A50A8C" w:rsidRPr="00A608CC" w:rsidRDefault="00A50A8C" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:after="0" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5212,8 +5109,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="144C6C42" w14:textId="64C7F799" w:rsidR="002C487B" w:rsidRPr="00A608CC" w:rsidRDefault="002C487B"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="144C6C42" w14:textId="64C7F799" w:rsidR="002C487B" w:rsidRPr="00A608CC" w:rsidRDefault="002C487B" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5309,8 +5205,7 @@
 <w:t>er cap strategic plan such a the farm sustainability tool for nutrient management </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="53F46A3D" w14:textId="77777777" w:rsidR="002C6151" w:rsidRPr="00A608CC" w:rsidRDefault="002C6151"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="53F46A3D" w14:textId="77777777" w:rsidR="002C6151" w:rsidRPr="00A608CC" w:rsidRDefault="002C6151" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5345,8 +5240,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4D9397CB" w14:textId="74DDD971" w:rsidR="002C6151" w:rsidRPr="00A608CC" w:rsidRDefault="002C6151"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="4D9397CB" w14:textId="74DDD971" w:rsidR="002C6151" w:rsidRPr="00A608CC" w:rsidRDefault="002C6151" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5375,8 +5269,7 @@
 <w:t>the commission will therefore take action to reduce overall eu sale of antimicrobial for farm animal and in aquaculture by 50 by2030 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="56D51A61" w14:textId="5FE9B5BA" w:rsidR="002C6151" w:rsidRPr="00A608CC" w:rsidRDefault="002C6151"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="56D51A61" w14:textId="5FE9B5BA" w:rsidR="002C6151" w:rsidRPr="00A608CC" w:rsidRDefault="002C6151" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5439,8 +5332,7 @@
 <w:t>farmer need to have acces to a range of quality seed for plant variety adapt to the pressure of climate change the commission will take measure to facilitate the registration of seed variety include for organic farm and to ensure easy market acces for traditional and locallyadapted variety </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6C49741A" w14:textId="1091BB58" w:rsidR="002C6151" w:rsidRPr="00A608CC" w:rsidRDefault="002C6151"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="6C49741A" w14:textId="1091BB58" w:rsidR="002C6151" w:rsidRPr="00A608CC" w:rsidRDefault="002C6151" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5487,8 +5379,7 @@
 <w:t>thi will help member state stimulate both supply and demand for organic product it will ensure consumer trust and boost demand through promotion campaign and green public procurement thi approach will help to reach the objective of at least 25 of the eu’ agricultural land under organic farm by 2030 and a significant increase in organic aquaculture </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="518C3A5A" w14:textId="53A02848" w:rsidR="008C55A0" w:rsidRPr="00A608CC" w:rsidRDefault="008C55A0"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="518C3A5A" w14:textId="53A02848" w:rsidR="008C55A0" w:rsidRPr="00A608CC" w:rsidRDefault="008C55A0" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5583,8 +5474,7 @@
 <w:t>ecology include organic farm carbon farm and agroforestry </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3BD02E78" w14:textId="66B3751A" w:rsidR="008C55A0" w:rsidRPr="00A608CC" w:rsidRDefault="008C55A0"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="3BD02E78" w14:textId="66B3751A" w:rsidR="008C55A0" w:rsidRPr="00A608CC" w:rsidRDefault="008C55A0" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5700,8 +5590,7 @@
 <w:t>significant support by the next european maritime and fishery fund for sustainable seafood farm </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="317C1F49" w14:textId="77777777" w:rsidR="005A56A9" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="317C1F49" w14:textId="77777777" w:rsidR="005A56A9" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5712,8 +5601,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="15609EA5" w14:textId="3B29C9F8" w:rsidR="005A56A9" w:rsidRPr="005A56A9" w:rsidRDefault="005645B0"
-     w:rsidP="005A56A9">
+<w:p w14:paraId="15609EA5" w14:textId="3B29C9F8" w:rsidR="005A56A9" w:rsidRPr="005A56A9" w:rsidRDefault="005645B0" w:rsidP="005A56A9">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -5786,8 +5674,7 @@
 <w:t>in order to ensure food security and safety reinforce public health and mitigate their socioeconomic impact in the eu </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="73DB52A6" w14:textId="2F654AF8" w:rsidR="005645B0" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="73DB52A6" w14:textId="2F654AF8" w:rsidR="005645B0" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5833,8 +5720,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="57E9D01E" w14:textId="1712FEA9" w:rsidR="005645B0" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="57E9D01E" w14:textId="1712FEA9" w:rsidR="005645B0" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5923,8 +5809,7 @@
 <w:t>accompany with a monitor framework </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3940084D" w14:textId="444F631A" w:rsidR="005645B0" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="3940084D" w14:textId="444F631A" w:rsidR="005645B0" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -5967,8 +5852,7 @@
 <w:t>provide busines opportunity for instance link to make use of food waste </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2F944834" w14:textId="5DDF4202" w:rsidR="005645B0" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="2F944834" w14:textId="5DDF4202" w:rsidR="005645B0" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6015,8 +5899,7 @@
 <w:t>play a key role in the sustainability of food system the commission will revise the food contact material legislation to improve food safety and public health in particular in reduce the use of hazardou chemical support the use of innovative and sustainable package solution use environmentallyfriendly reusable and recyclable material and contribute to food waste reduction </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="11D8870A" w14:textId="4600C921" w:rsidR="00732144" w:rsidRPr="005A56A9" w:rsidRDefault="005A56A9"
-     w:rsidP="005A56A9">
+<w:p w14:paraId="11D8870A" w14:textId="4600C921" w:rsidR="00732144" w:rsidRPr="005A56A9" w:rsidRDefault="005A56A9" w:rsidP="005A56A9">
 <w:pPr>
 <w:spacing w:after="0" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6105,8 +5988,7 @@
 <w:t>of sustainable food and to promote healthy and sustainable diet in institutional cater the commission will determine the best way of set minimum mandatory criterium for sustainable food procurement </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4C07E911" w14:textId="4A4A712A" w:rsidR="00233A58" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="4C07E911" w14:textId="4A4A712A" w:rsidR="00233A58" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6149,8 +6031,7 @@
 <w:t>reduce food los and waste </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0D07E79D" w14:textId="608E0453" w:rsidR="00233A58" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="0D07E79D" w14:textId="608E0453" w:rsidR="00233A58" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6177,8 +6058,7 @@
 <w:t>combat food fraud along the food supply chain </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0B5C9B5C" w14:textId="58518F15" w:rsidR="00233A58" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="0B5C9B5C" w14:textId="58518F15" w:rsidR="00233A58" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6207,8 +6087,7 @@
 <w:t>research and innovation rampus be key driver in accelerate the transition to sustainable healthy and inclusive food system from primary production to consumption </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6F407797" w14:textId="1C9387B4" w:rsidR="00233A58" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="6F407797" w14:textId="1C9387B4" w:rsidR="00233A58" w:rsidRPr="00A608CC" w:rsidRDefault="005A56A9" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6350,8 +6229,7 @@
 <w:t>the commission will ensure that the strategy be implement in close coherence with the other element of the green deal particularly the biodiversity strategy for 2030 the new ceap and the zero pollution ambition </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="56B018BB" w14:textId="77777777" w:rsidR="00A608CC" w:rsidRPr="00A608CC" w:rsidRDefault="00A608CC"
-     w:rsidP="00A608CC">
+<w:p w14:paraId="56B018BB" w14:textId="77777777" w:rsidR="00A608CC" w:rsidRPr="00A608CC" w:rsidRDefault="00A608CC" w:rsidP="00A608CC">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -6515,8 +6393,7 @@
 <w:jc w:val="both"/>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="2EB7931A" w14:textId="687F7FE2" w:rsidR="009476EB" w:rsidRPr="00D06768" w:rsidRDefault="009476EB"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="2EB7931A" w14:textId="687F7FE2" w:rsidR="009476EB" w:rsidRPr="00D06768" w:rsidRDefault="009476EB" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:numPr>
@@ -6538,8 +6415,7 @@
 <w:t>permaculture </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4B289E9E" w14:textId="481C8A3C" w:rsidR="009476EB" w:rsidRPr="00991EFE" w:rsidRDefault="009476EB"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="4B289E9E" w14:textId="481C8A3C" w:rsidR="009476EB" w:rsidRPr="00991EFE" w:rsidRDefault="009476EB" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -6566,8 +6442,7 @@
 <w:t>optimally and ethically design and manage landscape to meet people’ need in harmony with natural system </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6A3FDABE" w14:textId="502E4F7D" w:rsidR="009476EB" w:rsidRPr="00991EFE" w:rsidRDefault="00056259"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="6A3FDABE" w14:textId="502E4F7D" w:rsidR="009476EB" w:rsidRPr="00991EFE" w:rsidRDefault="00056259" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -6645,8 +6520,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="10A42D64" w14:textId="375FB835" w:rsidR="00217332" w:rsidRPr="00991EFE" w:rsidRDefault="00217332"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="10A42D64" w14:textId="375FB835" w:rsidR="00217332" w:rsidRPr="00991EFE" w:rsidRDefault="00217332" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -6678,8 +6552,7 @@
 <w:t>biodynamic farm </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="78F7B81F" w14:textId="5155D6CE" w:rsidR="00217332" w:rsidRPr="00991EFE" w:rsidRDefault="00217332"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="78F7B81F" w14:textId="5155D6CE" w:rsidR="00217332" w:rsidRPr="00991EFE" w:rsidRDefault="00217332" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -6747,8 +6620,7 @@
 <w:t>report some biodynamic preparation with the main ingredient like cow manure silica and extract of different plant part like yarrow flower chamomile flower oak bark sting nettle shoot etc which can either by apply through field spray or by compost </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="749D2854" w14:textId="7DA42570" w:rsidR="00567621" w:rsidRPr="00991EFE" w:rsidRDefault="00567621"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="749D2854" w14:textId="7DA42570" w:rsidR="00567621" w:rsidRPr="00991EFE" w:rsidRDefault="00567621" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -6780,8 +6652,7 @@
 <w:t>urban agriculture </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="45738322" w14:textId="6F249445" w:rsidR="00567621" w:rsidRPr="00991EFE" w:rsidRDefault="00567621"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="45738322" w14:textId="6F249445" w:rsidR="00567621" w:rsidRPr="00991EFE" w:rsidRDefault="00567621" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -6800,8 +6671,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="31670CE9" w14:textId="1A61ABC2" w:rsidR="006D71E7" w:rsidRPr="00991EFE" w:rsidRDefault="006D71E7"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="31670CE9" w14:textId="1A61ABC2" w:rsidR="006D71E7" w:rsidRPr="00991EFE" w:rsidRDefault="006D71E7" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -6847,8 +6717,7 @@
 </w:r>
 <w:proofErr w:type="spellEnd"/>
 </w:p>
-<w:p w14:paraId="10DC6AA3" w14:textId="695902C4" w:rsidR="006D71E7" w:rsidRPr="00991EFE" w:rsidRDefault="006D71E7"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="10DC6AA3" w14:textId="695902C4" w:rsidR="006D71E7" w:rsidRPr="00991EFE" w:rsidRDefault="006D71E7" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -6908,8 +6777,7 @@
 <w:t>scale system to commercialscale system </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="76265116" w14:textId="3D0FE6FD" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="76265116" w14:textId="3D0FE6FD" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -6955,8 +6823,7 @@
 <w:t>forestry and food forest </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3150AE7E" w14:textId="66BFBD49" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="3150AE7E" w14:textId="66BFBD49" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -6975,8 +6842,7 @@
 <w:t>temperature and soil humidity while protect crop from wind or heavy rain stabilize soil minimize nutrient runoff and improve soil structure food forest be design permaculture system that consist of a multilayered edible “forest” such a “forest” be compose almost entirely of perennial food plant include a canopy of tall and dwarf fruit and nut tree a fruit shrub layer layer of perennial herb mushroom and vegetable at the grind level climb plant and root vegetable underground </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2202D9DF" w14:textId="28BBF591" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58"
-     w:rsidP="00BD6ABB">
+<w:p w14:paraId="2202D9DF" w14:textId="28BBF591" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58" w:rsidP="00BD6ABB">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -7023,8 +6889,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="151888E7" w14:textId="25065F58" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="00BD6ABB"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="151888E7" w14:textId="25065F58" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="00BD6ABB" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -7066,16 +6931,14 @@
 <w:t>sustainable agriculture a path toward good future food and scientific report vol 1 no 9 2020 2227 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="08781CDB" w14:textId="6948D231" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="08781CDB" w14:textId="6948D231" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="2C365C80" w14:textId="745A55D7" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="2C365C80" w14:textId="745A55D7" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -7107,8 +6970,7 @@
 <w:t>polyculture and crop rotation </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3C8762A8" w14:textId="77777777" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="3C8762A8" w14:textId="77777777" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:after="0" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7131,8 +6993,7 @@
 <w:t>in order to tackle pest and weed problem a some pest prefer specific host maintain and enhance the soil quality cope up with weather fluctuation ensure additional income to the farmer and a healthy diet to the community polyculture and crop rotation over monoculture be very scientific and innovative approach here emphasi be give on the fact that crop which be grow together should be complementary to each other </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="30E09DCD" w14:textId="49F8D69D" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="30E09DCD" w14:textId="49F8D69D" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -7164,8 +7025,7 @@
 <w:t>grow heirloom and old variety </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="113397FD" w14:textId="341281FD" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="113397FD" w14:textId="341281FD" w:rsidR="002A5C58" w:rsidRPr="00991EFE" w:rsidRDefault="002A5C58" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -7175,8 +7035,7 @@
 <w:t>in order to meet market demand for the viability of produce to travel long distance and to be store for long period of time only a few variety be grow commercially thi reduce genetic variability in food crop lead to their inability to adapt to change in climate disease and pest incidence to save the gene pool of indigenou variety preserve the biodiversity of seed establish future climateresistant variety grow of heirloom and old variety and save their seed be very important </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="532260BF" w14:textId="54EF30E8" w:rsidR="007D0844" w:rsidRPr="00991EFE" w:rsidRDefault="007D0844"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="532260BF" w14:textId="54EF30E8" w:rsidR="007D0844" w:rsidRPr="00991EFE" w:rsidRDefault="007D0844" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -7209,8 +7068,7 @@
 <w:t>natural animal rise </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="68E663DD" w14:textId="77777777" w:rsidR="007D0844" w:rsidRPr="00991EFE" w:rsidRDefault="007D0844"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="68E663DD" w14:textId="77777777" w:rsidR="007D0844" w:rsidRPr="00991EFE" w:rsidRDefault="007D0844" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:after="0" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7233,8 +7091,7 @@
 <w:t>to protect the crop from animal consumption industrial agriculture keep livestock graze away from the farm simultaneously crop away from manure but there exist a mutually beneficial relationship between graze animal and grassland through manage graze in one hand wide variety of nutrient will be provide to the animal on the other hand excessive foot fall will help to compact the soil thu prevent soil erosion while the manure leave behind will enrich the soil </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="69920560" w14:textId="7ECF9673" w:rsidR="007D0844" w:rsidRPr="00991EFE" w:rsidRDefault="007D0844"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="69920560" w14:textId="7ECF9673" w:rsidR="007D0844" w:rsidRPr="00991EFE" w:rsidRDefault="007D0844" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -7266,8 +7123,7 @@
 <w:t>mulch groundcover and manual weed control </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="38429E31" w14:textId="54E46B08" w:rsidR="007D0844" w:rsidRPr="00991EFE" w:rsidRDefault="007D0844"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="38429E31" w14:textId="54E46B08" w:rsidR="007D0844" w:rsidRPr="00991EFE" w:rsidRDefault="007D0844" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -7277,8 +7133,7 @@
 <w:t>in order to provide a protective layer to the soil restrict proliferation of weed conserve soil moisture improve soil health fertility and shield soil from direct sunlight mulch and groundcover be a good option mulch can be of both organic and inorganic origin the former consist of straw husk saw dust grass and cover crop manure and compost etc while the late mostly indicate the polyethylene mulch in which the most popular be the black plastic mulch </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="135BE85A" w14:textId="1BFCC68F" w:rsidR="00777693" w:rsidRPr="00991EFE" w:rsidRDefault="00777693"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="135BE85A" w14:textId="1BFCC68F" w:rsidR="00777693" w:rsidRPr="00991EFE" w:rsidRDefault="00777693" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -7310,8 +7165,7 @@
 <w:t>natural pest management </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="27652D67" w14:textId="47ED76D2" w:rsidR="00777693" w:rsidRPr="00991EFE" w:rsidRDefault="00777693"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="27652D67" w14:textId="47ED76D2" w:rsidR="00777693" w:rsidRPr="00991EFE" w:rsidRDefault="00777693" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -7321,8 +7175,7 @@
 <w:t>in thi method of control pest insect bird animal plant and mechanical practice be use instead of use chemical the farm can be manage in such a way that it can harbor natural predator of agricultural pest use the preypredator relationship the population of harmful pest be keep under control </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3A6DF7D7" w14:textId="77777777" w:rsidR="00FB5F00" w:rsidRPr="00991EFE" w:rsidRDefault="00FB5F00"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="3A6DF7D7" w14:textId="77777777" w:rsidR="00FB5F00" w:rsidRPr="00991EFE" w:rsidRDefault="00FB5F00" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7543,8 +7396,7 @@
 <w:t>be also allow </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7C1E88AB" w14:textId="0711D5AC" w:rsidR="00FB5F00" w:rsidRPr="00BD6ABB" w:rsidRDefault="00D07B7F"
-     w:rsidP="00BD6ABB">
+<w:p w14:paraId="7C1E88AB" w14:textId="0711D5AC" w:rsidR="00FB5F00" w:rsidRPr="00BD6ABB" w:rsidRDefault="00D07B7F" w:rsidP="00BD6ABB">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -7797,8 +7649,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3407A4D2" w14:textId="61B2645E" w:rsidR="005859A5" w:rsidRPr="00BD6ABB" w:rsidRDefault="00777693"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="3407A4D2" w14:textId="61B2645E" w:rsidR="005859A5" w:rsidRPr="00BD6ABB" w:rsidRDefault="00777693" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -7829,8 +7680,7 @@
 <w:t>mean “agriculture in harmony with nature” </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3335EB62" w14:textId="3693E465" w:rsidR="00217332" w:rsidRPr="00991EFE" w:rsidRDefault="00217332"
-     w:rsidP="00BD6ABB">
+<w:p w14:paraId="3335EB62" w14:textId="3693E465" w:rsidR="00217332" w:rsidRPr="00991EFE" w:rsidRDefault="00217332" w:rsidP="00BD6ABB">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -7892,16 +7742,14 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="1A3C881D" w14:textId="77777777" w:rsidR="00777693" w:rsidRPr="00991EFE" w:rsidRDefault="00777693"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="1A3C881D" w14:textId="77777777" w:rsidR="00777693" w:rsidRPr="00991EFE" w:rsidRDefault="00777693" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="3B9E7616" w14:textId="38D19142" w:rsidR="00777693" w:rsidRPr="00991EFE" w:rsidRDefault="00777693"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="3B9E7616" w14:textId="38D19142" w:rsidR="00777693" w:rsidRPr="00991EFE" w:rsidRDefault="00777693" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -7949,8 +7797,7 @@
 <w:t>eu </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3D4282BE" w14:textId="5B73A0E4" w:rsidR="00777693" w:rsidRPr="00991EFE" w:rsidRDefault="00777693"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="3D4282BE" w14:textId="5B73A0E4" w:rsidR="00777693" w:rsidRPr="00991EFE" w:rsidRDefault="00777693" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -7978,8 +7825,7 @@
 <w:t>organic farm procedure </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0E3D84A7" w14:textId="39E94599" w:rsidR="005B4CE5" w:rsidRPr="00991EFE" w:rsidRDefault="005859A5"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="0E3D84A7" w14:textId="39E94599" w:rsidR="005B4CE5" w:rsidRPr="00991EFE" w:rsidRDefault="005859A5" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -8071,8 +7917,7 @@
 <w:t>crop rotation </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5C80241E" w14:textId="77777777" w:rsidR="00336D51" w:rsidRPr="00742B12" w:rsidRDefault="00336D51"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="5C80241E" w14:textId="77777777" w:rsidR="00336D51" w:rsidRPr="00742B12" w:rsidRDefault="00336D51" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8203,8 +8048,7 @@
 <w:t>and an increase world population </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="19654120" w14:textId="5A2F3F0A" w:rsidR="00336D51" w:rsidRPr="00742B12" w:rsidRDefault="00DB7F54"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="19654120" w14:textId="5A2F3F0A" w:rsidR="00336D51" w:rsidRPr="00742B12" w:rsidRDefault="00DB7F54" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -8333,16 +8177,14 @@
 <w:t>fig 6 sustainable agriculture procedure </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="12784530" w14:textId="77777777" w:rsidR="009D67D9" w:rsidRPr="00991EFE" w:rsidRDefault="009D67D9"
-     w:rsidP="009D67D9">
+<w:p w14:paraId="12784530" w14:textId="77777777" w:rsidR="009D67D9" w:rsidRPr="00991EFE" w:rsidRDefault="009D67D9" w:rsidP="009D67D9">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="79FF20F3" w14:textId="2A0652A1" w:rsidR="006C45C5" w:rsidRPr="00991EFE" w:rsidRDefault="006C45C5"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="79FF20F3" w14:textId="2A0652A1" w:rsidR="006C45C5" w:rsidRPr="00991EFE" w:rsidRDefault="006C45C5" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -8370,8 +8212,7 @@
 <w:t>eu organic farm action plan </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="673BD558" w14:textId="5ED1BC0D" w:rsidR="005859A5" w:rsidRPr="00991EFE" w:rsidRDefault="005859A5"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="673BD558" w14:textId="5ED1BC0D" w:rsidR="005859A5" w:rsidRPr="00991EFE" w:rsidRDefault="005859A5" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8446,8 +8287,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="50DC92B0" w14:textId="28FE0C09" w:rsidR="00B454EF" w:rsidRPr="00B454EF" w:rsidRDefault="00B454EF"
-     w:rsidP="00B454EF">
+<w:p w14:paraId="50DC92B0" w14:textId="28FE0C09" w:rsidR="00B454EF" w:rsidRPr="00B454EF" w:rsidRDefault="00B454EF" w:rsidP="00B454EF">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8474,8 +8314,7 @@
 <w:t>organic farm area in the total eu agriculture surface in 2019 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="505C60FA" w14:textId="77777777" w:rsidR="005859A5" w:rsidRPr="00991EFE" w:rsidRDefault="005859A5"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="505C60FA" w14:textId="77777777" w:rsidR="005859A5" w:rsidRPr="00991EFE" w:rsidRDefault="005859A5" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -8518,8 +8357,7 @@
 <w:t>stimulate conversion and reinforce the entire value chain </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0301311D" w14:textId="236887FB" w:rsidR="005859A5" w:rsidRPr="00991EFE" w:rsidRDefault="005859A5"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="0301311D" w14:textId="236887FB" w:rsidR="005859A5" w:rsidRPr="00991EFE" w:rsidRDefault="005859A5" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -8571,8 +8409,7 @@
 <w:t>organic farm be knowledgeintensive however there be still a clear need to far enhance the knowledge so that organic farm can become even more sustainable and also more productive to support the ambition of the action plan the commission intend to dedicate at least 30 of the budget for research and innovation action in the field of agriculture forestry and rural area to topic specific to or relevant for the organic sector thi include issue such a increase crop yield genetic biodiversity and alternative to contentiou product </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6E13254A" w14:textId="7B84ACBB" w:rsidR="00AF5162" w:rsidRPr="008B68B3" w:rsidRDefault="00AF5162"
-     w:rsidP="008B68B3">
+<w:p w14:paraId="6E13254A" w14:textId="7B84ACBB" w:rsidR="00AF5162" w:rsidRPr="008B68B3" w:rsidRDefault="00AF5162" w:rsidP="008B68B3">
 <w:pPr>
 <w:pStyle w:val="NormalWeb"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -8590,8 +8427,7 @@
 <w:t>axi 1 stimulate demand and ensure consumer trust </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="347CA59E" w14:textId="79DB7897" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="347CA59E" w14:textId="79DB7897" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8614,8 +8450,7 @@
 <w:t>increase the consumption of organic product and strengthen consumers’ trust in them be vital to encourage farmer to convert to organic to support continue growth and maintain a profitable market for organic operator the commission will undertake action to </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2CEA7325" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="2CEA7325" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8642,8 +8477,7 @@
 <w:t>promote organic farm and the eu logo </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="395016A0" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="395016A0" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8670,8 +8504,7 @@
 <w:t>promote organic canteen and increase the use of green public procurement </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5080DD34" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="5080DD34" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8698,8 +8531,7 @@
 <w:t>reinforce organic school scheme </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7AB2EF00" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="7AB2EF00" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8726,8 +8558,7 @@
 <w:t>prevent food fraud and strengthen consumer trust </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3D87CE68" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="3D87CE68" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8754,8 +8585,7 @@
 <w:t>improve traceability </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3011AAA9" w14:textId="06D2CD2B" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="3011AAA9" w14:textId="06D2CD2B" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8782,8 +8612,7 @@
 <w:t>facilitate the contribution of the private sector </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="73AE20C7" w14:textId="12E9D80A" w:rsidR="00AF5162" w:rsidRPr="008B68B3" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="73AE20C7" w14:textId="12E9D80A" w:rsidR="00AF5162" w:rsidRPr="008B68B3" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8808,8 +8637,7 @@
 <w:t>axi 2 stimulate conversion and reinforce the entire value chain </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="28D42827" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="28D42827" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -8832,8 +8660,7 @@
 <w:t>to continue progress in production and process the action plan will </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6E151B22" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="6E151B22" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8860,8 +8687,7 @@
 <w:t>encourage conversion investment and exchange of best practice </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3ABEE5AE" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="3ABEE5AE" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8888,8 +8714,7 @@
 <w:t>develop sector analysi to increase market transparency </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="487E27A4" w14:textId="510C3E17" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="487E27A4" w14:textId="510C3E17" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8936,8 +8761,7 @@
 <w:t>ation of the food chain </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2AC399D8" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="2AC399D8" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -8964,8 +8788,7 @@
 <w:t>reinforce local and smallvalue process and foster short trade circuit </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2CF1B016" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="2CF1B016" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9020,8 +8843,7 @@
 <w:t>reinforce organic aquaculture </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7F37FB43" w14:textId="522AE70C" w:rsidR="00AF5162" w:rsidRPr="008B68B3" w:rsidRDefault="00AF5162"
-     w:rsidP="008B68B3">
+<w:p w14:paraId="7F37FB43" w14:textId="522AE70C" w:rsidR="00AF5162" w:rsidRPr="008B68B3" w:rsidRDefault="00AF5162" w:rsidP="008B68B3">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:ind w:left="360"/>
@@ -9047,8 +8869,7 @@
 <w:t>axi 3 organic lead by example improve the contribution of organic farm to sustainability </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="21383FCB" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="21383FCB" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -9071,8 +8892,7 @@
 <w:t>the commission will far improve the organic sector’ contribution to sustainability and environmental challenge through action focus on </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="05F41BA0" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="05F41BA0" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9099,8 +8919,7 @@
 <w:t>reduce climate and environmental footprint </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="00D48A8B" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="00D48A8B" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9127,8 +8946,7 @@
 <w:t>enhance genetic biodiversity and increase yield </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="74D3998F" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="74D3998F" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9155,8 +8973,7 @@
 <w:t>develop alternative to contentiou input and other plant protection product </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="74B70373" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="74B70373" w14:textId="77777777" w:rsidR="00AF5162" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9183,8 +9000,7 @@
 <w:t>enhance animal welfare </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7B1C1A2F" w14:textId="422FC103" w:rsidR="005859A5" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="7B1C1A2F" w14:textId="422FC103" w:rsidR="005859A5" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00991EFE">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -9211,8 +9027,7 @@
 <w:t>make more efficient use of resource </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="145562B3" w14:textId="664F944E" w:rsidR="006C45C5" w:rsidRPr="00991EFE" w:rsidRDefault="006C45C5"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="145562B3" w14:textId="664F944E" w:rsidR="006C45C5" w:rsidRPr="00991EFE" w:rsidRDefault="006C45C5" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -9251,8 +9066,7 @@
 <w:t>ough pyrolytic degradation of biomas </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1B18C4EA" w14:textId="6C07A514" w:rsidR="00DD49BE" w:rsidRPr="008B68B3" w:rsidRDefault="00DD49BE"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="1B18C4EA" w14:textId="6C07A514" w:rsidR="00DD49BE" w:rsidRPr="008B68B3" w:rsidRDefault="00DD49BE" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -9270,8 +9084,7 @@
 </w:rPr>
 <w:t>sustainable </w:t>
 </w:r>
-<w:hyperlink r:id="rId57" w:tooltip="Learn more about agriculture from ScienceDirect's AI-generated Topic Pages"
-             w:history="1">
+<w:hyperlink r:id="rId57" w:tooltip="Learn more about agriculture from ScienceDirect's AI-generated Topic Pages" w:history="1">
 <w:r w:rsidRPr="008B68B3">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
@@ -9341,8 +9154,7 @@
 </w:rPr>
 <w:t>also focuse at lower the pest incidence without disturb nature balance pyrolysi proces be one of the method choose in order to strive for biopesticide formation pyrolysi be an ecosustainable technique in the energy conversion of biomas to produce biooil biochar and synga slow pyrolysi wa often select a it low down heat rate and long retention time enhance vapor formation from complete secondary reaction form wood </w:t>
 </w:r>
-<w:hyperlink r:id="rId58" w:tooltip="Learn more about vinegar from ScienceDirect's AI-generated Topic Pages"
-             w:history="1">
+<w:hyperlink r:id="rId58" w:tooltip="Learn more about vinegar from ScienceDirect's AI-generated Topic Pages" w:history="1">
 <w:r w:rsidRPr="008B68B3">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
@@ -9363,8 +9175,7 @@
 </w:rPr>
 <w:t>and biochar hardwood or softwood vinegar be an aqueou liquid mixture of organic acid and compound such a acetic acid methanol </w:t>
 </w:r>
-<w:hyperlink r:id="rId59" w:tooltip="Learn more about furfural from ScienceDirect's AI-generated Topic Pages"
-             w:history="1">
+<w:hyperlink r:id="rId59" w:tooltip="Learn more about furfural from ScienceDirect's AI-generated Topic Pages" w:history="1">
 <w:r w:rsidRPr="008B68B3">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
@@ -9385,8 +9196,7 @@
 </w:rPr>
 <w:t>phenol acetaldehyde furan formic propionic and </w:t>
 </w:r>
-<w:hyperlink r:id="rId60" w:tooltip="Learn more about butyric acid from ScienceDirect's AI-generated Topic Pages"
-             w:history="1">
+<w:hyperlink r:id="rId60" w:tooltip="Learn more about butyric acid from ScienceDirect's AI-generated Topic Pages" w:history="1">
 <w:r w:rsidRPr="008B68B3">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
@@ -9408,8 +9218,7 @@
 <w:t>and other volatile organic </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6F350425" w14:textId="77777777" w:rsidR="00B06BB9" w:rsidRPr="00991EFE" w:rsidRDefault="00B06BB9"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="6F350425" w14:textId="77777777" w:rsidR="00B06BB9" w:rsidRPr="00991EFE" w:rsidRDefault="00B06BB9" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -9420,8 +9229,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="45B24849" w14:textId="6F9B97B5" w:rsidR="00CE5779" w:rsidRPr="00991EFE" w:rsidRDefault="00B11054"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="45B24849" w14:textId="6F9B97B5" w:rsidR="00CE5779" w:rsidRPr="00991EFE" w:rsidRDefault="00B11054" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -9450,8 +9258,7 @@
 <w:t>role of biofertilizer in green sustainable agriculture </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="39D48669" w14:textId="74F578A8" w:rsidR="005F4A26" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162"
-     w:rsidP="00454554">
+<w:p w14:paraId="39D48669" w14:textId="74F578A8" w:rsidR="005F4A26" w:rsidRPr="00991EFE" w:rsidRDefault="00AF5162" w:rsidP="00454554">
 <w:pPr>
 <w:spacing w:after="0" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -9544,8 +9351,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5745A96E" w14:textId="45F77465" w:rsidR="005F4A26" w:rsidRPr="00991EFE" w:rsidRDefault="005F4A26"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="5745A96E" w14:textId="45F77465" w:rsidR="005F4A26" w:rsidRPr="00991EFE" w:rsidRDefault="005F4A26" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -9645,8 +9451,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="38DA0C24" w14:textId="497F8EC4" w:rsidR="004800AA" w:rsidRPr="00991EFE" w:rsidRDefault="004800AA"
-     w:rsidP="00454554">
+<w:p w14:paraId="38DA0C24" w14:textId="497F8EC4" w:rsidR="004800AA" w:rsidRPr="00991EFE" w:rsidRDefault="004800AA" w:rsidP="00454554">
 <w:pPr>
 <w:spacing w:after="0" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -9699,8 +9504,7 @@
 <w:t></w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3096440F" w14:textId="28BD6A05" w:rsidR="009971A6" w:rsidRPr="00991EFE" w:rsidRDefault="009971A6"
-     w:rsidP="00454554">
+<w:p w14:paraId="3096440F" w14:textId="28BD6A05" w:rsidR="009971A6" w:rsidRPr="00991EFE" w:rsidRDefault="009971A6" w:rsidP="00454554">
 <w:pPr>
 <w:spacing w:after="0" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -9779,8 +9583,7 @@
 <w:t>green manure crop residue treat sewage sludge and farmyard manure be generally organicbased biofertilizer while on the contrary microorganismbased biofertilizer contain beneficial microorganism like bacterium fungi and alga </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3AF800F0" w14:textId="66FDC1C4" w:rsidR="006606EE" w:rsidRPr="00991EFE" w:rsidRDefault="006606EE"
-     w:rsidP="00B06BB9">
+<w:p w14:paraId="3AF800F0" w14:textId="66FDC1C4" w:rsidR="006606EE" w:rsidRPr="00991EFE" w:rsidRDefault="006606EE" w:rsidP="00B06BB9">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -9836,8 +9639,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="1212898E" w14:textId="1839A2D7" w:rsidR="006606EE" w:rsidRPr="00991EFE" w:rsidRDefault="00B06BB9"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="1212898E" w14:textId="1839A2D7" w:rsidR="006606EE" w:rsidRPr="00991EFE" w:rsidRDefault="00B06BB9" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -9864,8 +9666,7 @@
 <w:t>type of biofertilizer chaudhary p et al frontier in plant science overview of biofertilizer in crop production and stres management for sustainable agriculture august 2022 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3CFF37B4" w14:textId="77777777" w:rsidR="006606EE" w:rsidRPr="00991EFE" w:rsidRDefault="006606EE"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="3CFF37B4" w14:textId="77777777" w:rsidR="006606EE" w:rsidRPr="00991EFE" w:rsidRDefault="006606EE" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -9876,8 +9677,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="713FD956" w14:textId="0F0296B9" w:rsidR="00FB5F00" w:rsidRPr="00991EFE" w:rsidRDefault="00EE7038"
-     w:rsidP="00B74CA8">
+<w:p w14:paraId="713FD956" w14:textId="0F0296B9" w:rsidR="00FB5F00" w:rsidRPr="00991EFE" w:rsidRDefault="00EE7038" w:rsidP="00B74CA8">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -9932,8 +9732,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="72F7B8F3" w14:textId="6E15B733" w:rsidR="00EE7038" w:rsidRPr="00991EFE" w:rsidRDefault="00B74CA8"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="72F7B8F3" w14:textId="6E15B733" w:rsidR="00EE7038" w:rsidRPr="00991EFE" w:rsidRDefault="00B74CA8" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -9960,8 +9759,7 @@
 <w:t>role of biofertilizer for soil health and crop productivity preserve chaudhary p et al frontier in plant science overview of biofertilizer in crop production and stres management for sustainable agriculture august 2022 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="400CC59F" w14:textId="247F2CC1" w:rsidR="00EE7038" w:rsidRPr="00991EFE" w:rsidRDefault="00EE7038"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="400CC59F" w14:textId="247F2CC1" w:rsidR="00EE7038" w:rsidRPr="00991EFE" w:rsidRDefault="00EE7038" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -9972,8 +9770,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="37265CB5" w14:textId="3DA5E2FF" w:rsidR="00FB5F00" w:rsidRPr="00991EFE" w:rsidRDefault="005C4EC2"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="37265CB5" w14:textId="3DA5E2FF" w:rsidR="00FB5F00" w:rsidRPr="00991EFE" w:rsidRDefault="005C4EC2" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10094,8 +9891,7 @@
 <w:t>microbe to the soil give that these nutrient be mostly in an unmineralized form that cannot be take up by plant soil microbe be need to break down organic matter and transform nutrient into a bioavailable “mineralized” state </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3C662F03" w14:textId="77777777" w:rsidR="00FB5F00" w:rsidRPr="00991EFE" w:rsidRDefault="00FB5F00"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="3C662F03" w14:textId="77777777" w:rsidR="00FB5F00" w:rsidRPr="00991EFE" w:rsidRDefault="00FB5F00" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10106,8 +9902,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="52BB090F" w14:textId="52222114" w:rsidR="00DF0CD5" w:rsidRPr="00991EFE" w:rsidRDefault="009971A6"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="52BB090F" w14:textId="52222114" w:rsidR="00DF0CD5" w:rsidRPr="00991EFE" w:rsidRDefault="009971A6" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -10163,8 +9958,7 @@
 <w:t>pro and con </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0ECB4D47" w14:textId="5379CAF7" w:rsidR="00DF0CD5" w:rsidRPr="00991EFE" w:rsidRDefault="00DF0CD5"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="0ECB4D47" w14:textId="5379CAF7" w:rsidR="00DF0CD5" w:rsidRPr="00991EFE" w:rsidRDefault="00DF0CD5" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="mb0"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -10205,8 +9999,7 @@
 <w:t>their widespread adoption </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="23291A05" w14:textId="23941BDB" w:rsidR="00B31707" w:rsidRPr="00991EFE" w:rsidRDefault="00F02892"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="23291A05" w14:textId="23941BDB" w:rsidR="00B31707" w:rsidRPr="00991EFE" w:rsidRDefault="00F02892" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="mb0"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
@@ -10262,8 +10055,7 @@
 <w:t>nevertheles because the gm crop be consider a good candidate for sustainable food production it be imperative to perform the risk assessment of any develop gm crop explore their negative and positive consequence for the current agricultural development </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="76662F06" w14:textId="77777777" w:rsidR="00E6033A" w:rsidRPr="00991EFE" w:rsidRDefault="00E6033A"
-     w:rsidP="00E6033A">
+<w:p w14:paraId="76662F06" w14:textId="77777777" w:rsidR="00E6033A" w:rsidRPr="00991EFE" w:rsidRDefault="00E6033A" w:rsidP="00E6033A">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10282,8 +10074,7 @@
 <w:t>beside these technique genome edit tool ha enable the plant transformation with ease accuracy and specificity some of these method include zinc finger nuclease zfn transcription activatorlike effector nuclease talen and cluster regularly interspaced short palindromic repeat crisprca system be direct toward the concern relate to the unpredictability and inefficiency of traditional transgenesi </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4926F257" w14:textId="77777777" w:rsidR="00E6033A" w:rsidRPr="00991EFE" w:rsidRDefault="00E6033A"
-     w:rsidP="00E6033A">
+<w:p w14:paraId="4926F257" w14:textId="77777777" w:rsidR="00E6033A" w:rsidRPr="00991EFE" w:rsidRDefault="00E6033A" w:rsidP="00E6033A">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10302,8 +10093,7 @@
 <w:t>there ha be a sharp increase in the approval of the number of plant specie with gm variety around 44 country have provide regulatory acceptance to 40 gm crop and to 509 event of genetic modification since january 2022 thi manipulation include 41 commercial trait for use in cultivation food and fee </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="762BC281" w14:textId="77777777" w:rsidR="00E6033A" w:rsidRPr="00991EFE" w:rsidRDefault="00E6033A"
-     w:rsidP="00E6033A">
+<w:p w14:paraId="762BC281" w14:textId="77777777" w:rsidR="00E6033A" w:rsidRPr="00991EFE" w:rsidRDefault="00E6033A" w:rsidP="00E6033A">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10322,16 +10112,14 @@
 <w:t>the inception of gm crop ha be controversial mainly due to the ethical concern and issue of sustainability surround the negative impact of gm crop </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="09AE14F2" w14:textId="77777777" w:rsidR="00E6033A" w:rsidRPr="00991EFE" w:rsidRDefault="00E6033A"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="09AE14F2" w14:textId="77777777" w:rsidR="00E6033A" w:rsidRPr="00991EFE" w:rsidRDefault="00E6033A" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="mb0"/>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="58529C7F" w14:textId="229848A5" w:rsidR="00DF0CD5" w:rsidRPr="00991EFE" w:rsidRDefault="00E53A0E"
-     w:rsidP="006372BE">
+<w:p w14:paraId="58529C7F" w14:textId="229848A5" w:rsidR="00DF0CD5" w:rsidRPr="00991EFE" w:rsidRDefault="00E53A0E" w:rsidP="006372BE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -10390,8 +10178,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="77D9EC73" w14:textId="485B5D9E" w:rsidR="00E53A0E" w:rsidRPr="00991EFE" w:rsidRDefault="00B74CA8"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="77D9EC73" w14:textId="485B5D9E" w:rsidR="00E53A0E" w:rsidRPr="00991EFE" w:rsidRDefault="00B74CA8" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10456,8 +10243,7 @@
 <w:t>genetically engineer crop for sustainably enhance food production system frontier in plant science november 2022 124 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="398D8A05" w14:textId="77777777" w:rsidR="00E0182C" w:rsidRPr="00991EFE" w:rsidRDefault="00E0182C"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="398D8A05" w14:textId="77777777" w:rsidR="00E0182C" w:rsidRPr="00991EFE" w:rsidRDefault="00E0182C" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10470,8 +10256,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="0A2BE67B" w14:textId="511A3862" w:rsidR="00E0182C" w:rsidRPr="00991EFE" w:rsidRDefault="00E0182C"
-     w:rsidP="00B74CA8">
+<w:p w14:paraId="0A2BE67B" w14:textId="511A3862" w:rsidR="00E0182C" w:rsidRPr="00991EFE" w:rsidRDefault="00E0182C" w:rsidP="00B74CA8">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -10528,8 +10313,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="01EE2CAA" w14:textId="0F8C3BB6" w:rsidR="00E0182C" w:rsidRPr="00991EFE" w:rsidRDefault="00B74CA8"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="01EE2CAA" w14:textId="0F8C3BB6" w:rsidR="00E0182C" w:rsidRPr="00991EFE" w:rsidRDefault="00B74CA8" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10584,8 +10368,7 @@
 <w:t>a a et al genetically engineer crop for sustainably enhance food production system frontier in plant science november 2022 124 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="13CAEE31" w14:textId="29341EE5" w:rsidR="00E0182C" w:rsidRPr="00991EFE" w:rsidRDefault="00E0182C"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="13CAEE31" w14:textId="29341EE5" w:rsidR="00E0182C" w:rsidRPr="00991EFE" w:rsidRDefault="00E0182C" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10654,8 +10437,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="5E70C223" w14:textId="7812E45B" w:rsidR="009A1C8B" w:rsidRPr="00991EFE" w:rsidRDefault="00B74CA8"
-     w:rsidP="00B74CA8">
+<w:p w14:paraId="5E70C223" w14:textId="7812E45B" w:rsidR="009A1C8B" w:rsidRPr="00991EFE" w:rsidRDefault="00B74CA8" w:rsidP="00B74CA8">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10710,8 +10492,7 @@
 <w:t>a a et al genetically engineer crop for sustainably enhance food production system frontier in plant science november 2022 124 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="708C0F79" w14:textId="26D4B120" w:rsidR="00E0182C" w:rsidRPr="00991EFE" w:rsidRDefault="00E0182C"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="708C0F79" w14:textId="26D4B120" w:rsidR="00E0182C" w:rsidRPr="00991EFE" w:rsidRDefault="00E0182C" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10724,8 +10505,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="211937C2" w14:textId="14625BCA" w:rsidR="009A1C8B" w:rsidRPr="00991EFE" w:rsidRDefault="009A1C8B"
-     w:rsidP="00B74CA8">
+<w:p w14:paraId="211937C2" w14:textId="14625BCA" w:rsidR="009A1C8B" w:rsidRPr="00991EFE" w:rsidRDefault="009A1C8B" w:rsidP="00B74CA8">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -10782,8 +10562,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="125D1DFF" w14:textId="5D84EC13" w:rsidR="009A1C8B" w:rsidRPr="00991EFE" w:rsidRDefault="00B74CA8"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="125D1DFF" w14:textId="5D84EC13" w:rsidR="009A1C8B" w:rsidRPr="00991EFE" w:rsidRDefault="00B74CA8" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10844,8 +10623,7 @@
 <w:t>a a et al genetically engineer crop for sustainably enhance food production system frontier in plant science november 2022 124 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="628DF22A" w14:textId="19548ADE" w:rsidR="009A1C8B" w:rsidRPr="00991EFE" w:rsidRDefault="009A1C8B"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="628DF22A" w14:textId="19548ADE" w:rsidR="009A1C8B" w:rsidRPr="00991EFE" w:rsidRDefault="009A1C8B" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10858,8 +10636,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="12F376FD" w14:textId="4B34B24F" w:rsidR="009A1C8B" w:rsidRPr="00991EFE" w:rsidRDefault="009A1C8B"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="12F376FD" w14:textId="4B34B24F" w:rsidR="009A1C8B" w:rsidRPr="00991EFE" w:rsidRDefault="009A1C8B" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -10902,8 +10679,7 @@
 <w:t>it can introduce </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="604AE30F" w14:textId="0242F9C1" w:rsidR="00005E55" w:rsidRPr="00991EFE" w:rsidRDefault="00005E55"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="604AE30F" w14:textId="0242F9C1" w:rsidR="00005E55" w:rsidRPr="00991EFE" w:rsidRDefault="00005E55" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -10931,8 +10707,7 @@
 <w:t>abiotic biotic stres tolerance </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2504C504" w14:textId="22A1B60C" w:rsidR="00005E55" w:rsidRPr="00991EFE" w:rsidRDefault="00005E55"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="2504C504" w14:textId="22A1B60C" w:rsidR="00005E55" w:rsidRPr="00991EFE" w:rsidRDefault="00005E55" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -10960,8 +10735,7 @@
 <w:t>crop yield enhancement </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="78BA1D35" w14:textId="607F4FA1" w:rsidR="00005E55" w:rsidRPr="00991EFE" w:rsidRDefault="00005E55"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="78BA1D35" w14:textId="607F4FA1" w:rsidR="00005E55" w:rsidRPr="00991EFE" w:rsidRDefault="00005E55" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -10989,8 +10763,7 @@
 <w:t>quality improvement </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="27006049" w14:textId="080A16C4" w:rsidR="00005E55" w:rsidRPr="00991EFE" w:rsidRDefault="00005E55"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="27006049" w14:textId="080A16C4" w:rsidR="00005E55" w:rsidRPr="00991EFE" w:rsidRDefault="00005E55" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -11018,8 +10791,7 @@
 <w:t>nutritional enhancement </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="21D14B72" w14:textId="5A617FEC" w:rsidR="00064806" w:rsidRPr="00991EFE" w:rsidRDefault="00064806"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="21D14B72" w14:textId="5A617FEC" w:rsidR="00064806" w:rsidRPr="00991EFE" w:rsidRDefault="00064806" w:rsidP="00991EFE">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -11047,8 +10819,7 @@
 <w:t>enhance hybrid breed </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="59CC80C9" w14:textId="28DB1A6A" w:rsidR="00064806" w:rsidRPr="00991EFE" w:rsidRDefault="00064806"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="59CC80C9" w14:textId="28DB1A6A" w:rsidR="00064806" w:rsidRPr="00991EFE" w:rsidRDefault="00064806" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -11102,8 +10873,7 @@
 <w:t>biotechnology can contribute in many direction to the development of green agriculture a it be present in the follow scheme </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="51E925AB" w14:textId="77777777" w:rsidR="00B74CA8" w:rsidRPr="00991EFE" w:rsidRDefault="00B74CA8"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="51E925AB" w14:textId="77777777" w:rsidR="00B74CA8" w:rsidRPr="00991EFE" w:rsidRDefault="00B74CA8" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -11114,8 +10884,7 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="2AE591E7" w14:textId="77777777" w:rsidR="00C019F3" w:rsidRPr="00991EFE" w:rsidRDefault="00BC50FE"
-     w:rsidP="00B74CA8">
+<w:p w14:paraId="2AE591E7" w14:textId="77777777" w:rsidR="00C019F3" w:rsidRPr="00991EFE" w:rsidRDefault="00BC50FE" w:rsidP="00B74CA8">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="center"/>
@@ -11185,8 +10954,7 @@
 </w:drawing>
 </w:r>
 </w:p>
-<w:p w14:paraId="73319925" w14:textId="508A5A9A" w:rsidR="00C019F3" w:rsidRPr="00991EFE" w:rsidRDefault="00B74CA8"
-     w:rsidP="00991EFE">
+<w:p w14:paraId="73319925" w14:textId="508A5A9A" w:rsidR="00C019F3" w:rsidRPr="00991EFE" w:rsidRDefault="00B74CA8" w:rsidP="00991EFE">
 <w:pPr>
 <w:spacing w:line="276" w:lineRule="auto"/>
 <w:jc w:val="both"/>
@@ -11259,8 +11027,7 @@
 <w:t>agricultural biotechnology for sustainable food security trend in biotechnology march 2023 vol 41 no 3 331341 </w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5796D3A7" w14:textId="754E6A92" w:rsidR="00BE4580" w:rsidRPr="002C6151" w:rsidRDefault="00BE4580"
-     w:rsidP="002C6151">
+<w:p w14:paraId="5796D3A7" w14:textId="754E6A92" w:rsidR="00BE4580" w:rsidRPr="002C6151" w:rsidRDefault="00BE4580" w:rsidP="002C6151">
 <w:pPr>
 <w:rPr>
 <w:rFonts w:ascii="ECSquareSansPro" w:eastAsia="Times New Roman" w:hAnsi="ECSquareSansPro" w:cs="Times New Roman"/>
