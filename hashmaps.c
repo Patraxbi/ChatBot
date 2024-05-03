@@ -3,7 +3,7 @@
 #include <string.h>
 #include "gabi-patrascu-nu-ma-uita.h"
 
-const char MODULE_DIRECTORY_PATH[100] = ".\\";
+const char MODULE_DIRECTORY_PATH[100] = "documents\\";
 
 const char MODULE_TXT_NAMES[7][100] = {
         "Introduction.txt",
@@ -223,7 +223,7 @@ void parsemodule(FILE *output, char *input_txt, char *input_xml, int modul) {
 }
 
 int main(void) {
-    FILE *output = fopen("wordlist.csv", "wt");
+    FILE *output = fopen("Output\\wordlist.csv", "wt");
     if (output == NULL) {
         printf("File not found\n");
         exit(-1);
