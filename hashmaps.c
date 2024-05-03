@@ -91,10 +91,10 @@ int main(void) {
     char line[10000];
     /// scapam de titlu sau modul
     while (fgets(line, 10000, xml) != NULL) {
-        if (isthewordinside("Title", line)) {
+        if (isthewordinside("title", line)) {
             break;
         }
-        if (isthewordinside("MODULE", line)) {
+        if (isthewordinside("module", line)) {
             break;
         }
     }
@@ -238,10 +238,10 @@ int main(void) {
 
     /// scapam de titlu sau modul
     while (fgets(line, 10000, xml) != NULL) {
-        if (isthewordinside("Title", line)) {
+        if (isthewordinside("title", line)) {
             break;
         }
-        if (isthewordinside("MODULE", line)) {
+        if (isthewordinside("module", line)) {
             break;
         }
     }
