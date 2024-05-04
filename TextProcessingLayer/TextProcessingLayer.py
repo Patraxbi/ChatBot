@@ -16,16 +16,11 @@ def text_processing_layer(question: str):
 
     filtered_question= { w for w in question_set if not w.lower() in stop_words_set}
 
-    print('\n')
-    print(question_set)
-    print('\n')
-    print(filtered_question)
-
     #acum am query-ul fără cuvintele de legătură/cuvintele fără prea multă importanță semantică
 
-    #acum am să adaug și forma lemmatizată la query
+    #adaug și forma lemmatizată la query
     wnl = WordNetLemmatizer()
-    print(type(filtered_question))
+    #print(type(filtered_question))
     word_lemmas = set()
     for words in filtered_question:
         lemma = wnl.lemmatize(words)
