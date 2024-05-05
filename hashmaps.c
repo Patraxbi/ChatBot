@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "gabi-patrascu-nu-ma-uita.h"
+#include "bitwise_encoding.h"
+#include "bitwise_encoding.c"
 
 const char MODULE_DIRECTORY_PATH[100] = "documents\\";
 
@@ -181,7 +182,10 @@ void parsemodule(FILE *output, char *input_txt, char *input_xml, int modul) {
                     while (word != NULL) {
                         if (isgoodword(word)) {
                             // secventa, importanta, modulul, paragraful
-                            fprintf(output, "%s,%d,%d,%d\n", word, important, modul, paragraph);
+                            bitwise encoded;
+                            encode_info(&encoded, important, modul, paragraph);
+                            //sunt nesigur daca e bine
+                            fprintf(output, "%s,%d\n", word, encoded);
                         }
                         word = strtok(NULL, " ");
                     }
@@ -200,7 +204,7 @@ int main(void) {
         printf("File not found\n");
         exit(-1);
     }
-    fprintf(output, "SECVENTA,IMPORTANTA,MODUL,PARAGRAF\n");
+    fprintf(output, "SEQUENCE,ENCODING\n");
 
     for (int modul = 0; modul < 7; modul++) {
         char path_txt[200] = "\0", path_xml[200] = "\0";
