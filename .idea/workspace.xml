@@ -20,25 +20,26 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ce4c649-8bea-4976-95eb-aaaa5d94ef03" name="Changes" comment="fisiere extra din proiect">
+    <list default="true" id="9ce4c649-8bea-4976-95eb-aaaa5d94ef03" name="Changes" comment="Gabi nu m-a uitat">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Introduction.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/MODULE 1 CLIMATE CHANGE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/MODULE 2 GREEN ENERGY.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/MODULE 3 INDUSTRIAL STRATEGY FOR CIRCULAR ECONOMY.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/MODULE 4 GREEN AGRICULTURE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/MODULE 5 BIODIVERSITY.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/MODULE 6 ZERO POLLUTION.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/document.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/document_mod1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/document_mod2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/document_mod3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/document_mod4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/document_mod5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/document_mod6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/hashmap.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/wordlist.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/wordlist.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Output/wordlist.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-edcc4668d8cb91c7dd2d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-415b6c1dcb117619cb18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-05-03T14-40-11-0460.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChatBot.dir/hashmaps.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChatBot3.dir/hashmap.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hashmaps.c" beforeDir="false" afterPath="$PROJECT_DIR$/hashmaps.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashmaps.exe" beforeDir="false" afterPath="$PROJECT_DIR$/hashmaps.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,6 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -86,28 +86,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ File.hashmaps.c.executor": "Run",
-    "CMake Application.ChatBot.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "Alt-Hashmap.c",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
-    "org.rust.first.attach.projects": "true",
-    "settings.editor.selected.configurable": "preferences.sourceCode.XML",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.hashmaps.c.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.ChatBot.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Alt-Hashmap.c&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.XML&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hashmaps.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ChatBot" TARGET_NAME="hashmaps.c" CONFIG_NAME="hashmaps.c">
       <option name="sourceFile" value="hashmaps.c" />
       <method v="2">
@@ -210,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714733695836</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Gabi nu m-a uitat">
+      <option name="closed" value="true" />
+      <created>1714922103020</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714922103020</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +271,8 @@
     <MESSAGE value="Hashmap-ul acum contine doar cuvinte" />
     <MESSAGE value="Documentele XML ale fiecarui fisier sursa docx, cu noi linii adaugate pentru a putea fi citit secvential" />
     <MESSAGE value="fisiere extra din proiect" />
-    <option name="LAST_COMMIT_MESSAGE" value="fisiere extra din proiect" />
+    <MESSAGE value="Gabi nu m-a uitat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gabi nu m-a uitat" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
