@@ -63,11 +63,11 @@ void create_keylist(char *fileName, ELEMENT *keylist, int *nrElements)
         exit(1);
     }
 
-    fgets(header, 50, fin);
+    fgets(header, 1000, fin);
     free(header);
     while(!feof(fin))
     {
-        fgets(string, 50, fin);
+        fgets(string, 1000, fin);
         ELEMENT element = construct(string);
         (*nrElements) ++; 
         keylist = (ELEMENT*) realloc(keylist, *nrElements * sizeof(ELEMENT));
