@@ -20,9 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ce4c649-8bea-4976-95eb-aaaa5d94ef03" name="Changes" comment="Possible final form of the hashmap (if the implementation is correct)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9ce4c649-8bea-4976-95eb-aaaa5d94ef03" name="Changes" comment="Possible final form of the hashmap (if the implementation is correct)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Hashmap_C_creation" />
+        <entry key="$PROJECT_DIR$" value="Alt-Hashmap.c" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -128,6 +126,7 @@
       <workItem from="1714734172655" duration="66000" />
       <workItem from="1714748653969" duration="667000" />
       <workItem from="1715256327918" duration="2000" />
+      <workItem from="1715256792733" duration="353000" />
     </task>
     <task id="LOCAL-00001" summary="Aici am o baza pt cum o sa fac hashmap-ul la nivelul cel mai basic pt fisierul introduction. &#10;To do:&#10;1)Sa scalez codul pt toate fisierele&#10;2)Sa dau merge la hash-urile de prioritate 0 taiate in bucati din varii motive in XML-ul original&#10;3)Sa invat sa folosesc pe bune github&#10;4)Sa il fac pe Gabi sa scrie functia de hashurile la functiile mele">
       <option name="closed" value="true" />
