@@ -20,26 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ce4c649-8bea-4976-95eb-aaaa5d94ef03" name="Changes" comment="Gabi nu m-a uitat">
+    <list default="true" id="9ce4c649-8bea-4976-95eb-aaaa5d94ef03" name="Changes" comment="Possible final form of the hashmap (if the implementation is correct)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/wordlist.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Output/wordlist.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-edcc4668d8cb91c7dd2d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-415b6c1dcb117619cb18.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-05-03T14-40-11-0460.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChatBot.dir/hashmaps.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChatBot3.dir/hashmap.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashmaps.c" beforeDir="false" afterPath="$PROJECT_DIR$/hashmaps.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashmaps.exe" beforeDir="false" afterPath="$PROJECT_DIR$/hashmaps.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,11 +90,6 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="hashmaps.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ChatBot" TARGET_NAME="hashmaps.c" CONFIG_NAME="hashmaps.c">
       <option name="sourceFile" value="hashmaps.c" />
       <method v="2">
@@ -150,6 +127,7 @@
       <workItem from="1714734138635" duration="15000" />
       <workItem from="1714734172655" duration="66000" />
       <workItem from="1714748653969" duration="667000" />
+      <workItem from="1715256327918" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="Aici am o baza pt cum o sa fac hashmap-ul la nivelul cel mai basic pt fisierul introduction. &#10;To do:&#10;1)Sa scalez codul pt toate fisierele&#10;2)Sa dau merge la hash-urile de prioritate 0 taiate in bucati din varii motive in XML-ul original&#10;3)Sa invat sa folosesc pe bune github&#10;4)Sa il fac pe Gabi sa scrie functia de hashurile la functiile mele">
       <option name="closed" value="true" />
@@ -223,7 +201,31 @@
       <option name="project" value="LOCAL" />
       <updated>1714922103020</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&#10;Environment variables">
+      <option name="closed" value="true" />
+      <created>1714922221748</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714922221748</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Possible implementation of encoding functions? Further testing required.">
+      <option name="closed" value="true" />
+      <created>1714922290582</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714922290582</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Possible final form of the hashmap (if the implementation is correct)">
+      <option name="closed" value="true" />
+      <created>1714922332587</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1714922332587</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +274,10 @@
     <MESSAGE value="Documentele XML ale fiecarui fisier sursa docx, cu noi linii adaugate pentru a putea fi citit secvential" />
     <MESSAGE value="fisiere extra din proiect" />
     <MESSAGE value="Gabi nu m-a uitat" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gabi nu m-a uitat" />
+    <MESSAGE value="&#10;Environment variables" />
+    <MESSAGE value="Possible implementation of encoding functions? Further testing required." />
+    <MESSAGE value="Possible final form of the hashmap (if the implementation is correct)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Possible final form of the hashmap (if the implementation is correct)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
