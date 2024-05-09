@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <limits.h>
+#include "bitwise_encoding.c"
+#include "bitwise_encoding.h"
 
 void check(void *pointer)
 {
@@ -15,16 +17,23 @@ void check(void *pointer)
 typedef struct element
 {
     char *sequence;
-    int priority;
-    int module;
-    int paragraph;
+    bitwise priority;
+    bitwise module;
+    bitwise paragraph;
 }
 ELEMENT;
+
+typedef struct crypto
+{
+    char *sequence;
+    bitwise encoded;
+}
+CRYPTO
 
 /*
     * scot un element dintr-o linie din hashmap și construiesc o structură de tip ELEMENT
 */
-ELEMENT construct(char *string)
+CRYPTO construct(char *string)
 {
     int i = 0;
     char *token = NULL;
@@ -40,13 +49,11 @@ ELEMENT construct(char *string)
         token = strtok(NULL, ",");
     }
 
-    ELEMENT element;
+    CRYPTO element;
     element.sequence = (char*) malloc((strlen(sentence[0]) + 1) * sizeof(char));
     check(element.sequence);
     strcpy(element.sequence, sentence[0]);
-    element.priority = atoi(sentence[1]);
-    element.module = atoi(sentence[2]);
-    element.paragraph = atoi(sentence[3]);
+    element.encoded = atoi(sentence[1]);
 
     for (int j = 0; j < i; j++) 
     {
@@ -60,7 +67,7 @@ ELEMENT construct(char *string)
 /*
     ? formez array-ul cu toate structurile de tip ELEMENT din Hashmap
 */
-void create_keylist(char *fileName, ELEMENT **keylist, int *nrElements)
+void create_keylist(char *fileName, CRYPTO **keylist, int *nrElements)
 {
     FILE *fin;
     char *header = (char*) malloc(1000 * sizeof(char));
@@ -79,9 +86,9 @@ void create_keylist(char *fileName, ELEMENT **keylist, int *nrElements)
     while(!feof(fin))
     {
         fgets(string, 1000, fin);
-        ELEMENT element = construct(string);
+        CRYPTO element = construct(string);
         (*nrElements) ++; 
-        *keylist = (ELEMENT*) realloc(*keylist, *nrElements * sizeof(ELEMENT));
+        *keylist = (CRYPTO*) realloc(*keylist, *nrElements * sizeof(CRYPTO));
         check(keylist);
         (*keylist)[*nrElements - 1] = element; 
     }
@@ -147,28 +154,15 @@ void mergesort(void* ptr, int n, size_t size, int (*comp)(const void*, const voi
 */
 int comp(const void *elemA, const void *elemB)
 {
-    const ELEMENT *a = (const ELEMENT*) elemA;
-    const ELEMENT *b = (const ELEMENT*) elemB;
+    const CRYPTO *a = (const CRYPTO*) elemA;
+    const CRYPTO *b = (const CRYPTO*) elemB;
 
-    return (a->priority < b->priority)  
+    return (a->encoded < b->encoded)  
     ||
     (
-        (a->priority == b->priority) &&
+        (a->encoded == b->encoded) &&
         strcmp(a->sequence, b->sequence) < 0
     ) 
-    ||
-    (
-        (a->priority == b->priority) &&
-        strcmp(a->sequence, b->sequence) == 0 &&
-        (a->module < b->module)
-    )
-    ||
-    (
-        (a->priority == b->priority) &&
-        strcmp(a->sequence, b->sequence) == 0 &&
-        (a->module == b->module) &&
-        (a->paragraph < b->paragraph)
-    )
     ;
 }
 
@@ -241,30 +235,46 @@ int Levenshtein_distance(char *text, char *pattern)
 }
 
 
-void create_resultlist(char *input, ELEMENT *keylist, int sizeKeylist, ELEMENT **results, int *nrResults)
+void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **results, int *nrResults)
 {
     int dist_minim = INT_MAX;
+    CRYPTO *resultsEncrypted = NULL;
     *nrResults = 0;
     int i;
     for(i = 0; i < sizeKeylist; i ++)
         dist_minim = minim(dist_minim, Levenshtein_distance(input, keylist[i].sequence));
 
+    //generăm rezultatul în forma criptată
     for(i = 0; i < sizeKeylist; i ++)
         if(Levenshtein_distance(input, keylist[i].sequence) == dist_minim)
         {
             *nrResults = *nrResults + 1;
-            *results = (ELEMENT*) realloc(*results, *nrResults * sizeof(ELEMENT));
-            check(*results);
-            (*results)[*nrResults - 1] = keylist[i];
+            resultsEncrypted = (CRYPTO*) realloc(results, *nrResults * sizeof(CRYPTO));
+            check(resultsEncrypted);
+            results[*nrResults - 1] = keylist[i];
         }
     
-    mergesort(*results, *nrResults, sizeof(ELEMENT), comp);
+    mergesort(resultsEncrypted, *nrResults, sizeof(CRYPTO), comp);
+
+    *results = (ELEMENT*) malloc(*nrResults * sizeof(ELEMENT));
+    check(*results);
+    
+    //convertim rezultatul în forma decriptată (ELEMENT)
+    for(i = 0; i < *nrResults; i ++)
+    {
+        ELEMENT element;
+        strcmp(element.sequence, resultsEncryped[i].sequence);
+        get_info(resultsEncrypted[i].encoded, &(element.priority), &(element.module), &(element.paragraph));
+        (*results)[i] = element;
+    }
+    free(resultsEncrypted);
 }
 
 int main()
 {
     char input[50];
-    ELEMENT *keyList = NULL, *resultslist = NULL;
+    CRYPTO *keyList = NULL;
+    ELEMENT *resultslist = NULL;
     int nrElements, nrResults;
 
     int i;

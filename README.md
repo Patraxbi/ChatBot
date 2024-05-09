@@ -1,6 +1,6 @@
 # fuzzy_search.c
->1. The code's fundamental data structure is **ELEMENT**, where we keep a line from the HashMap file (named *wordlist.csv*) (the string **sequence**, the integer **priority**, the integer **module** and the integer **paragraph**) (the ***construct*** function converts the string line from the HashMap file into an **ELEMENT** structure).
->2. Through the ***create_keylist*** function we generate the *keylist* array with *nrElements* data units of **ELEMENT** type.
+>1. The code's fundamental data structures are **ELEMENT**, where we keep a line from the HashMap file (named *wordlist.csv*) (the string **sequence**, the *bitwise* **priority**, the *bitwise* **module** and the *bitwise* **paragraph**), and its encoded version **CRYPTO**, where the parameters **module**, **paragraph** and **priority** are encoded in the bitwise **encoded** (the ***construct*** function converts the string line from the HashMap file into an **CRYPTO** structure).
+>2. Through the ***create_keylist*** function we generate the *keylist* array with *nrElements* data units of **CRYPTO** type.
 >3. To decide how close the *input* word is from the one saved in the HashMap file, we will use the *Levenshtein distance*, which is integrated through the function of the same name:
 >>- The function will have 2 parameters:  
 >>>1. the *pattern* string with *m* characters;
@@ -23,14 +23,14 @@
 >>>>*distance[i - 1][j - 1] + substitutionCost* (**substitution**);
 >>
 >>- the *Levenshtein distance* between the 2 words will be calcuated in the *distance[m][n]* value;
->4. The ***create_resultlist*** function return the *results* array with *nrResults* units of **ELEMENT** type. It will take each unit from the *keylist* array and will generate the *results* array with all the elements from *keylist*, whose *sequence* has the minimum Levenshtein distance to the *input* . Finally, the *results* array is sorted in ascending order using the ***MergeSort*** algoritm in this priority:
->>1. **priority**;
+>4. The ***create_resultlist*** function return the *results* array with *nrResults* units of **CRYPTO** type. It will take each unit from the *keylist* array and will generate the *results* array with all the elements from *keylist*, whose *sequence* has the minimum Levenshtein distance to the *input* . Finally, the *results* array is sorted in ascending order using the ***MergeSort*** algoritm in this priority:
+>>1. **encoded**;
 >>2. **sequence**;
->>3. **module**;
->>4. **paragraph**;
+>>
+>5. After generating the encrypted *resutltlist*, we convert it into the **ELEMENT** type also in the ***create_resultlist***, to have acces at the localizing parameters(**module** and **paragraph**).
 
 ## The usage of the functions from *fuzzy_search.c* file in the final application:
->1. Use the ***create_keylist*** function to convert the *wordlist.csv* HashMap into an **ELEMENT** array;
+>1. Use the ***create_keylist*** function to convert the *wordlist.csv* HashMap into an **CRYPTO** array;
 >2. Use the ***create_resultlist*** function to obtain an result array with the closest words to the *input* word;
 >3. Extract the localizing data (**module** and **paragraph**) for returning the wanted paragraphs after priority, alphabetical order and location.
 >4. In case of an *input* with 2 or more words, split the *input* string into individual words, use the ***create_resultlist*** function for each word and keep only the **ELEMENT** structures from each *result* array with identical localizing data (the **module** and **paragraph** must be equal in different *result* arrays)
