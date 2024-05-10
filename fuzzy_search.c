@@ -81,6 +81,10 @@ void create_keylist(char *fileName, CRYPTO **keylist, int *nrElements)
 
     fgets(header, 1000, fin);
     free(header);
+
+    *keylist = malloc(sizeof(CRYPTO));
+    *nrElements = 0;
+
     while(fgets(string, 1000, fin) != NULL)
     {
        CRYPTO element = construct(string);
@@ -94,12 +98,7 @@ void create_keylist(char *fileName, CRYPTO **keylist, int *nrElements)
     fclose(fin);
 }
 
-int minim(int a, int b)
-{
-    if(a < b)
-        return a;
-    return b;
-}
+#define minim(a, b) a < b ? a : b
 
 /*
     ?  Algoritmul general de MergeSort, pentru a sorta lista finală cu elementele dorite din hashmap
