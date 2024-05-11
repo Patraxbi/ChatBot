@@ -1,5 +1,5 @@
 # fuzzy_search.c
->1. The code's fundamental data structures are **ELEMENT**, where we keep a line from the HashMap file (named *wordlist.csv*) (the string **sequence**, the *bitwise* **priority**, the *bitwise* **module** and the *bitwise* **paragraph**), and its encoded version **CRYPTO**, where the parameters **module**, **paragraph** and **priority** are encoded in the bitwise **encoded** (the ***construct*** function converts the string line from the HashMap file into an **CRYPTO** structure).
+>1. The code's fundamental data structures are **ELEMENT**, where we keep a line from the HashMap file (named *wordlist.csv*) (the string **sequence**, the *bitwise* **priority**, the *bitwise* **modul** and the *bitwise* **paragraph**), and its encoded version **CRYPTO**, where the parameters **modul**, **paragraph** and **priority** are encoded in the bitwise **encoded** (the ***construct*** function converts the string line from the HashMap file into an **CRYPTO** structure).
 >2. Through the ***create_keylist*** function we generate the *keylist* array with *nrElements* data units of **CRYPTO** type.
 >3. To decide how close the *input* word is from the one saved in the HashMap file, we will use the *Levenshtein distance*, which is integrated through the function of the same name:
 >>- The function will have 2 parameters:  
@@ -27,13 +27,13 @@
 >>1. **encoded**;
 >>2. **sequence**;
 >>
->5. After generating the encrypted *resutltlist*, we convert it into the **ELEMENT** type also in the ***create_resultlist***, to have acces at the localizing parameters(**module** and **paragraph**).
+>5. After generating the encrypted *resutltlist*, we convert it into the **ELEMENT** type also in the ***create_resultlist***, to have acces at the localizing parameters(**modul** and **paragraph**).
 
 ## The usage of the functions from *fuzzy_search.c* file in the final application:
 >1. Use the ***create_keylist*** function to convert the *wordlist.csv* HashMap into an **CRYPTO** array;
 >2. Use the ***create_resultlist*** function to obtain an result array with the closest words to the *input* word;
 >3. Extract the localizing data (**module** and **paragraph**) for returning the wanted paragraphs after priority, alphabetical order and location.
->4. In case of an *input* with 2 or more words, split the *input* string into individual words, use the ***create_resultlist*** function for each word and keep only the **ELEMENT** structures from each *result* array with identical localizing data (the **module** and **paragraph** must be equal in different *result* arrays)
+>4. In case of an *input* with 2 or more words, split the *input* string into individual words, use the ***create_resultlist*** function for each word and keep only the **ELEMENT** structures from each *result* array with identical localizing data (the **modul** and **paragraph** must be equal in different *result* arrays)
 
 ## Restrictions:
 >- the lines in the HashMap cannot be longer than 1000 characters.

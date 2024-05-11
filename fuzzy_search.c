@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <limits.h>
-#include "bitwise_encoding.c"
 #include "bitwise_encoding.h"
+#include "fuzzy_search.h"
 
 void check(void *pointer)
 {
@@ -14,26 +14,6 @@ void check(void *pointer)
     }
 }
 
-typedef struct crypto
-{
-    char *sequence;
-    bitwise encoded;
-}
-CRYPTO;
-
-typedef struct element
-{
-    char *sequence;
-    bitwise priority;
-    bitwise module;
-    bitwise paragraph;
-}
-ELEMENT;
-
-
-/*
-    * scot un element dintr-o linie din hashmap și construiesc o structură de tip ELEMENT
-*/
 CRYPTO construct(char *string)
 {
     int i = 0;
@@ -98,7 +78,6 @@ void create_keylist(char *fileName, CRYPTO **keylist, int *nrElements)
     fclose(fin);
 }
 
-#define minim(a, b) a < b ? a : b
 
 /*
     ?  Algoritmul general de MergeSort, pentru a sorta lista finală cu elementele dorite din hashmap
@@ -142,10 +121,8 @@ void mergesort(void* ptr, int n, size_t size, int (*comp)(const void*, const voi
 
 /*
     * criteriul de comparatie prin care voi sorta crescător lista rezultatelor în ordinea următoare:
-        1. prioritate
+        1. cifru
         2. string
-        3. modul
-        4. paragraf
 */
 int comp(const void *elemA, const void *elemB)
 {
@@ -263,27 +240,4 @@ void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **
         (*results)[i] = element;
     }
     free(resultsEncrypted);
-}
-
-int main()
-{
-    char input[50];
-    CRYPTO *keyList = NULL;
-    ELEMENT *resultslist = NULL;
-    int nrElements, nrResults;
-
-    int i;
-
-    scanf("%s", input);
-    create_keylist("wordlist.csv", &keyList, &nrElements);
-    create_resultlist(input, keyList, nrElements, &resultslist, &nrResults);
-
-    for(i = 0; i < nrResults; i ++)
-        printf("%50s\t%1d\t%2d\t%3d\n", 
-                resultslist[i].sequence, 
-                resultslist[i].priority,
-                resultslist[i].module,
-                resultslist[i].paragraph
-              );
-    return 0;
 }
