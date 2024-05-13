@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="ChatBot" targetName="ChatBot" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ce4c649-8bea-4976-95eb-aaaa5d94ef03" name="Changes" comment="Possible final form of the hashmap (if the implementation is correct)" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Alt-Hashmap.c" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KiwiKing2k&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Patraxbi/ChatBot.git&quot;,
+    &quot;accountId&quot;: &quot;bf725b8d-9247-43d3-bcbd-2ebef764e5cc&quot;
+  }
+}</component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="6mjhiovn" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2foXPcxAcl8KRUz5p1gE1d4yW32" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.hashmaps.c.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.ChatBot.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Alt-Hashmap.c&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.XML&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="hashmaps.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ChatBot" TARGET_NAME="hashmaps.c" CONFIG_NAME="hashmaps.c">
+      <option name="sourceFile" value="hashmaps.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ce4c649-8bea-4976-95eb-aaaa5d94ef03" name="Changes" comment="" />
+      <created>1714468385959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714468385959</updated>
+      <workItem from="1714468386837" duration="9000" />
+      <workItem from="1714468882914" duration="1250000" />
+      <workItem from="1714470452006" duration="19440000" />
+      <workItem from="1714570559753" duration="1708000" />
+      <workItem from="1714649256091" duration="9321000" />
+      <workItem from="1714659082005" duration="9842000" />
+      <workItem from="1714669889354" duration="177000" />
+      <workItem from="1714670080233" duration="835000" />
+      <workItem from="1714671526452" duration="42000" />
+      <workItem from="1714672429075" duration="876000" />
+      <workItem from="1714727575397" duration="83000" />
+      <workItem from="1714728791145" duration="19000" />
+      <workItem from="1714733447324" duration="10000" />
+      <workItem from="1714733539829" duration="206000" />
+      <workItem from="1714733872187" duration="116000" />
+      <workItem from="1714733990822" duration="90000" />
+      <workItem from="1714734138635" duration="15000" />
+      <workItem from="1714734172655" duration="66000" />
+      <workItem from="1714748653969" duration="667000" />
+      <workItem from="1715256327918" duration="2000" />
+      <workItem from="1715256792733" duration="353000" />
+    </task>
+    <task id="LOCAL-00001" summary="Aici am o baza pt cum o sa fac hashmap-ul la nivelul cel mai basic pt fisierul introduction. &#10;To do:&#10;1)Sa scalez codul pt toate fisierele&#10;2)Sa dau merge la hash-urile de prioritate 0 taiate in bucati din varii motive in XML-ul original&#10;3)Sa invat sa folosesc pe bune github&#10;4)Sa il fac pe Gabi sa scrie functia de hashurile la functiile mele">
+      <option name="closed" value="true" />
+      <created>1714496102892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714496102892</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hashmap-ul acum contine doar cuvinte&#10;Am adaugat exceptii la isgoodword()&#10;Am adaugat si documentul modul 1 la hashmap&#10;Am pregatit si restul fisierelor si modulelor pt implementare in hashmap">
+      <option name="closed" value="true" />
+      <created>1714658263901</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714658263901</updated>
+    </task>
+    <task id="LOCAL-00003" summary="XML-urile sunt modificate ca sa eliminal new line-urile">
+      <option name="closed" value="true" />
+      <created>1714668919189</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714668919190</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Hashmap-ul in forma sa aproape finala, inca astept hashuirea lui Gabi si functia de aproximare a lui David din cauza compararii dintre text UTF-8(xml-urile) si ascii(txt-urile)">
+      <option name="closed" value="true" />
+      <created>1714669019690</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714669019690</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Hashmap-ul acum contine doar cuvinte">
+      <option name="closed" value="true" />
+      <created>1714669165449</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714669165449</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Documentele XML ale fiecarui fisier sursa docx, cu noi linii adaugate pentru a putea fi citit secvential">
+      <option name="closed" value="true" />
+      <created>1714672651334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714672651334</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fisiere extra din proiect">
+      <option name="closed" value="true" />
+      <created>1714733661908</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714733661908</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fisiere extra din proiect">
+      <option name="closed" value="true" />
+      <created>1714733695836</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714733695836</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Gabi nu m-a uitat">
+      <option name="closed" value="true" />
+      <created>1714922103020</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714922103020</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&#10;Environment variables">
+      <option name="closed" value="true" />
+      <created>1714922221748</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714922221748</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Possible implementation of encoding functions? Further testing required.">
+      <option name="closed" value="true" />
+      <created>1714922290582</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714922290582</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Possible final form of the hashmap (if the implementation is correct)">
+      <option name="closed" value="true" />
+      <created>1714922332587</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1714922332587</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Hashmap-in-C" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aici am o baza pt cum o sa fac hashmap-ul la nivelul cel mai basic pt fisierul introduction. &#10;To do:&#10;1)Sa scalez codul pt toate fisierele&#10;2)Sa dau merge la hash-urile de prioritate 0 taiate in bucati din varii motive in XML-ul original&#10;3)Sa invat sa folosesc pe bune github&#10;4)Sa il fac pe Gabi sa scrie functia de hashurile la functiile mele" />
+    <MESSAGE value="Aici am o baza pt cum o sa fac hashmap-ul la nivelul cel mai basic pt fisierul introduction.&#10;To do:&#10;1)Sa scalez codul pt toate fisierele&#10;2)Sa dau merge la hash-urile de prioritate 0 taiate in bucati din varii motive in XML-ul original&#10;3)Sa invat sa folosesc pe bune github&#10;4)Sa il fac pe Gabi sa scrie functia de hashurile la functiile mele" />
+    <MESSAGE value="Hashmap-ul acum contine doar cuvinte&#10;Am adaugat exceptii la isgoodword()&#10;Am adaugat si documentul modul 1 la hashmap&#10;Am pregatit si restul fisierelor si modulelor pt implementare in hashmap" />
+    <MESSAGE value="XML-urile sunt modificate ca sa eliminal new line-urile" />
+    <MESSAGE value="Hashmap-ul in forma sa aproape finala, inca astept hashuirea lui Gabi si functia de aproximare a lui David din cauza compararii dintre text UTF-8(xml-urile) si ascii(txt-urile)" />
+    <MESSAGE value="Hashmap-ul acum contine doar cuvinte" />
+    <MESSAGE value="Documentele XML ale fiecarui fisier sursa docx, cu noi linii adaugate pentru a putea fi citit secvential" />
+    <MESSAGE value="fisiere extra din proiect" />
+    <MESSAGE value="Gabi nu m-a uitat" />
+    <MESSAGE value="&#10;Environment variables" />
+    <MESSAGE value="Possible implementation of encoding functions? Further testing required." />
+    <MESSAGE value="Possible final form of the hashmap (if the implementation is correct)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Possible final form of the hashmap (if the implementation is correct)" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
