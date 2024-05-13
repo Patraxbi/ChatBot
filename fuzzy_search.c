@@ -237,12 +237,15 @@ void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **
         ELEMENT element;
         strcpy(element.sequence, resultsEncrypted[i].sequence);
         get_info(resultsEncrypted[i].encoded, &(element.priority), &(element.modul), &(element.paragraph));
-        printf("Din C: %s %d %d %d\n",element.sequence, element.priority, element.modul, element.paragraph);
+        //printf("Din C: %s %d %d %d\n",element.sequence, element.priority, element.modul, element.paragraph);
         (*results)[i] = element;
     }
     free(resultsEncrypted);
 }
 
+void free_mem(void *ptr){
+    free(ptr);
+}
 // a driver function for the creation of the result list
 ELEMENT* result_driver(char *input, int *nr_results){
     int nrElements, nrResults;
@@ -260,16 +263,6 @@ ELEMENT* result_driver(char *input, int *nr_results){
     (*nr_results)=nrResults;
     free(keylist);
     return *results;
-}
-
-int ctypes_test(){
-    return 42;
-    
-
-}
-
-int ctypes_test2(){
-    return 24;
 }
 
 int main(){
