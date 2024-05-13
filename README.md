@@ -1,12 +1,5 @@
-## bitwise copression - decompression of information
+## This C function will create the hashmap itself. An enviroment is provided.
 
-### void encode_info(bitwise *encoded, bitwise importance, bitwise module, bitwise paragraph);
-<p>is used to compress the information <br>
-encoded - the adress where the function will save the information <br>
-importance, module, paragraph - the information that will be compressed </p>
+### The encoding functions and header have been implemented
 
-### void get_info( bitwise encoded, bitwise *importance, bitwise *module, bitwise *paragraph);
-<p> is used to decompress the information <br>
-encoded - compressed information. <br>
-importance, module, paragraph - the adresses where the function will save the information </p>
 
