@@ -237,6 +237,7 @@ void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **
         ELEMENT element;
         strcpy(element.sequence, resultsEncrypted[i].sequence);
         get_info(resultsEncrypted[i].encoded, &(element.priority), &(element.modul), &(element.paragraph));
+        printf("Din C: %s %d %d %d\n",element.sequence, element.priority, element.modul, element.paragraph);
         (*results)[i] = element;
     }
     free(resultsEncrypted);
