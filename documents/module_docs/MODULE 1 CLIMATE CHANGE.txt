@@ -6,7 +6,7 @@ EU target: In 2021, the EU proposed climate neutrality, the goal of zero net emi
 1. CLIMATE NEUTRALITY VERSUS CARBON NEUTRALITY
 Climate neutrality means to only emit as much greenhouse gas into the atmosphere as can be absorbed by nature, that is forests, oceans and soil. To reach such a net-zero emissions balance by 2050, EU countries will have to drastically reduce their greenhouse gas emissions and find ways of compensating for the remaining and unavoidable emissions.
 Carbon Neutrality and Climate Neutrality are often used interchangeably, but they are not the same thing. So, a company can be considered carbon neutral when the amount of CO? emissions emitted into the atmosphere is the same amount of CO? that can be absorbed naturally by forests and plants (which function as carbon sinks thanks to photosynthesis) or that is compensated by other actions. In other words:
-Gross CO? Emissions Produced ? CO? Emissions Absorbed and/or Offset = 0
+Gross CO2 Emissions Produced - CO2 Emissions Absorbed and/or Offset = 0
 Although it is a simple equation, getting to zero is a bit more complicated. First of all, one need to calculate what your Carbon Footprint is (it will be explained in a dedicated seminar). 
 Once you know what your Carbon Footprint is, one should reduce as much as possible the emissions produced as a result of economic activity, and on the other hand, compensate for those that one has not been able to eliminate.
 To reduce carbon emissions, the key is to change habits and invest in cleaner, more efficient technologies that consume less energy and produce fewer CO?. But, to be honest, depending on the economic activity characteristics, one will not always be able to reduce the carbon emissions to the point where they are 100% absorbed by nature, or at least not immediately. So those CO? emissions one has not been able to eliminate, it is to compensate for them in other ways, so that the equation results in zero.
@@ -45,7 +45,10 @@ In July 2021, the European climate law ? a key element of the European Green Dea
 Fig. 2. The climate law sets the framework for action to be taken by the EU and the member states to progressively reduce emissions and ultimately reach climate neutrality in the EU by 2050.
 Also in June 2021, the Council approved conclusions endorsing the new EU strategy on adaptation to climate change presented by the European Commission. The strategy outlines a long-term vision for the EU to become by 2050 a climate-resilient society that is fully adapted to the unavoidable impacts of climate change.
 Another key part of the EU's work towards climate neutrality is the 'Fit for 55' package. A set of proposals for revision of existing legislation and new initiatives, it is the EU's key plan for turning climate goals in accordance to EU law.
-Fig. 3. 'Fit for 55' package actions
+
+
+
+Fig. 3. 'Fit for 55' package actions
 The package includes rules on:
 * energy
 * transport
@@ -173,5 +176,7 @@ Harnessing the power of renewable resources in energy, food, and industrial prod
 2. Considering that unsustainable management practices in food systems, spanning from the production and application of chemical fertilizers to waste landfilling and burning, continue to account for a significant portion of GHG emissions, more research is needed to reduce emissions from food systems and enhance sinks of C and other important nutrients (i.e., nitrogen, potassium, phosphorus, and sulfur). To achieve this, developing new methods for further optimization of waste recycling and nature-based processes in agroecosystems, along with the technological development of food factories, has the potential to reduce the need for chemical fertilizers and sustainably support human activities. Given that biochar has multifunctional values in addition to carbon sequestration, there is a need to integrate ecological strategies to optimize biochar production, characterization and life cycle analysis, and to formulate model-based standards and experimental evidence to spur biochar-assisted sustainable development. Since terrestrial and marine ecosystems are the largest C reservoirs on Earth, strengthening policies that promote afforestation and reforestation and use of C-negative materials to conserve terrestrial ecosystems and sustainable management of aquatic ecosystems could contribute to increasing C sequestration, thereby mitigating climate change.
 3. Even though the CCUS (CO2 capture, utilization, and storage) approach has a pivotal role to play in our pursuit of carbon neutrality, the adoption of current CCUS technologies is hampered by their high energy consumption and costs. Carbon capture and storage in the power industry require scientific and technological innovations to achieve low or even net-zero energy use. Poly generation, chemical looping combustion, and technologies that combine fossil fuels and renewable energy sources for capturing CO2 could open a new era for CCUS. At the same time, the conversion of CO2 to fuels and chemicals is also a promising possibility, but the obstacles of thermodynamics and kinetics need to be overcome.
 4. Given the utmost relevance of monitoring GHG emissions from space to ensure the world is on track to meet its climate change mitigation goals, the accuracy and spatiotemporal resolution of monitoring GHG emissions from satellites need to be further strengthened so as to monitor greenhouse gas emission sources and rates more comprehensively and timely. The capacity and accuracy of satellites in monitoring terrestrial ecosystem biomass also need to be improved. Remote sensing monitoring of marine carbon sink potential needs new theoretical breakthroughs. Carrying out accurate carbon budget calculation based on land-sea-air joint observation is an important basis for carbon peak and carbon neutralization decision-making.
-
+
+
+
 
