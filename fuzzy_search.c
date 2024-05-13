@@ -243,12 +243,34 @@ void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **
 }
 
 // a driver function for the creation of the result list
-ELEMENT *result_driver(char *input){
+ELEMENT* result_driver(char *input, int *nr_results){
+    int nrElements, nrResults;
     ELEMENT **results;
     results=(ELEMENT **)(malloc(sizeof(ELEMENT*)));
 
+    CRYPTO **keylist;
+    keylist=(CRYPTO **)(malloc(sizeof(CRYPTO*)));
+    char filename[]="Output/wordlist.csv";
+
+    create_keylist(filename, keylist, &nrElements);
+    
+    create_resultlist(input, *keylist, nrElements, results, &nrResults);
+
+    (*nr_results)=nrResults;
+    free(keylist);
+    return *results;
 }
 
 int ctypes_test(){
     return 42;
+    
+
+}
+
+int ctypes_test2(){
+    return 24;
+}
+
+int main(){
+    return 0;
 }
