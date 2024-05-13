@@ -242,6 +242,13 @@ void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **
     free(resultsEncrypted);
 }
 
+// a driver function for the creation of the result list
+ELEMENT *result_driver(char *input){
+    ELEMENT **results;
+    results=(ELEMENT **)(malloc(sizeof(ELEMENT*)));
+
+}
+
 int ctypes_test(){
     return 42;
 }
