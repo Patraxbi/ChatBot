@@ -236,8 +236,12 @@ void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **
     {
         ELEMENT element;
         strcpy(element.sequence, resultsEncrypted[i].sequence);
-        get_info(resultsEncrypted[i].encoded, &(element.priority), &(element.module), &(element.paragraph));
+        get_info(resultsEncrypted[i].encoded, &(element.priority), &(element.modul), &(element.paragraph));
         (*results)[i] = element;
     }
     free(resultsEncrypted);
+}
+
+int ctypes_test(){
+    return 42;
 }
