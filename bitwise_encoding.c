@@ -15,9 +15,10 @@ int main(void){
 int encode_info(bitwise *encoded, bitwise importance, bitwise module,
 				bitwise paragraph)
 {
-	return (encode(encoded, PARAGRAPH_BITS + MODULE_BITS + 1, PARAGRAPH_BITS + MODULE_BITS + IMPORTANCE_BITS, importance) |
-			encode(encoded, PARAGRAPH_BITS + 1, PARAGRAPH_BITS + MODULE_BITS, module) |
-			encode(encoded, 0, PARAGRAPH_BITS, paragraph));
+	*encoded = 0;
+	return (encode(encoded, PARAGRAPH_BITS + MODULE_BITS , PARAGRAPH_BITS + MODULE_BITS + IMPORTANCE_BITS-1, importance) |
+			encode(encoded, PARAGRAPH_BITS , PARAGRAPH_BITS + MODULE_BITS-1, module) |
+			encode(encoded, 0, PARAGRAPH_BITS-1, paragraph));
 }
 
 int encode(bitwise *encoded, bitwise bit_start, bitwise bit_end, bitwise info)
@@ -33,11 +34,7 @@ int encode(bitwise *encoded, bitwise bit_start, bitwise bit_end, bitwise info)
 	if (auxiliar < info)
 		return -1;
 
-	// mask with 0s from bit_start to bit_end
-	*encoded = *encoded &
-		((UNSIGNED_INT_MAX >> bit_end) << bit_end + (1 << bit_start) - 1);
-
-	// inserting info in en;coding
+	// inserting info in encoding
 	auxiliar = info;
 	auxiliar = auxiliar << bit_start;
 	*encoded = *encoded | auxiliar;
@@ -56,7 +53,7 @@ bitwise decode(bitwise encoded, bitwise bit_start, bitwise bit_end){
 }
 
 void get_info( bitwise encoded, bitwise *importance, bitwise *module, bitwise *paragraph){
-    *importance = decode(encoded, PARAGRAPH_BITS + MODULE_BITS + 1, PARAGRAPH_BITS + MODULE_BITS + IMPORTANCE_BITS);
-	*module = decode(encoded, PARAGRAPH_BITS + 1, PARAGRAPH_BITS + MODULE_BITS);
-	*paragraph = (encoded, 0, PARAGRAPH_BITS);
+    *importance = decode(encoded, PARAGRAPH_BITS + MODULE_BITS , PARAGRAPH_BITS + MODULE_BITS + IMPORTANCE_BITS-1);
+	*module = decode(encoded, PARAGRAPH_BITS , PARAGRAPH_BITS + MODULE_BITS-1);
+	*paragraph = (encoded, 0, PARAGRAPH_BITS-1);
 }
