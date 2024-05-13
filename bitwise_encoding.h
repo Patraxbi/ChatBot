@@ -12,7 +12,7 @@
 
 typedef unsigned long bitwise;
 // bitwise has 32 bits to work with
-// ! bitwise (0000000000)(0000)(0000)(00000000000000)
+// ! bitwise (0000000)(0000)(0000)(00000000000000000)
 // !         (unused)(importance)(module)(paragraph)    
 // ! ALWAYS LET 1 UNUSED BIT ( lazy implementation of decode and encode)
 // so basically only 31 bits to work with

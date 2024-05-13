@@ -34,6 +34,11 @@ int encode(bitwise *encoded, bitwise bit_start, bitwise bit_end, bitwise info)
 	if (auxiliar < info)
 		return -1;
 
+	// mask with 0s from bit_start to bit_end
+	*encoded = *encoded &
+		((UNSIGNED_INT_MAX >> bit_end) << bit_end + (1 << bit_start) - 1);
+
+	// inserting info in en;coding
 	// inserting info in encoding
 	auxiliar = info;
 	auxiliar = auxiliar << bit_start;
