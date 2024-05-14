@@ -6,13 +6,13 @@
 // * for n bits, the value can be between 0 and 2^n -1
 
 #define UNSIGNED_INT_MAX 0xFFFFFFFF
-#define IMPORTANCE_BITS 4 // 0-15
-#define MODULE_BITS 3 // 0-7
-#define PARAGRAPH_BITS 16 // 0 - 65.535  ( 2^16-1 )
+#define IMPORTANCE_BITS 4 // 0-7
+#define MODULE_BITS 4 // 0-7
+#define PARAGRAPH_BITS 17 // 0 - 65.535  ( 2^15-1 )
 
-typedef unsigned int bitwise;
+typedef unsigned long bitwise;
 // bitwise has 32 bits to work with
-// ! bitwise (00000000000)(000)(0000)(00000000000000)
+// ! bitwise (0000000)(0000)(0000)(00000000000000000)
 // !         (unused)(importance)(module)(paragraph)    
 // ! ALWAYS LET 1 UNUSED BIT ( lazy implementation of decode and encode)
 // so basically only 31 bits to work with
