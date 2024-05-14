@@ -78,47 +78,6 @@ void create_keylist(char *fileName, CRYPTO **keylist, int *nrElements)
     fclose(fin);
 }
 
-
-/*
-    ?  Algoritmul general de MergeSort, pentru a sorta lista finală cu elementele dorite din hashmap
-*/
-void mergesort(void* ptr, int n, size_t size, int (*comp)(const void*, const void*))
-{
-    if (n == 1) return;
-    char *v = ptr;
-    int mid = n / 2;
-    mergesort(ptr, mid, size, comp);
-    mergesort(v + mid * size, n - mid, size, comp);
-    char *merge = malloc(size * n);
-    check(merge);
-
-    int i, st = 0, dr = mid;
-    for (i = 0; st < mid && dr < n; i++)
-    {
-        if ((*comp)(v + st * size, v + dr * size) < 0) 
-        {
-            memcpy(merge + i * size, v + st * size, size);
-            st++;
-        }
-        else
-        {
-            memcpy(merge + i * size, v + dr * size, size);
-            dr++;
-        }
-    }
-    while (st < mid)
-    {
-        memcpy(merge + i * size, v + st * size, size);
-        st++; i++;
-    }
-    while (dr < n)
-    {
-        memcpy(merge + i * size, v + dr * size, size);
-        dr++; i++;
-    }
-    memcpy(ptr, merge, size * n);
-}
-
 /*
     * criteriul de comparatie prin care voi sorta crescător lista rezultatelor în ordinea următoare:
         1. cifru
@@ -129,11 +88,11 @@ int comp(const void *elemA, const void *elemB)
     const CRYPTO *a = (const CRYPTO*) elemA;
     const CRYPTO *b = (const CRYPTO*) elemB;
 
-    return (a->encoded < b->encoded)  
+    return (a->encoded > b->encoded)  
     ||
     (
         (a->encoded == b->encoded) &&
-        strcmp(a->sequence, b->sequence) < 0
+        strcmp(a->sequence, b->sequence) > 0
     ) 
     ;
 }
@@ -226,7 +185,8 @@ void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **
             resultsEncrypted[*nrResults - 1] = keylist[i];
         }
     
-    mergesort(resultsEncrypted, *nrResults, sizeof(CRYPTO), comp);
+    // mergesort(resultsEncrypted, *nrResults, sizeof(CRYPTO), comp);
+    qsort(resultsEncrypted, *nrResults, sizeof(CRYPTO), comp);
 
     *results = (ELEMENT*) malloc(*nrResults * sizeof(ELEMENT));
     check(*results);
@@ -236,7 +196,7 @@ void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **
     {
         ELEMENT element;
         strcpy(element.sequence, resultsEncrypted[i].sequence);
-        get_info(resultsEncrypted[i].encoded, &(element.priority), &(element.module), &(element.paragraph));
+        get_info(resultsEncrypted[i].encoded, &(element.priority), &(element.modul), &(element.paragraph));
         (*results)[i] = element;
     }
     free(resultsEncrypted);

@@ -23,7 +23,7 @@
 >>>>*distance[i - 1][j - 1] + substitutionCost* (**substitution**);
 >>
 >>- the *Levenshtein distance* between the 2 words will be calcuated in the *distance[m][n]* value;
->4. The ***create_resultlist*** function return the *results* array with *nrResults* units of **CRYPTO** type. It will take each unit from the *keylist* array and will generate the *results* array with all the elements from *keylist*, whose *sequence* has the minimum Levenshtein distance to the *input* . Finally, the *results* array is sorted in ascending order using the ***MergeSort*** algoritm in this priority:
+>4. The ***create_resultlist*** function return the *results* array with *nrResults* units of **CRYPTO** type. It will take each unit from the *keylist* array and will generate the *results* array with all the elements from *keylist*, whose *sequence* has the minimum Levenshtein distance to the *input* . Finally, the *results* array is sorted in ascending order using the ***QuickSort*** algoritm in this priority:
 >>1. **encoded**;
 >>2. **sequence**;
 >>

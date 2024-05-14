@@ -33,8 +33,6 @@ CRYPTO construct(char *string);
 // * generating the keylist array from the hashmap
 void create_keylist(char *fileName, CRYPTO **keylist, int *nrElements);
 
-// *  the general MergeSort algorithm used for sorting the resultlist array 
-void mergesort(void* ptr, int n, size_t size, int (*comp)(const void*, const void*));
 
 /*
     * sorting criteria priority:
