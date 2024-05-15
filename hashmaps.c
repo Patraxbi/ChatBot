@@ -26,11 +26,15 @@ const char MODULE_XML_NAMES[7][100] = {
         "document_mod6.xml"
 };
 
+#define isthewordinside(word, text) strstr(text, word) != NULL
+
 int isgoodword(char *word) {
     // aici vin exceptiile
     if (strcmp(word, "EU") == 0 || strcmp(word, "eu") == 0)
         return 1;
     if (strlen(word) < 4)
+        return 0;
+    if (isthewordinside("http", word))
         return 0;
 
     // toate cuvintele de legatura imaginabile
@@ -97,9 +101,7 @@ int isgoodword(char *word) {
     return 1;
 }
 
-#define isthewordinside(word, text) strstr(text, word) != NULL
-
-void parsemodule(FILE *output, char *input_txt, char *input_xml, int modul) {
+void parsemodule(FILE **outputs, char *input_txt, char *input_xml, int modul) {
     char line[1500];
 
     FILE *txt = fopen(input_txt, "rt");
@@ -185,7 +187,7 @@ void parsemodule(FILE *output, char *input_txt, char *input_xml, int modul) {
                             bitwise encoded;
                             encode_info(&encoded, important, modul, paragraph);
                             //sunt nesigur daca e bine
-                            fprintf(output, "%s,%d\n", word, encoded);
+                            fprintf(outputs[important], "%s,%d\n", word, encoded);
                         }
                         word = strtok(NULL, " ");
                     }
@@ -199,20 +201,26 @@ void parsemodule(FILE *output, char *input_txt, char *input_xml, int modul) {
 }
 
 int main(void) {
-    FILE *output = fopen("Output\\wordlist.csv", "wt");
-    if (output == NULL) {
-        printf("File not found\n");
-        exit(-1);
+    FILE *outputs[4];
+    char fileName[] = "Output\\prio0.csv";
+    for (int i = 0; i < 4; i++) {
+        fileName[11] = i + '0';
+        outputs[i] = fopen(fileName, "wt");
+        if (outputs[i] == NULL) {
+            printf("File not found\n");
+            exit(-1);
+        }
+        fprintf(outputs[i], "SEQUENCE,ENCODING\n");
     }
-    fprintf(output, "SEQUENCE,ENCODING\n");
 
     for (int modul = 0; modul < 7; modul++) {
         char path_txt[200] = "\0", path_xml[200] = "\0";
         strcat(strcat(path_txt, MODULE_DIRECTORY_PATH), MODULE_TXT_NAMES[modul]);
         strcat(strcat(path_xml, MODULE_DIRECTORY_PATH), MODULE_XML_NAMES[modul]);
-        parsemodule(output, path_txt, path_xml, modul);
+        parsemodule(outputs, path_txt, path_xml, modul);
     }
-
-    fclose(output);
+    
+    for (int i = 0; i < 4; i++)
+        fclose(outputs[i]);
     return 0;
 }
