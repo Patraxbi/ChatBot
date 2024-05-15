@@ -3,9 +3,6 @@
 
 #define minim(a, b) a < b ? a : b
 
-// * we are using the definition of bitwise from "bitwise_encoding.h" to define the CRYPTO and "ELEMENT" structures
-typedef unsigned int bitwise;
-
 // * the CRYPTO function
 typedef struct crypto
 {
