@@ -3,6 +3,7 @@
 #include <string.h>
 #include <limits.h>
 #include "bitwise_encoding.h"
+#include "bitwise_encoding.c"
 #include "fuzzy_search.h"
 
 void check(void *pointer)
@@ -186,7 +187,6 @@ void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **
         }
     
     // mergesort(resultsEncrypted, *nrResults, sizeof(CRYPTO), comp);
-    qsort(resultsEncrypted, *nrResults, sizeof(CRYPTO), comp);
 
     *results = (ELEMENT*) malloc(*nrResults * sizeof(ELEMENT));
     check(*results);
@@ -200,4 +200,46 @@ void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **
         (*results)[i] = element;
     }
     free(resultsEncrypted);
+}
+
+int scanPriority(char *input, int prio, ELEMENT **results, int *count)
+{
+    CRYPTO *keyList = NULL;
+    ELEMENT *resultslist = NULL;
+    int nrElements, nrResults;
+
+    char filename[] = "Output\\prio0.csv";
+    filename[11] = prio + '0';
+    
+    create_keylist(filename, &keyList, &nrElements);
+    create_resultlist(input, keyList, nrElements, &resultslist, &nrResults);
+
+    printf("\tPRIORITY %i:\n", prio);
+    if (nrResults == 0)
+    {
+        printf("\tERROR 404\n");
+        *results = NULL;
+        *count = 0;
+        return 0;
+    }
+    
+    for(int i = 0; i < nrResults; i ++)
+        printf("%50s\t%1d\t%2d\t%3d\n", 
+                resultslist[i].sequence, 
+                resultslist[i].priority,
+                resultslist[i].modul,
+                resultslist[i].paragraph
+            );
+    *results = resultslist;
+    *count = nrResults;
+    return *count;
+}
+
+int main()
+{
+    ELEMENT *resultlist; int count; char input[50];
+    scanf("%s", input);
+    for (int i = 0; i < 4; i++)
+        scanPriority(input, i, &resultlist, &count);
+    return 0;
 }

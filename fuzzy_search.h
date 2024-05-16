@@ -1,6 +1,8 @@
 #ifndef FUZZY_SEARCH
 #define FUZZY_SEARCH
 
+#include "bitwise_encoding.h"
+
 #define minim(a, b) a < b ? a : b
 
 // * the CRYPTO function
