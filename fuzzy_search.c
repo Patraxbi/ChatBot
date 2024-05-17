@@ -169,16 +169,24 @@ int Levenshtein_distance(char *text, char *pattern)
 
 void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **results, int *nrResults)
 {
+    int *distances = malloc(sizeKeylist * sizeof(int));
     int dist_minim = INT_MAX;
     CRYPTO *resultsEncrypted = NULL;
     *nrResults = 0;
     int i;
     for(i = 0; i < sizeKeylist; i ++)
-        dist_minim = minim(dist_minim, Levenshtein_distance(input, keylist[i].sequence));
+    {
+        distances[i] = Levenshtein_distance(input, keylist[i].sequence);
+        if (distances[i] < dist_minim)
+            dist_minim = distances[i];
+    }
+
+    // Nu au fost găsite rezultate suficient de apropiate
+    if (dist_minim > 3) return;
 
     //generăm rezultatul în forma criptată
     for(i = 0; i < sizeKeylist; i ++)
-        if(Levenshtein_distance(input, keylist[i].sequence) == dist_minim)
+        if(distances[i] == dist_minim)
         {
             *nrResults = *nrResults + 1;
             resultsEncrypted = (CRYPTO*) realloc(resultsEncrypted, *nrResults * sizeof(CRYPTO));
@@ -217,7 +225,7 @@ int scanPriority(char *input, int prio, ELEMENT **results, int *count)
     printf("\tPRIORITY %i:\n", prio);
     if (nrResults == 0)
     {
-        printf("\tERROR 404\n");
+        printf("%50s\n", "ERROR 404");
         *results = NULL;
         *count = 0;
         return 0;
