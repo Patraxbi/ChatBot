@@ -3,6 +3,7 @@
 #include <string.h>
 #include <limits.h>
 #include "bitwise_encoding.h"
+#include "bitwise_encoding.c"
 #include "fuzzy_search.h"
 
 void check(void *pointer)
@@ -78,47 +79,6 @@ void create_keylist(char *fileName, CRYPTO **keylist, int *nrElements)
     fclose(fin);
 }
 
-
-/*
-    ?  Algoritmul general de MergeSort, pentru a sorta lista finală cu elementele dorite din hashmap
-*/
-void mergesort(void* ptr, int n, size_t size, int (*comp)(const void*, const void*))
-{
-    if (n == 1) return;
-    char *v = ptr;
-    int mid = n / 2;
-    mergesort(ptr, mid, size, comp);
-    mergesort(v + mid * size, n - mid, size, comp);
-    char *merge = malloc(size * n);
-    check(merge);
-
-    int i, st = 0, dr = mid;
-    for (i = 0; st < mid && dr < n; i++)
-    {
-        if ((*comp)(v + st * size, v + dr * size) < 0) 
-        {
-            memcpy(merge + i * size, v + st * size, size);
-            st++;
-        }
-        else
-        {
-            memcpy(merge + i * size, v + dr * size, size);
-            dr++;
-        }
-    }
-    while (st < mid)
-    {
-        memcpy(merge + i * size, v + st * size, size);
-        st++; i++;
-    }
-    while (dr < n)
-    {
-        memcpy(merge + i * size, v + dr * size, size);
-        dr++; i++;
-    }
-    memcpy(ptr, merge, size * n);
-}
-
 /*
     * criteriul de comparatie prin care voi sorta crescător lista rezultatelor în ordinea următoare:
         1. cifru
@@ -129,11 +89,11 @@ int comp(const void *elemA, const void *elemB)
     const CRYPTO *a = (const CRYPTO*) elemA;
     const CRYPTO *b = (const CRYPTO*) elemB;
 
-    return (a->encoded < b->encoded)  
+    return (a->encoded > b->encoded)  
     ||
     (
         (a->encoded == b->encoded) &&
-        strcmp(a->sequence, b->sequence) < 0
+        strcmp(a->sequence, b->sequence) > 0
     ) 
     ;
 }
@@ -209,16 +169,24 @@ int Levenshtein_distance(char *text, char *pattern)
 
 void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **results, int *nrResults)
 {
+    int *distances = malloc(sizeKeylist * sizeof(int));
     int dist_minim = INT_MAX;
     CRYPTO *resultsEncrypted = NULL;
     *nrResults = 0;
     int i;
     for(i = 0; i < sizeKeylist; i ++)
-        dist_minim = minim(dist_minim, Levenshtein_distance(input, keylist[i].sequence));
+    {
+        distances[i] = Levenshtein_distance(input, keylist[i].sequence);
+        if (distances[i] < dist_minim)
+            dist_minim = distances[i];
+    }
+
+    // Nu au fost găsite rezultate suficient de apropiate
+    if (dist_minim > 3) return;
 
     //generăm rezultatul în forma criptată
     for(i = 0; i < sizeKeylist; i ++)
-        if(Levenshtein_distance(input, keylist[i].sequence) == dist_minim)
+        if(distances[i] == dist_minim)
         {
             *nrResults = *nrResults + 1;
             resultsEncrypted = (CRYPTO*) realloc(resultsEncrypted, *nrResults * sizeof(CRYPTO));
@@ -226,7 +194,7 @@ void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **
             resultsEncrypted[*nrResults - 1] = keylist[i];
         }
     
-    mergesort(resultsEncrypted, *nrResults, sizeof(CRYPTO), comp);
+    // mergesort(resultsEncrypted, *nrResults, sizeof(CRYPTO), comp);
 
     *results = (ELEMENT*) malloc(*nrResults * sizeof(ELEMENT));
     check(*results);
@@ -236,8 +204,50 @@ void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **
     {
         ELEMENT element;
         strcpy(element.sequence, resultsEncrypted[i].sequence);
-        get_info(resultsEncrypted[i].encoded, &(element.priority), &(element.module), &(element.paragraph));
+        get_info(resultsEncrypted[i].encoded, &(element.priority), &(element.modul), &(element.paragraph));
         (*results)[i] = element;
     }
     free(resultsEncrypted);
+}
+
+int scanPriority(char *input, int prio, ELEMENT **results, int *count)
+{
+    CRYPTO *keyList = NULL;
+    ELEMENT *resultslist = NULL;
+    int nrElements, nrResults;
+
+    char filename[] = "Output\\prio0.csv";
+    filename[11] = prio + '0';
+    
+    create_keylist(filename, &keyList, &nrElements);
+    create_resultlist(input, keyList, nrElements, &resultslist, &nrResults);
+
+    printf("\tPRIORITY %i:\n", prio);
+    if (nrResults == 0)
+    {
+        printf("%50s\n", "ERROR 404");
+        *results = NULL;
+        *count = 0;
+        return 0;
+    }
+    
+    for(int i = 0; i < nrResults; i ++)
+        printf("%50s\t%1d\t%2d\t%3d\n", 
+                resultslist[i].sequence, 
+                resultslist[i].priority,
+                resultslist[i].modul,
+                resultslist[i].paragraph
+            );
+    *results = resultslist;
+    *count = nrResults;
+    return *count;
+}
+
+int main()
+{
+    ELEMENT *resultlist; int count; char input[50];
+    scanf("%s", input);
+    for (int i = 0; i < 4; i++)
+        scanPriority(input, i, &resultlist, &count);
+    return 0;
 }

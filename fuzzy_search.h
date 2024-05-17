@@ -1,10 +1,9 @@
 #ifndef FUZZY_SEARCH
 #define FUZZY_SEARCH
 
-#define minim(a, b) a < b ? a : b
+#include "bitwise_encoding.h"
 
-// * we are using the definition of bitwise from "bitwise_encoding.h" to define the CRYPTO and "ELEMENT" structures
-typedef unsigned int bitwise;
+#define minim(a, b) a < b ? a : b
 
 // * the CRYPTO function
 typedef struct crypto
@@ -33,8 +32,6 @@ CRYPTO construct(char *string);
 // * generating the keylist array from the hashmap
 void create_keylist(char *fileName, CRYPTO **keylist, int *nrElements);
 
-// *  the general MergeSort algorithm used for sorting the resultlist array 
-void mergesort(void* ptr, int n, size_t size, int (*comp)(const void*, const void*));
 
 /*
     * sorting criteria priority:
