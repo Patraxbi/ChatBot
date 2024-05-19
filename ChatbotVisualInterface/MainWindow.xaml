@@ -53,17 +53,6 @@
             <TextBlock Grid.Row="2" HorizontalAlignment="Center" Padding="10"
                        Text="Educational project"
                        FontSize="14" FontFamily="{StaticResource Radeil}"/>
-            
-            <Border Grid.Row="3" Padding="20" VerticalAlignment="Top">
-                <Border Background="LightGray" CornerRadius="20" Padding="8">
-                    <TextBlock FontWeight="SemiBold" TextAlignment="Center" TextWrapping="Wrap">
-                        Version: Alpha 1<LineBreak/>
-                        <LineBreak/>
-                        "Placeholder whitespace for when I find something to add here.
-                        Perhaps suggested keywords or chapters in the document."
-                    </TextBlock>
-                </Border>
-            </Border>
         </Grid>
         <!--#endregion-->
 

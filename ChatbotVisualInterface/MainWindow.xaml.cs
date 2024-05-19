@@ -46,8 +46,15 @@ namespace ChatbotVisualInterface
             }
 
             // Send question to Python script
-            string answer = pythonCaller.ProcessScript(question);
-            RecieveAnswer(answer);
+            var answerList = pythonCaller.ProcessScript(question);
+
+            // Recive answers
+            ItemList.Add(new SimpleTextMessage($"Term \"{question}\" was found at the following locations:"));
+            foreach (string answer in answerList)
+            {
+                if (answer == null) return;
+                ItemList.Add(new SimpleTextMessage(answer));
+            }
         }
 
         /// <summary>

@@ -3,12 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA9D635D-180E-407B-9592-8EA8578F7D46}|ChatbotVisualInterface\\ChatbotVisualInterface.csproj|c:\\users\\vladc\\desktop\\proiecte\\github\\chatbot\\chatbotvisualinterface\\connectors\\pythoncaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA9D635D-180E-407B-9592-8EA8578F7D46}|ChatbotVisualInterface\\ChatbotVisualInterface.csproj|C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\chatbotvisualinterface\\connectors\\pythoncaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA9D635D-180E-407B-9592-8EA8578F7D46}|ChatbotVisualInterface\\ChatbotVisualInterface.csproj|solutionrelative:chatbotvisualinterface\\connectors\\pythoncaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A752B6D7-E572-4BF5-B8A7-3EAA3C83969F}|TextProcessingLayer\\TextProcessingLayer.pyproj|C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\TextProcessingLayer\\TextProcessingLayer.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A752B6D7-E572-4BF5-B8A7-3EAA3C83969F}|TextProcessingLayer\\TextProcessingLayer.pyproj|solutionrelative:TextProcessingLayer\\TextProcessingLayer.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{FA9D635D-180E-407B-9592-8EA8578F7D46}|ChatbotVisualInterface\\ChatbotVisualInterface.csproj|c:\\users\\vladc\\desktop\\proiecte\\github\\chatbot\\chatbotvisualinterface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9D635D-180E-407B-9592-8EA8578F7D46}|ChatbotVisualInterface\\ChatbotVisualInterface.csproj|solutionrelative:chatbotvisualinterface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ChatbotVisualInterface||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9D635D-180E-407B-9592-8EA8578F7D46}|ChatbotVisualInterface\\ChatbotVisualInterface.csproj|c:\\users\\vladc\\desktop\\proiecte\\github\\chatbot\\chatbotvisualinterface\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +24,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatbotVisualInterface",
+              "DocumentMoniker": "C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\ChatbotVisualInterface\\ChatbotVisualInterface.csproj",
+              "RelativeDocumentMoniker": "ChatbotVisualInterface\\ChatbotVisualInterface.csproj",
+              "ToolTip": "C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\ChatbotVisualInterface\\ChatbotVisualInterface.csproj",
+              "RelativeToolTip": "ChatbotVisualInterface\\ChatbotVisualInterface.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-19T10:39:03.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\ChatbotVisualInterface\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChatbotVisualInterface\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\ChatbotVisualInterface\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChatbotVisualInterface\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:09:59.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,22 +63,9 @@
               "RelativeDocumentMoniker": "ChatbotVisualInterface\\Connectors\\PythonCaller.cs",
               "ToolTip": "C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\ChatbotVisualInterface\\Connectors\\PythonCaller.cs",
               "RelativeToolTip": "ChatbotVisualInterface\\Connectors\\PythonCaller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwA8AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T22:34:49.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TextProcessingLayer.py",
-              "DocumentMoniker": "C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\TextProcessingLayer\\TextProcessingLayer.py",
-              "RelativeDocumentMoniker": "TextProcessingLayer\\TextProcessingLayer.py",
-              "ToolTip": "C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\TextProcessingLayer\\TextProcessingLayer.py",
-              "RelativeToolTip": "TextProcessingLayer\\TextProcessingLayer.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-05-18T22:43:13.182Z",
               "EditorCaption": ""
             }
           ]

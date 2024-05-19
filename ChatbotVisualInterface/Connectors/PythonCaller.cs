@@ -1,4 +1,5 @@
 ﻿using Python.Runtime;
+using System.Collections.Generic;
 using System.IO;
 
 namespace ChatbotVisualInterface.Connectors
@@ -12,7 +13,7 @@ namespace ChatbotVisualInterface.Connectors
 
         public PythonCaller()
         {
-            string pythonDll = "Python312\\python312.dll";
+            const string pythonDll = ".\\Python312\\python312.dll";
             Runtime.PythonDLL = pythonDll;
 
             PythonEngine.Initialize();
@@ -21,8 +22,8 @@ namespace ChatbotVisualInterface.Connectors
                 using (PyModule scope = Py.CreateScope())
                 {
                     const string ScriptFile = "TextProcessingLayer.py";
-                    var code = File.ReadAllText(ScriptFile);
-                    var scriptCompiled = PythonEngine.Compile(code, ScriptFile);
+                    string code = File.ReadAllText(ScriptFile);
+                    PyObject scriptCompiled = PythonEngine.Compile(code, ScriptFile);
 
                     scope.Execute(scriptCompiled);
                     func = scope.Get("text_processing_layer");
@@ -32,9 +33,11 @@ namespace ChatbotVisualInterface.Connectors
 
         /// <summary>Send question to script</summary>
         /// <returns>The answer as string</returns>
-        public string ProcessScript(string question)
+        public string[] ProcessScript(string question)
         {
-            return func(question);
+            dynamic pyList = func(question);
+            string[] mylist = (string[])pyList;
+            return mylist;
         }
     }
 }
