@@ -33,9 +33,9 @@ def display_paragraph(document, paragraph):
 
     module_file=open(docs_table[document])
     if document == 0:
-        doc_number="From the Introduction, paragraph: "+str(paragraph)+"\n"
+        doc_number="From the introduction, paragraph "+str(paragraph)+":\n"
     else:
-        doc_number="From Module "+str(document)+", paragraph: "+str(paragraph)+"\n"
+        doc_number="From module "+str(document)+", paragraph "+str(paragraph)+":\n"
     lines=module_file.readlines()
     # indexing starts at 0, but the line numbering starts at 1, so we have to compensate
     return doc_number+lines[paragraph+1]
