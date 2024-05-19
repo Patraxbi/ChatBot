@@ -4,6 +4,7 @@
 #include <limits.h>
 #include "bitwise_encoding.h"
 #include "fuzzy_search.h"
+#include "Windows.h"
 
 void check(void *pointer)
 {
@@ -221,8 +222,11 @@ ELEMENT* result_driver(char *input, int *nr_results){
 
     CRYPTO **keylist;
     keylist=(CRYPTO **)(malloc(sizeof(CRYPTO*)));
-    char filename[]="Output/wordlist.csv";
+    char filename[]=".\\Output\\wordlist.csv";
 
+    char current_dir[70];
+    GetCurrentDirectory(70, current_dir);
+    puts(current_dir);
     create_keylist(filename, keylist, &nrElements);
     
     create_resultlist(input, *keylist, nrElements, results, &nrResults);
