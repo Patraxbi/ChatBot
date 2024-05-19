@@ -1,3 +1,0 @@
-C:/Users/dinus/Documents/GitHub/ChatBot3/cmake-build-debug/CMakeFiles/ChatBot.dir
-C:/Users/dinus/Documents/GitHub/ChatBot3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dinus/Documents/GitHub/ChatBot3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -8,14 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("lib/distutils/command/wininst-10.0-amd64.exe")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("lib/distutils/command/wininst-10.0.exe")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("lib/distutils/command/wininst-6.0.exe")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("lib/distutils/command/wininst-7.1.exe")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("lib/distutils/command/wininst-8.0.exe")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("lib/distutils/command/wininst-9.0-amd64.exe")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("lib/distutils/command/wininst-9.0.exe")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("lib/pydoc_data/_pydoc.css")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("lib/venv/scripts/posix/activate.csh")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("out.dll")]
 
 

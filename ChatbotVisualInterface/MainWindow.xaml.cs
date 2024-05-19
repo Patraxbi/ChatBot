@@ -15,14 +15,14 @@ namespace ChatbotVisualInterface
     public partial class MainWindow : Window
     {
         public ObservableCollection<SimpleTextMessage> ItemList { get; set; }
-        private readonly IronPythonCaller ironPythonCaller;
+        private readonly PythonCaller pythonCaller;
 
         public MainWindow()
         {
             InitializeComponent();
             DataContext = this;
             ItemList = new ObservableCollection<SimpleTextMessage>();
-            ironPythonCaller = new IronPythonCaller();
+            pythonCaller = new PythonCaller();
             RecieveAnswer("Hello World!");
         }
 
@@ -46,7 +46,7 @@ namespace ChatbotVisualInterface
             }
 
             // Send question to Python script
-            string answer = ironPythonCaller.ProcessScript(question);
+            string answer = pythonCaller.ProcessScript(question);
             RecieveAnswer(answer);
         }
 

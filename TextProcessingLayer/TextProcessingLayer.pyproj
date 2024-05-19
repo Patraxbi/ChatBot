@@ -11,7 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>TextProcessingLayer</Name>
     <RootNamespace>TextProcessingLayer</RootNamespace>
-    <InterpreterId>MSBuild|ChatbotPythonAppEnv|$(MSBuildProjectFullPath)</InterpreterId>
+    <InterpreterId>MSBuild|ChatbotEnv|$(MSBuildProjectFullPath)</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -25,10 +25,10 @@
     <Compile Include="TextProcessingLayer.py" />
   </ItemGroup>
   <ItemGroup>
-    <Interpreter Include="ChatbotPythonAppEnv\">
-      <Id>ChatbotPythonAppEnv</Id>
+    <Interpreter Include="ChatbotEnv\">
+      <Id>ChatbotEnv</Id>
       <Version>0.0</Version>
-      <Description>ChatbotPythonAppEnv (Python 3.12)</Description>
+      <Description>ChatbotEnv (Python 3.12)</Description>
       <InterpreterPath>Scripts\python.exe</InterpreterPath>
       <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
       <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>

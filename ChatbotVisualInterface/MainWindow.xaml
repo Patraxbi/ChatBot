@@ -1,0 +1,157 @@
+﻿<Window x:Class="ChatbotVisualInterface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChatbotVisualInterface"
+        xmlns:connectors="clr-namespace:ChatbotVisualInterface.Connectors"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="675" Width="1200"
+        MinHeight="400" MinWidth="600"
+        GotFocus="Window_GotFocus"
+        FocusManager.FocusedElement="{Binding ElementName=Input_Bar}">
+
+    <Grid Background="{StaticResource Whitespace}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="160pt"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50pt"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.RowSpan="2" Background="White">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="10" ShadowDepth="5" Opacity="0.2"/>
+            </Border.Effect>
+        </Border>
+
+        <!--#region Branding -->
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Border>
+                <TextBlock Text="Die Tasse"
+                           FontSize="24" FontFamily="{StaticResource Radeil}"
+                           Foreground="DarkSlateGray"
+                           Padding="15"
+                           HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Border>
+
+            <Border Width="100" Grid.Row="1">
+                <Border.Background>
+                    <ImageBrush ImageSource="Assets/LogoDT.png" Stretch="Uniform"/>
+                </Border.Background>
+            </Border>
+
+            <TextBlock Grid.Row="2" HorizontalAlignment="Center" Padding="10"
+                       Text="Educational project"
+                       FontSize="14" FontFamily="{StaticResource Radeil}"/>
+            
+            <Border Grid.Row="3" Padding="20" VerticalAlignment="Top">
+                <Border Background="LightGray" CornerRadius="20" Padding="8">
+                    <TextBlock FontWeight="SemiBold" TextAlignment="Center" TextWrapping="Wrap">
+                        Version: Alpha 1<LineBreak/>
+                        <LineBreak/>
+                        "Placeholder whitespace for when I find something to add here.
+                        Perhaps suggested keywords or chapters in the document."
+                    </TextBlock>
+                </Border>
+            </Border>
+        </Grid>
+        <!--#endregion-->
+
+        <!--#region Option buttons -->
+        <StackPanel Grid.RowSpan="2"  VerticalAlignment="Bottom">
+            <Border Padding="8 6">
+                <Button Height="30" Style="{DynamicResource CellButtonStyle}" Padding="3" Click="SaveConversation">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="24"/>
+                            <ColumnDefinition Width="5"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Save" Grid.Column="2" 
+                                   Foreground="White" FontSize="16" 
+                                   FontFamily="{StaticResource Radeil}"/>
+                        <Path Stroke="White" StrokeThickness="2" StrokeStartLineCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round" Data="{StaticResource Save}"/>
+                    </Grid>
+                </Button>
+            </Border>
+            <Border Padding="8 6 8 10">
+                <Button Height="30" Style="{DynamicResource CellButtonStyle}" Padding="3" Click="ClearConversation">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="24"/>
+                            <ColumnDefinition Width="5"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Clear" Grid.Column="2"
+                                   Foreground="White" FontSize="16"
+                                   FontFamily="{StaticResource Radeil}"/>
+                        <Path Stroke="White" StrokeThickness="2" StrokeStartLineCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round" Data="{StaticResource Clear}"/>
+                    </Grid>
+                </Button>
+            </Border>
+        </StackPanel>
+        <!--#endregion-->
+
+        <!--#region Chat pannel-->
+        <ListBox x:Name="Chat_Box"
+                 ItemContainerStyle="{DynamicResource ListBoxItemContainerStyle}"
+                 ItemsSource="{Binding ItemList}" Focusable="False"
+                 VerticalAlignment="Bottom" Grid.Column="1"
+                 ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                 VirtualizingPanel.ScrollUnit="Pixel"
+                 Padding="30 10" HorizontalContentAlignment="Stretch"
+                 Background="Transparent" BorderThickness="0">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border Padding="3" HorizontalAlignment="{Binding AlignmentX}">
+                        <Border Background="{Binding ColorBrush}"
+                                Padding="16" CornerRadius="{Binding CornerRadius}">
+                            <TextBlock Text="{Binding Text}"
+                                       FontSize="14" FontWeight="Medium"
+                                       TextWrapping="Wrap" Foreground="White"/>
+                        </Border>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <!--#endregion-->
+
+        <!--#region Search bar -->
+        <Grid Grid.Column="1" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="60pt"/>
+            </Grid.ColumnDefinitions>
+
+            <Border Padding="15 0">
+                <Border Background="White" Height="40" CornerRadius="20" Padding="14 5">
+                    <Border.Effect>
+                        <DropShadowEffect BlurRadius="10" Opacity="0.2"/>
+                    </Border.Effect>
+                    <TextBox x:Name="Input_Bar" 
+                             Style="{DynamicResource AnswerInputBox}"
+                             KeyDown="Input_Bar_KeyDown"
+                             VerticalAlignment="Center"/>
+                </Border>
+            </Border>
+
+            <Border Grid.Column="1" Height="44pt" Width="44pt" Padding="4" HorizontalAlignment="Left">
+                <Button Style="{DynamicResource CellButtonStyle}" Padding="12" Click="RecieveQuestion">
+                    <Path Stretch="Uniform" Fill="White" StrokeThickness="2" StrokeStartLineCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round" Data="{StaticResource Send}"/>
+                </Button>
+            </Border>
+        </Grid>
+        <!--#endregion-->
+    </Grid>
+</Window>
+
