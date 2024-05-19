@@ -3,6 +3,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 import ctypes
+import sys
 
 paragraph_number=3
 
@@ -92,3 +93,9 @@ def text_processing_layer(question: str)->list[str]:
         paragraph_list.append(display_paragraph(appeareances_list[i][0][1], appeareances_list[i][0][2]))
     
     return paragraph_list
+
+# string in "" for command line argument
+question: str = sys.argv[1]
+answers = text_processing_layer(question)
+for line in answers:
+    print(line)
