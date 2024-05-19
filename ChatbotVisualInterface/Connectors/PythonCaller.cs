@@ -1,9 +1,6 @@
-﻿using Microsoft.Scripting.Utils;
-using Python.Runtime;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
-using System.Windows.Documents;
 
 namespace ChatbotVisualInterface.Connectors
 {
@@ -12,38 +9,13 @@ namespace ChatbotVisualInterface.Connectors
     /// </summary>
     public class PythonCaller
     {
-        dynamic func;
-
-        public PythonCaller()
-        {
-            // Setup()
-        }
-
-        private void Setup()
-        {
-            const string pythonDll = ".\\Python312\\python312.dll";
-            Runtime.PythonDLL = pythonDll;
-
-            PythonEngine.Initialize();
-            using (Py.GIL())
-            {
-                using (PyModule scope = Py.CreateScope())
-                {
-                    const string ScriptFile = "TextProcessingLayer.py";
-                    string code = File.ReadAllText(ScriptFile);
-                    PyObject scriptCompiled = PythonEngine.Compile(code, ScriptFile);
-
-                    scope.Execute(scriptCompiled);
-                    func = scope.Get("text_processing_layer");
-                }
-            }
-        }
-
         private List<string> Run_cmd(string cmd, string args)
         {
             ProcessStartInfo start = new ProcessStartInfo();
-            start.FileName = ".\\Python312\\python.exe";
-            start.Arguments = string.Format("{0} {1}", cmd, args);
+            // start.FileName = ".\\Python312\\python.exe";
+            start.FileName = ".\\TextProcessingLayer.exe";
+            // start.Arguments = string.Format("{0} {1}", cmd, args);
+            start.Arguments = args;
             start.UseShellExecute = false;
             start.RedirectStandardOutput = true;
             start.CreateNoWindow = true;

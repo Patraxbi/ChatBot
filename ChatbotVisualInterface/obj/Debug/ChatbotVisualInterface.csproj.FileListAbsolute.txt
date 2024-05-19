@@ -34,3 +34,5 @@ C:\Users\vladc\Desktop\Proiecte\GitHub\ChatBot\ChatbotVisualInterface\obj\Debug\
 C:\Users\vladc\Desktop\Proiecte\GitHub\ChatBot\ChatbotVisualInterface\obj\Debug\ChatbotVisualInterface.pdb
 C:\Users\vladc\Desktop\Proiecte\GitHub\ChatBot\ChatbotVisualInterface\bin\Debug\Python.Runtime.dll
 C:\Users\vladc\Desktop\Proiecte\GitHub\ChatBot\ChatbotVisualInterface\bin\Debug\Python.Runtime.xml
+C:\Users\vladc\Desktop\Proiecte\GitHub\ChatBot\ChatbotVisualInterface\bin\Debug\fuzzy_search.dll
+C:\Users\vladc\Desktop\Proiecte\GitHub\ChatBot\ChatbotVisualInterface\obj\Debug\ChatbotVisualInterface_Content.g.cs

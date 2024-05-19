@@ -31,7 +31,7 @@
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>x64</PlatformTarget>
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -39,7 +39,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>2</WarningLevel>
-    <Prefer32Bit>false</Prefer32Bit>
+    <Prefer32Bit>true</Prefer32Bit>
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -146,6 +146,9 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <Resource Include="Fonts\RadeilRounded-Regular-BF65fe318c435c6.otf" />
+    <Resource Include="Output\wordlist.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -175,6 +178,54 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Assets\LogoDT.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="documents\document.xml" />
+    <Resource Include="documents\document_mod1.xml" />
+    <Resource Include="documents\document_mod2.xml" />
+    <Resource Include="documents\document_mod3.xml" />
+    <Resource Include="documents\document_mod4.xml" />
+    <Resource Include="documents\document_mod5.xml" />
+    <Resource Include="documents\document_mod6.xml" />
+    <Resource Include="documents\hashmap.txt" />
+    <Resource Include="documents\Introduction.txt" />
+    <Resource Include="documents\MODULE 1 CLIMATE CHANGE.txt" />
+    <Resource Include="documents\MODULE 2 GREEN ENERGY.txt" />
+    <Resource Include="documents\MODULE 3 INDUSTRIAL STRATEGY FOR CIRCULAR ECONOMY.txt" />
+    <Resource Include="documents\MODULE 4 GREEN AGRICULTURE.txt" />
+    <Resource Include="documents\MODULE 5 BIODIVERSITY.txt" />
+    <Resource Include="documents\MODULE 6 ZERO POLLUTION.txt" />
+    <Resource Include="documents\module_docs\Introduction.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="documents\module_docs\MODULE 1 CLIMATE CHANGE.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="documents\module_docs\MODULE 2 GREEN ENERGY.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="documents\module_docs\MODULE 3 INDUSTRIAL STRATEGY FOR CIRCULAR ECONOMY.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="documents\module_docs\MODULE 4 GREEN AGRICULTURE.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="documents\module_docs\MODULE 5 BIODIVERSITY.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="documents\module_docs\MODULE 6 ZERO POLLUTION.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="TextProcessingLayer.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fuzzy_search.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

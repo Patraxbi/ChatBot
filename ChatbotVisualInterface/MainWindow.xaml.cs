@@ -23,7 +23,7 @@ namespace ChatbotVisualInterface
             DataContext = this;
             ItemList = new ObservableCollection<SimpleTextMessage>();
             pythonCaller = new PythonCaller();
-            RecieveAnswer("Hello World!");
+            RecieveAnswer("Greetings! Write any term or combination of terms and I will attempt to find relevant paragraphs in the lession content for you.");
         }
 
         /// <summary>
@@ -49,10 +49,10 @@ namespace ChatbotVisualInterface
             var answerList = pythonCaller.ProcessScript(question);
 
             // Format answers
-            ItemList.Add(new SimpleTextMessage($"Term \"{question}\" was found to be relevant at the following locations:"));
+            ItemList.Add(new SimpleTextMessage($"Term \"{question}\" was found to be relevant for the following:"));
             foreach (string answer in answerList)
             {
-                if (answer == null) return;
+                if ( string.IsNullOrEmpty(answer) || answer.Equals("None") ) continue;
                 ItemList.Add(new SimpleTextMessage(answer));
             }
         }
