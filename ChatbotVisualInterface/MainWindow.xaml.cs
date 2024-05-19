@@ -49,11 +49,18 @@ namespace ChatbotVisualInterface
             var answerList = pythonCaller.ProcessScript(question);
 
             // Format answers
-            ItemList.Add(new SimpleTextMessage($"Term \"{question}\" was found to be relevant for the following:"));
-            foreach (string answer in answerList)
+            if (answerList.Count != 0)
             {
-                if ( string.IsNullOrEmpty(answer) || answer.Equals("None") ) continue;
-                ItemList.Add(new SimpleTextMessage(answer));
+                ItemList.Add(new SimpleTextMessage($"Term \"{question}\" was found to be relevant for the following:"));
+                foreach (string answer in answerList)
+                {
+                    if (string.IsNullOrEmpty(answer) || answer.Equals("None")) continue;
+                    ItemList.Add(new SimpleTextMessage(answer));
+                }
+            }
+            else
+            {
+                RecieveAnswer("No paragraphs found");
             }
         }
 
