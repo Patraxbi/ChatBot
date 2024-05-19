@@ -44,7 +44,10 @@ def display_paragraph(document, paragraph):
 def text_processing_layer(question: str)->list[str]:
     
     # adaug la lista de date subfolderul din directorul proiectului, ca să am toate datele pre-descărcate
+    # added both paths so that the script can run both inside this folder, and when it's being executed through the UI
+    (nltk.data.path).insert(0, "..\\TextProcessingLayer\\nltk_data")
     (nltk.data.path).insert(0, ".\\TextProcessingLayer\\nltk_data")
+
     stop_words_set = set(stopwords.words('english'))
     question_set=word_tokenize(question)
 
@@ -63,8 +66,9 @@ def text_processing_layer(question: str)->list[str]:
 
     test=ctypes.CDLL(".\\fuzzy_search.dll")
     
-    result_driver=test.result_driver
     free_mem=test.free_mem
+    result_driver=test.result_driver
+    
     result_driver.argtypes=[ctypes.c_char_p]
     result_driver.restype=ctypes.POINTER(Element)
 

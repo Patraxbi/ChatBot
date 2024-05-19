@@ -208,6 +208,29 @@ void create_resultlist(char *input, CRYPTO *keylist, int sizeKeylist, ELEMENT **
     }
     free(resultsEncrypted);
 }
+void free_mem(void *ptr){
+    free(ptr);
+}
+
+
+// a driver function for the creation of the result list
+ELEMENT* result_driver(char *input, int *nr_results){
+    int nrElements, nrResults;
+    ELEMENT **results;
+    results=(ELEMENT **)(malloc(sizeof(ELEMENT*)));
+
+    CRYPTO **keylist;
+    keylist=(CRYPTO **)(malloc(sizeof(CRYPTO*)));
+    char filename[]="Output/wordlist.csv";
+
+    create_keylist(filename, keylist, &nrElements);
+    
+    create_resultlist(input, *keylist, nrElements, results, &nrResults);
+
+    (*nr_results)=nrResults;
+    free(keylist);
+    return *results;
+}
 
 int scanPriority(char *input, int prio, ELEMENT **results, int *count)
 {
