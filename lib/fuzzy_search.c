@@ -3,7 +3,6 @@
 #include <string.h>
 #include <limits.h>
 #include "bitwise_encoding.h"
-#include "bitwise_encoding.c"
 #include "fuzzy_search.h"
 
 void check(void *pointer)
