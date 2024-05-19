@@ -32,9 +32,13 @@ def display_paragraph(document, paragraph):
         return
 
     module_file=open(docs_table[document])
+    if document == 0:
+        doc_number="From the Introduction, paragraph: "+paragraph+"\n"
+    else:
+        doc_number="From Module "+document+", paragraph: "+paragraph+"\n"
     lines=module_file.readlines()
     # indexing starts at 0, but the line numbering starts at 1, so we have to compensate
-    return lines[paragraph+1]
+    return doc_number+lines[paragraph+1]
 
 # Main function accessed by interface layer
 def text_processing_layer(question: str)->list[str]:
