@@ -47,6 +47,7 @@ def text_processing_layer(question: str)->list[str]:
     # added both paths so that the script can run both inside this folder, and when it's being executed through the UI
     (nltk.data.path).insert(0, "..\\TextProcessingLayer\\nltk_data")
     (nltk.data.path).insert(0, ".\\TextProcessingLayer\\nltk_data")
+    (nltk.data.path).insert(0, ".\\nltk_data")
 
     stop_words_set = set(stopwords.words('english'))
     question_set=word_tokenize(question)
