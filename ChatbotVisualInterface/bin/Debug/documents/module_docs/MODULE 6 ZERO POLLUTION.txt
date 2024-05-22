@@ -1,0 +1,226 @@
+
+
+
+MODULE 6. ZERO POLLUTION
+
+
+EU target: The zero-pollution vision for 2050: a Healthy Planet for All
+Air, water and soil pollution is reduced to levels no longer considered harmful to health and natural ecosystems and that respect the boundaries our planet can cope with, thus creating a toxic-free environment. The zero-pollution ambition is a cross-cutting objective contributing to the UN 2030 Agenda for Sustainable Development and complementing the 2050 climate-neutrality goal in synergy with the clean and circular economy and restored biodiversity goals.
+The zero pollution targets for 2030:
+Under EU law, Green Deal ambitions and in synergy with other initiatives, by 2030 the EU should reduce:
+1. by more than 55% the health impacts (premature deaths) of air pollution;
+2. by 30% the share of people chronically disturbed by transport noise;
+3. by 25% the EU ecosystems where air pollution threatens biodiversity;
+4. by 50% nutrient losses, the use and risk of chemical pesticides, the use of the more hazardous ones, and the sale of antimicrobials for farmed animals and in aquaculture;
+5. by 50% plastic litter at sea and by 30% microplastics released into the environment;
+6. significantly total waste generation and by 50% residual municipal waste.
+The zero pollution for 2050 strategy impacts various European directives, including:
+* Industrial Emissions Directive,
+* Water Framework Directive and related water directives (drinking water, wastewater),
+* EU soil strategy,
+* Farm to Fork strategy,
+* Air quality standards
+1. MOTIVATION AND PLANNED ACHIEVEMENTS from: Pathway to a Healthy Planet for All EU Action Plan: 'Towards Zero Pollution for Air, Water and Soil' (12.05.2021)
+Climate change, environmental pollution1, biodiversity loss and an unsustainable use of natural resources pose multiple risks to human, animal and ecosystem health. To build a Healthy Planet for All, the European Green Deal3 calls for the EU to better monitor, report, prevent and remedy air, water, soil and consumer products pollution, among other things.
+Directive 2010/75/EU, Article 3(2): ?Pollution means the direct or indirect introduction, as a result of human activity, of substances, vibrations, heat or noise into air, water or land which may be harmful to human health or the quality of the environment, result in damage to material property, or impair or interfere with amenities and other legitimate uses of the environment?.
+There is an urgency to act: In the EU, every year, pollution causes 1 in 8 deaths. The fight against pollution is also a fight for fairness and equality. Pollution?s most harmful impacts on human health are typically borne by the most vulnerable groups.
+Pollution also threatens our biodiversity and significantly contributes to the on-going mass extinction of species. Together with changes in land and sea use, overexploitation of natural resources, climate change and invasive alien species, pollution is one of the five main drivers of biodiversity loss.
+Economic progress and pollution reduction can go together: between 2000 and 2017, the EU's GDP grew by 32%, while emissions of the main air pollutants decreased by 10% (ammonia, mainly from agriculture) to 70% (Sulfur oxides, mainly from industrial production). However, the overall fivefold growth of the global economy in the past five decades has come at massive cost to the global environment.
+The economic case for acting on pollution is clear and the benefits for society far outweigh the costs, just as the costs of inaction hugely outweigh the costs of action.
+At the same time, we need a better integrated overview of pollution for public and private actors to tackle connected pollution issues across space and time and address their interplay with other environmental, social and economic considerations as effectively as possible in their policy, investment and purchase decisions.
+Pollution does not stop at borders. While pollution enters the EU through oceans, rivers, winds or imported goods, the EU also causes significant pollution elsewhere in the world through its own production and consumption patterns as well as its waste. At the same time the EU has powerful tools to contribute to pollution mitigation efforts worldwide, via its policies and funds, its green diplomacy, as well as by stimulating innovation, with cleaner production and more sustainable consumption of goods and services.
+The main objective of this action plan is to provide a compass for including pollution prevention in all relevant EU policies.
+
+
+Fig. 1. The zero-pollution hierarchy ? reversing the pyramid of action, prioritizing the approaches for tackling pollution (EU Action Plan: 'Towards Zero Pollution for Air, Water and Soil')
+We must implement the existing EU regulatory frameworks protecting air, freshwaters, seas and oceans faster and better, while urgently working towards a framework to regularly assess the status of EU soils and take action at all levels to address soil pollution and degradation.
+By 2030 the number of land and freshwater ecosystems where air pollution-related eutrophication threatens biodiversity must be reduced by 25%.
+When it comes to freshwater and marine pollution, achieving ?good status? under the Water Framework Directive and the Marine Strategy Framework Directive would bring the EU close to realizing the zero pollution ambition for all aquatic ecosystems.
+The Urban Waste Water Treatment Directive will, in synergy with the evaluation of the Sewage Sludge Directive, help to increase the ambition level to remove nutrients from wastewater and make treated water and sludge ready for reuse, supporting more circular, less polluting farming.
+As announced in the Farm to Fork and Biodiversity Strategies, pollution from pesticides in air, water and soil should be reduced by cutting by 50% in 2030 their overall use and risk. By 2030, 75% of soils are healthy, also thanks to a specific objective on reducing soil pollution and enhancing restoration.
+In the framework of the EU soil strategy, the Commission will develop measures to significantly increase efforts to identify, investigate, assess and remediate contaminated sites, so that by 2050 soil pollution will no longer pose a health or environmental risk.
+The Industrial Emissions Directive (IED) is the main instrument regulating air, water and soil pollutant emissions from over 52 000 of the largest EU industrial installations. Embracing the zero-pollution ambition in production and consumption also means that chemicals, materials and products have to be as safe and sustainable as possible by design and during their life cycle, leading to non-toxic material cycles.
+Clearly, the zero-pollution transformation needs not only funding and technologies, but also skilled people to make best use of both. And this holds true not just for digital skills. The Commission will implement the Skills? Agenda, amongst others by supporting the development of a core green skills set for the labor market to guide training across the economy with a view to creating a generation of climate, environment, and health conscious professionals and green economic operators. 
+To help ensure that the green transition and sustainability become part of the education curriculum, in 2021 the Commission proposes a Council Recommendation on education for environmental sustainability and a European Competence Framework for Climate Change and Sustainable Development.
+The EU will also aim to ensure that pollution is effectively tackled as part of an ambitious post- 2020 global framework on biodiversity at the 15th Conference of the Parties to the Convention on Biological Diversity.
+The Commission will encourage partner countries to improve their policy and regulatory frameworks and put in place the right incentives to reduce pollution, notably through the use of green budgeting and environmental taxes. Furthermore, the upcoming initiative on sustainable corporate governance will introduce due diligence duties across economic value chains, including environmental impacts related to business operations.
+The Commission will promote global zero pollution in all relevant international fora and work with the EU Member States and stakeholders to significantly reduce the EU?s external pollution footprint.
+To integrate the monitoring of different types of pollution and assess their health, environmental, economic and social impacts, the Commission, in partnership with relevant EU agencies, will develop an integrated Zero Pollution Monitoring and Outlook Framework, as part of the wider 8th Environment Action Program (EAP) monitoring.
+
+2. AIR POLLUTION CONTROL
+Air pollution control, represents the techniques employed to reduce or eliminate the emission into the atmosphere of substances that can harm the environment or human health. The control of air pollution is one of the principal areas of pollution control, along with wastewater treatment, solid-waste management, and hazardous-waste management.
+Air is considered to be polluted when it contains certain substances in concentrations high enough and for durations long enough to cause harm or undesirable effects. These include adverse effects on human health, property, and atmospheric visibility. The atmosphere is susceptible to pollution from natural sources as well as from human activities. Some natural phenomena, such as volcanic eruptions and forest fires, may have not only local and regional effects, but also long-lasting global ones. Nevertheless, only pollution caused by human activities, such as industry and transportation, is subject to mitigation and control.
+Most air contaminants originate from combustion processes.
+The criteria pollutants include fine particulates, carbon monoxide, sulfur dioxide, nitrogen dioxide, ozone, and lead. Since the end of the 20th century, there also has been a recognition of the hazardous effects of trace amounts of many other air pollutants called ?air toxics.? Most air toxics are organic chemicals, comprising molecules that contain carbon, hydrogen, and other atoms. Specific emission regulations have been implemented against those pollutants. In addition, the long-term and far-reaching effects of the ?greenhouse gases? on atmospheric chemistry and climate have been observed, and cooperative international efforts have been undertaken to control those pollutants. The greenhouse gases include carbon dioxide, chlorofluorocarbons (CFCs), methane, nitrous oxide, and ozone.
+I. Mobile substances
+The Chemicals Strategy for Sustainability recognizes the need to address pollution from so-called persistent and mobile substances. Mobile substances are defined as those that travel long distances with water, including groundwater, and can thus spread over large spatial and temporal scales. Examples of persistent and mobile substances that are attracting attention at the time of writing include melamine, benzotriazole, 1,4-dioxane and many per and polyfluoroalkyl substances (PFAS). A holistic approach is needed, whereby substances currently used in commerce are prioritized and strategies are then identified to prevent unnecessary exposure to these substances. A holistic approach includes not only an assessment of exposure, hazard and risk, but also requires reflection regarding product use scenarios, differentiating between ?essential-use? and non-essential use. Barriers represented by a lack of knowledge, time and money can result in poorly informed decisions which may present themselves as regrettable substitutions. A more holistic science-based evaluation, considering the whole life cycle of the persistent and mobile substance, can help improve substitution decisions by providing quantitative information regarding the relative impact of a chemical ingredient throughout manufacture, use and disposal.
+The need to prioritize persistent and mobile substances for prevention and removal, before exposure is too wide spread, or before risks are too great, is clear. Costs related to identification, screening and remediation of sites contaminated with PFAS across Europe is around ?10?20 billion per annum, rising to ?52?84 billion per annum, when costs such as increased healthcare demands, ecological damage, property loss and impacts on the agricultural sector are included. Removal of persistent and mobile substances from already polluted sites is difficult.
+Given that these costs represent only a partial removal and that the methods are resource intensive, there is an urgent need to identify sustainable treatment technologies able to remove persistent and mobile substances. In the Program Horizon 2020 Research and Innovation, Action project called "Zero PM: Zero pollution of persistent, mobile substances", will interlink and synergize three strategies to protect the environment and human health from persistent, mobile substances: Prevent, Prioritize and Remove. To prevent pollution of persistent and mobile substances, Zero PM will activate the momentum of the EU?s Chemicals Strategy to support its implementation through the development of scientific, policy and market tools for the substitution and mitigation of prioritized, non-essential persistent and mobile substances to safer and sustainable alternatives.
+II. Control of particulates
+The best way to protect air quality is to reduce the emission of pollutants by changing to cleaner fuels and processes. Pollutants not eliminated in this way must be collected or trapped by appropriate air-cleaning devices as they are generated and before they can escape into the atmosphere. These devices are described below and designed to remove particulate and gaseous pollutants from the emissions of stationary sources, including power plants and industrial facilities.
+Airborne particles can be removed from a polluted airstream by a variety of physical processes. Common types of equipment for collecting fine particulates include cyclones, scrubbers, electrostatic precipitators, and baghouse filters. Once collected, particulates adhere to each other, forming agglomerates that can readily be removed from the equipment and disposed of, usually in a landfill.
+Because each air pollution control project is unique, it is usually not possible to decide in advance what the best type of particle-collection device (or combination of devices) will be; control systems must be designed on a case-by-case basis. Important particulate characteristics that influence the selection of collection devices include corrosivity, reactivity, shape, density, and especially size and size distribution (the range of different particle sizes in the airstream). Other design factors include airstream characteristics (e.g., pressure, temperature, and viscosity), flow rate, removal efficiency requirements, and allowable resistance to airflow. 
+A) Cyclone separator (Fig. 2)
+In general, cyclone collectors are often used to control industrial dust emissions and as pre-cleaners for other kinds of collection devices. A cyclone removes particulates by causing the dirty airstream to flow in a spiral path inside a cylindrical chamber. Dirty air enters the chamber from a tangential direction at the outer wall of the device, forming a vortex as it swirls within the chamber. The larger particulates, because of their greater inertia, move outward and are forced against the chamber wall. Slowed by friction with the wall surface, they then slide down the wall into a conical dust hopper at the bottom of the cyclone. The cleaned air swirls upward in a narrower spiral through an inner cylinder and emerges from an outlet at the top. Accumulated particulate dust is periodically removed from the hopper for disposal.
+Cyclones are best at removing relatively coarse particulates. They can routinely achieve efficiencies of 90 percent for particles larger than about 20 micrometers (?m). By themselves, however, cyclones are not sufficient to meet stringent air quality standards. They are typically used as pre-cleaners and are followed by more efficient air-cleaning equipment such as electrostatic precipitators and baghouses.
+
+B) Wet scrubber (Fig. 3)
+A Wet Scrubber is an emission control device that abates particulate (PM) or gases using a scrubbing liquid. The type of scrubbing liquid used is dependent on the target contaminants that need treatment. The dirty exhaust stream is introduced into the scrubber vessel and interacts with the scrubbing liquid. Wet scrubbers are usually applied in the control of flammable or explosive dusts or mists from such sources as industrial and chemical processing facilities and hazardous-waste incinerators; they can handle hot airstreams and sticky particles.
+
+
+C) Electrostatic precipitator (Fig. 4)
+
+Electrostatic precipitator is a common particle-collection device at fossil-fuel power-generating stations. Electrostatic precipitation is a commonly used method for removing fine particulates from airstreams. In an electrostatic precipitator, particles suspended in the airstream are given an electric charge as they enter the unit and are then removed by the influence of an electric field. The precipitation unit comprises baffles for distributing airflow, discharge and collection electrodes, a dust clean-out system, and collection hoppers. A high voltage of direct current (DC), as much as 100,000 volts, is applied to the discharge electrodes to charge the particles, which then are attracted to oppositely charged collection electrodes, on which they become trapped.
+An electrostatic precipitator can remove particulates as small as 1 ?m with an efficiency exceeding 99 percent. The effectiveness of electrostatic precipitators in removing fly ash from the combustion gases of fossil-fuel furnaces accounts for their high frequency of use at power stations.
+D) Baghouse filters (Fig. 5)
+
+Baghouse is employing an array of fabric bags for filtering the airstream.
+One of the most efficient devices for removing suspended particulates is an assembly of fabric-filter bags, commonly called a baghouse. A typical baghouse comprises an array of long, narrow bags?each about 25 cm in diameter?that are suspended upside down in a large enclosure. Dust-laden air is blown upward through the bottom of the enclosure by fans. Particulates are trapped inside the filter bags, while the clean air passes through the fabric and exits at the top of the baghouse.
+A fabric-filter dust collector can remove very nearly 100 percent of particles as small as 1 ?m and a significant fraction of particles as small as 0.01 ?m. Fabric filters, however, offer relatively high resistance to airflow, which leads to substantial energy usage for the fan system. In addition, in order to prolong the useful life of the filter fabric, the air to be cleaned must be cooled.
+III. Control of gases
+Gaseous pollutants, as well as volatile organic compounds (VOCs) and other gaseous air toxics, are controlled by means of three basic techniques: absorption, adsorption, and incineration (or combustion). These techniques can be employed singly or in combination. They are effective against the major greenhouse gases as well. In addition, a fourth technique, known as carbon sequestration, is in development as a means of controlling carbon dioxide levels.
+* Absorption In the context of air pollution control, absorption involves the transfer of a gaseous pollutant from the air into a contacting liquid, such as water. The liquid must be able either to serve as a solvent for the pollutant or to capture it by means of a chemical reaction.
+* Wet scrubbers and packed scrubbers
+Wet scrubbers similar to those described above for controlling suspended particulates may be used for gas absorption. Gas absorption can also be carried out in packed scrubbers, or towers, in which the liquid is present on a wetted surface rather than as droplets suspended in the air. A common type of packed scrubber is the countercurrent tower. After entering the bottom of the tower, the polluted airstream flows upward through a wetted column of light, chemically inactive packing material. The liquid absorbent flows downward and is uniformly spread throughout the column packing, thereby increasing the total area of contact between gas and liquid. Thermoplastic materials are most widely used as packing for countercurrent scrubber towers. These devices usually have gas-removal efficiencies of 90?95 percent.
+Cocurrent and cross-flow packed scrubber designs are also used for gas absorption. In the cocurrent design, both gas and liquid flow in the same direction?vertically downward through the scrubber. Although not as efficient as countercurrent designs, cocurrent devices can work at higher liquid flow rates. The increased flow prevents plugging of the packing, when the airstream contains high levels of particulates. Cocurrent designs afford lowered resistance to airflow and allow the cross-sectional area of the tower to be reduced. 
+In general, scrubbers are used at fertilizer production facilities (to remove ammonia from the airstream), at glass production plants (to remove hydrogen fluoride), at chemical plants (to remove water-soluble solvents such as acetone and methyl alcohol), and at rendering plants (to control odors).
+* Flue gas desulfurization (FGD) (Fig. 6)
+Sulfur dioxide in flue gas from fossil-fuel power plants can be controlled by means of an absorption process called flue gas desulfurization (FGD). FGD systems may involve wet scrubbing or dry scrubbing. In wet FGD systems, flue gases are brought in contact with an absorbent, which can be either a liquid or a slurry of solid material. The sulfur dioxide dissolves in or reacts with the absorbent and becomes trapped in it. In dry FGD systems, the absorbent is dry pulverized lime or limestone; once absorption occurs, the solid particles are removed by means of baghouse filters (described above). Dry FGD systems, compared with wet systems, offer cost and energy savings and easier operation, but they require higher chemical consumption and are limited to flue gases derived from the combustion of low-sulfur coal.
+FGD systems are also classified as either regenerable or non-regenerable (throwaway), depending on whether the sulfur that is removed from the flue gas is recovered or discarded. Non-regenerable FGD systems produce a sulfur-containing sludge residue that requires appropriate disposal. Regenerable FGD systems require additional steps to convert the sulfur dioxide into useful by-products like sulfuric acid.
+
+
+Fig. 6. Wet scrubber using a limestone slurry to remove sulfur dioxide from flue gas.
+Several FGD methods exist, differing mainly in the chemicals used in the process. FGD processes that employ either lime or limestone slurries as the reactants are widely applied. In the limestone scrubbing process, sulfur dioxide reacts with limestone (calcium carbonate) particles in the slurry, forming calcium sulfite and carbon dioxide. In the lime scrubbing process, sulfur dioxide reacts with slaked lime (calcium hydroxide), forming calcium sulfite and water. Depending on sulfur dioxide concentrations and oxidation conditions, the calcium sulfite can continue to react with water, forming calcium sulfate (gypsum). Neither calcium sulfite nor calcium sulfate is very soluble in water, and both can be precipitated out as a slurry by gravity settling. The thick slurry, called FGD sludge, creates a significant disposal problem. Flue gas desulfurization helps to reduce ambient sulfur dioxide levels and mitigate the problem of acid rain. 
+* Adsorption
+Gas adsorption, as contrasted with absorption, is a surface phenomenon. The gas molecules are sorbed?attracted to and held?on the surface of a solid. Gas adsorption methods are used for odor control at various types of chemical-manufacturing and food-processing facilities, in the recovery of a number of volatile solvents (e.g., benzene), and in the control of VOCs at industrial facilities.
+Activated carbon (heated charcoal) is one of the most common adsorbent materials. It is very porous and has an extremely high ratio of surface area to volume. Activated carbon is particularly useful as an adsorbent for cleaning airstreams that contain VOCs and for solvent recovery and odor control. A properly designed carbon adsorption unit can remove gas with an efficiency exceeding 95 percent. Adsorption systems are configured either as stationary bed units or as moving bed units. 
+* Incineration
+The process called incineration or combustion?chemically, rapid oxidation?can be used to convert VOCs and other gaseous hydrocarbon pollutants to carbon dioxide and water. Incineration of VOCs and hydrocarbon fumes usually is accomplished in a special incinerator called an afterburner. To achieve complete combustion, the afterburner must provide the proper amount of turbulence and burning time, and it must maintain a sufficiently high temperature. Sufficient turbulence, or mixing, is a key factor in combustion, because it reduces the required burning time and temperature. A process called direct flame incineration can be used when the waste gas is itself a combustible mixture and does not need the addition of air or fuel.
+An afterburner typically is made of a steel shell lined with refractory material such as firebrick. The refractory lining protects the shell and serves as a thermal insulator. Given enough time and high enough temperatures, gaseous organic pollutants can be almost completely oxidized, with incineration efficiency approaching 100 percent. Certain substances, such as platinum, can act in a manner that assists the combustion reaction. These substances, called catalysts, allow complete oxidation of the combustible gases at relatively low temperatures.
+Afterburners are used to control odors, destroy toxic compounds, or reduce the amount of photochemically reactive substances released into the air. They are employed at a variety of industrial facilities, where VOC vapors are emitted from combustion processes or solvent evaporation (e.g., petroleum refineries, paint-drying facilities, and paper mills).
+* Carbon sequestration
+The best way to reduce the levels of carbon dioxide in the air is to use energy more efficiently and to reduce the combustion of fossil fuels by using alternative energy sources (e.g., nuclear, wind, tidal, and solar power). In addition, carbon sequestration can be used to serve the purpose. Carbon sequestration involves the long-term storage of carbon dioxide underground, as well as on the surface of Earth in forests and oceans. Carbon sequestration in forests and oceans relies on natural processes such as forest growth. However, the clearing of forests for agricultural and other purposes (and also the pollution of oceans) diminishes natural carbon sequestration. Storing carbon dioxide underground?a technology under development that is also called geo sequestration or carbon capture and storage?would involve pumping the gas directly into underground geologic ?reservoir? layers. This would require the separation of carbon dioxide from power plant flue gases (or some other source)?a costly process.
+
+3. WATER POLLUTION
+Water pollution represents the release of substances into subsurface groundwater or into lakes, streams, rivers, estuaries, and oceans to the point, where the substances interfere with beneficial use of the water or with the natural functioning of ecosystems. In addition to the release of substances, such as chemicals, trash, or microorganisms, water pollution may also include the release of energy, in the form of radioactivity or heat, into bodies of water.
+When water becomes contaminated, it has detrimental effects on both animals and plants (who rely on uncontaminated water), and the sensitive water environment.?
+Water pollution can come from any of the followings:
+* Urban development?
+The process by which a lake changes from a clean, clear condition?with a relatively low concentration of dissolved nutrients and a balanced aquatic community?to a nutrient-rich, algae-filled state and thence to an oxygen-deficient, waste-filled condition is called eutrophication. Eutrophication is a naturally occurring, slow, and inevitable process. However, when it is accelerated by human activity and water pollution (a phenomenon called cultural eutrophication), it can lead to the premature aging and death of a body of water.
+The improper disposal of solid waste is a major source of water pollution. Solid waste includes garbage, rubbish, electronic waste, trash, and construction and demolition waste, all of which are generated by individual, residential, commercial, institutional, and industrial activities.
+* Sewage & wastewater
+Domestic sewage is the primary source of pathogens (disease-causing microorganisms) and putrescible organic substances. Because pathogens are excreted in feces, all sewage from cities and towns is likely to contain pathogens of some type, potentially presenting a direct threat to public health. Putrescible organic matter presents a different sort of threat to water quality. As organics are decomposed naturally in the sewage by bacteria and other microorganisms, the dissolved oxygen content of the water is depleted. This endangers the quality of lakes and streams, where high levels of oxygen are required for fish and other aquatic organisms to survive. Sewage-treatment processes reduce the levels of pathogens and organics in wastewater, but they do not eliminate them completely.
+* Mining
+* Marine dumping
+* Oil leakages
+* Burning fossil fuels
+* Agriculture: Chemical fertilizers & pesticides
+* Sewer leakages
+* Global warming
+* Radioactive waste
+* Animal waste
+* Acid rain
+There is no single or simple answer to stop the water pollution crisis, however, there are many solutions to prevent water pollution both in our daily lives and within industries.?
+We can separate the issue with water pollution into 10 notable solutions:
+* Wastewater Treatment
+* Reducing Plastic Waste?
+* Water Conservation
+* Water-efficient Toilets?
+* Septic Tanks
+* Do Not Use the Toilet as a Trash Bin
+* Stormwater Management
+* Green Agriculture & Wetlands
+* Denitrification
+* Ozone Wastewater Treatment
+Wastewater Treatment
+Treating water before it enters the waterway system is probably the most efficient way of reducing water pollution ? hitting the issue right at the source!?
+Wastewater treatment facilities have the technology and tools to remove most pollutants through biological, physical, and chemical processes. For example, sewage treatments allow water to travel through different sanitization chambers to reduce toxic levels of water pollutants and prevent leakages into water systems.?
+To ensure that wastewater treatments function properly, regular maintenance of equipment is required. This includes applications such as water treatment sensors, which are vital to measure and remove contaminants to reduce water pollution.?
+Reducing Plastic Waste
+Plastic waste is a huge issue. More than 8 tons of plastic enters our ocean every year, plus the plastic is to outweigh the number of fish by 2050, these facts are shocking! Plastic waste also decays water supplies. This is why it is extremely important to reduce plastic waste and improve sustainability both locally and globally.?
+Plastic bottles and bags get most of the media coverage, but plastics are entering water systems in ways you cannot always see, and are most likely not aware of.?
+Microplastics are a major issue and are found in:
+* Industrial manufacturing
+* Synthetic textiles?
+* Clothing
+* Personal care products (toothpaste, shampoo, etc.)
+To reduce plastic waste at home, we can do the followings:
+* Recycle plastics
+* Use alternatives to plastic like reusable utensils, grocery bags, etc.
+* Shop locally and buy fruit & vegetables not wrapped in plastic
+* Buy organic/natural & environmentally-friendly care products?
+Water Conservation
+Water is a scarce resource, so limiting the amount of water you use daily will contribute to reducing water pollution.?
+Septic Tanks
+Septic tanks are a great way to efficiently treat sewage; separating solids from liquid. Septic tanks degrade solids and allow liquid to flow into drainage systems via biological processes.?
+Using septic tanks reduces water pollution by removing pollutants already present in water.?
+Stormwater Management
+Treatment and management of stormwater vary from reverse osmosis (RO), advanced oxidation, and sand filtration.?
+Green Agriculture & Wetlands
+Agriculture is a huge industry worldwide, using up to 70% of surface water supplies to meet the demand of livestock production and farming.?
+As agriculture is such a large industry, it is one of the primary causes of water pollution. When it rains, runoff transports pesticides and fertilizers.?
+Agriculture can be environmentally friendly, known as green agriculture. Green agriculture involves using pesticides and fertilizers that contain no harmful chemicals. It also includes planting trees and creating wetlands to form buffer zones, which filter runoff and water pollutants.
+Denitrification
+When nitrate levels are high in water, it creates the perfect environment for eutrophication or overfertilization from runoff to occur. This allows algae and phytoplankton in the water to rapidly grow, reducing water quality, and contributing to the water pollution issue.??
+Denitrification is directly converting nitrates into nitrogen gas. This ecological process prevents nitrate leaching into soils and helps reduce groundwater contamination.
+Ozone Wastewater Treatment
+Although this is also a wastewater treatment, it goes through a different process to regular wastewater systems, which is why it is important to also note.?
+Ozone wastewater treatment uses an ozone generator to break down water pollutants. Ultraviolet (UV) radiation or an electric discharge field inside the generator converts oxygen into ozone. This process oxidizes bacteria, organic matter, and other water pollutants.?
+There are 7 ways we can test water quality and reduce water pollution:
+* CDOM (colored dissolved organic matter)/FDOM (fluorescent dissolved organic matter) Monitoring
+* Chlorophyll Fluorescence Analysis
+* Conductivity, Salinity & TDS (total dissolved solids) Monitoring?
+* Measuring Water Temperature
+* Measuring DO
+* pH Testing
+* Evaluating Turbidity & TSS (Total Suspended Solids)
+
+4. SOIL POLLUTION MANAGEMENT
+Soil, also commonly referred to as earth or dirt, is a mixture of organic matter, minerals, gases, liquids, and organisms that together support the life of plants and soil organisms. Soil consists of a solid phase of minerals and organic matter (the soil matrix), as well as a porous phase that holds gases (the soil atmosphere) and water (the soil solution). Accordingly, soil is a three-state system of solids, liquids, and gases.
+Soil pollution refers to the presence of a chemical or substance out of place and/or present in a soil at higher-than-normal concentration that has adverse effects on any non-targeted organism. Soil contamination, soil pollution, or land pollution as a part of land degradation is caused by the presence of xenobiotic (human-made) chemicals or other alteration in the natural soil environment.
+
+Fig. 7. Sources of soil pollutants
+Soil pollution can be caused by the following (non-exhaustive list): 
+* Microplastics
+* Oil spills
+* Mining and activities by other heavy industries
+* Accidental spills may happen during activities, etc.
+* Corrosion of underground storage tanks (including piping used to transmit the contents)
+* Acid rain
+* Intensive farming
+* Agrochemicals, such as pesticides, herbicides and fertilizers
+* Petrochemicals
+* Industrial accidents
+* Road debris
+* Construction activities
+* Exterior lead-based paints
+* Drainage of contaminated surface water into the soil
+* Ammunitions, chemical agents, and other agents of war
+* Waste disposal 
+* Oil and fuel dumping
+* Nuclear wastes
+* Direct discharge of industrial wastes to the soil
+* Discharge of sewage
+* Landfill and illegal dumping
+* Coal ash
+* Electronic waste
+* Contaminated by rocks containing large amounts of toxic elements.
+* Contaminated by Pb due to vehicle exhaust, Cd, and Zn caused by tire wear.
+* Contamination by strengthening air pollutants by incineration of fossil raw materials.
+Impacts of soil pollution are not confined to soil and its biota but are carried over to every aspect of the environment and affect every organism from the earthworm to humans: Human health, Growth of plants, Air pollution, Diminished Soil Fertility, Impact on scene and Odor contamination, Changes in Soil Structure, Impact on Ecosystem and Biodiversity, Tainting of Water Sources.
+Soil remediation involves the elimination of contaminants from the soil through a range of chemical, physical and biological means that can be applied to carry it out.
+In situ and ex situ soil remediation technologies can be classified as physical, biological, chemical, and combined approaches. Whereas in situ soil remediation technologies are aimed at the decontamination of soil at its original site, ex situ technologies are performed through the excavation of the soil and decontaminating it away from its original site. In situ remediation technologies can involve chemical or biological processes. Chemical remediation technologies use chemical reagents, and the mechanisms involved include ion exchange, catalysis, adsorption, oxidation, and reduction. In this respect, activated carbons have been widely used due to their capability to eliminate a wide range of organic and inorganic contaminants.
+In situ soil remediation technologies can be a favorable strategy for large scale of contaminated soil as it offers less disturbance to the ecosystem and is less cost effective. These technologies involve the supply and retrieval of fluids and reactants to the soil subsurface. Their effectiveness depends on soil conditions and contaminant characteristics. For instance, chemical oxidation and bioventing are affected by soil permeability, whereas conductive heating is not. In situ bioremediation on the one hand, supplements nutrients to the contaminated soil to stimulate soil microorganisms to degrade pollutants. Alternatively, new microorganisms are introduced into the soil or native microorganisms are enhanced through genetic engineering to target specific pollution. However, the use of natural microorganisms can be affected by inadequate nutrient supply and/or the nature of contaminated sites. In situ bioremediation techniques include bio-absorption, composting, bio-ventilation, natural attenuation, bio-purification, and microbial-assisted phytoremediation. Physical soil remediation technologies aim at stopping or reversing environmental damage through the use of physical strategies such as flushing, capping, thermal treatment. For soil contaminated with SVOCs) (Semi-volatile organic compounds), thermal treatment can be a suitable method. In situ capping is achieved by placing a clean isolation material cover over the contaminated soil. Flushing using a mixture of water and surfactants can be a more suitable and effective method of in situ remediation for soils contaminated with hydrophobic organic pollutants.
+Ex situ technologies include the use of bio piles and slurry phase biological treatment amongst others. In bio piles, petroleum hydrocarbon contaminated soils are excavated and placed in bio piles, where they are mixed with agents that promoted the degradation process at the treatment site. The effectiveness of the process can be improved by controlling aeration, moisture, temperature, oxygen and pH. Slurry phase biological treatment is performed in a reactor containing a mixture of the excavated soil and water, and nutrients are added to promote microorganism growth and activity that subsequently leads to the biodegradation of organic compounds.
+
+Fig. 8. Soil remediation technologies
+Many benefits of biochar practice for soil remediation have been reported, such as increased carbon sequestration trends, soil fertility, biomass production, crop yield, and minimize emission of greenhouse gases. Biochar, also renowned as biomass-derived black carbon, is becoming a valuable amendment for sustainable agriculture. It is a recalcitrant carbonaceous material derived from bio-waste matter combusted under anaerobic conditions, which is an economical and eco-friendly method of carbon sequestration. Soil physiological properties have been affected by using biochar with various characteristics and application rates for soil amendments. Biochar can improve physicochemical and biological properties of cultivated soils.
+Phytoremediation
+A novel approach to soil remediation is phytoremediation, i.e., remediation by plants. One type of phytoremediation is phytoextraction, in which plants are used to take up contaminants and the plants are then harvested and treated or disposed of. In this process, most often proposed for heavy metals and certain other inorganic contaminants such as arsenic, a soil is planted with a species that has a high affinity for the contaminant. Such plants, called hyperaccumulators, mobilize metals from the soil and store them in plant tissue. In many cases, these plants can transport the metals via their vascular tissue to aboveground parts, such as stems and leaves, which can be periodically harvested and disposed of in a secure manner. In some cases, it is practical to recover the metal(s) from the plant material. By this process, the metal contaminant is gradually removed from the soil, often at a lower cost than by alternative means. Phytoremediation has also been proposed for some organic contaminants; for example, carbon tetrachloride (CCl4) has been shown to be taken up from soil porewater and dechlorinated by poplar trees.
+
+Fig. 9. Comparative evaluation of soil remediation techniques 
+
+
+Fig. 10. Environment pollution and effects
+
+

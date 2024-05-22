@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("obj/debug/chatbotvisualinterface.exe")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("obj/debug/chatbotvisualinterface.pdb")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("textprocessinglayer.exe")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("fuzzy_search.dll")]
 
 

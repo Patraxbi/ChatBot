@@ -1,0 +1,292 @@
+
+
+MODULE 3.
+INDUSTRIAL STRATEGY FOR CIRCULAR ECONOMY
+
+EU target. It is be presented in the Circular Economy Action Plan of the European Green deal.
+
+I. CIRCULAR ECONOMY
+1. DEFINITION
+
+Fig. 1. Concept of circular economy (M. Geissdoerfer et al., 2020. Circular business models: A review. Journal of Cleaner Production, article 123741)
+
+The European Parliament defines circular economy (CE) as "a model of production and consumption that involves sharing, leasing, reusing, repairing, refurbishing, and recycling existing materials and products as long as possible. In this way, the life cycle of products is extended."
+In practice, it implies reducing waste to a minimum. When a product reaches the end of its life, its materials are kept within the economy wherever possible thanks to recycling. These can be productively used again and again, thereby creating further value.
+By comparison in a linear economy, natural resources are turned into products that are ultimately destined to become waste because of the way they have been designed and manufactured. This process is often summarized as "take, make, waste." By contrast, a circular economy aims to transition from a 'take-make-waste' approach to a more restorative and regenerative system. It employs reuse, sharing, repair, refurbishment, remanufacturing and recycling, meaning consumerism-altering concepts and actions to create a closed-loop system, reducing the use of resource inputs and the creation of waste, pollution, and carbon emissions. The circular economy aims to keep products, materials, equipment, and infrastructure in use for longer, thus improving the productivity of these resources. Waste materials and energy should become input for other processes through waste valorization: either as a component for another industrial process or as regenerative resources for nature (e.g., compost). The Ellen MacArthur Foundation (EMF) defines the circular economy as an industrial economy that is restorative or regenerative by value and design. 
+A comprehensive definition could be: "Circular economy is an economic system that targets zero waste and pollution throughout materials lifecycles, from environment extraction to industrial transformation, and final consumers, applying to all involved ecosystems. Upon its lifetime end, materials return to either an industrial process or, in the case of a treated organic residual, safely back to the environment as in a natural regenerating cycle. It operates by creating value at the macro, meso, and micro levels and exploiting to the fullest the sustainability nested concept. Used energy sources are clean and renewable. Resource use and consumption are efficient. Government agencies and responsible consumers play an active role in ensuring the correct system long-term operation. (G. C. Nobre et al., 2021-09-10, "The quest for a circular economy final definition: A scientific perspective". Journal of Cleaner Production. 314, 127973.)
+
+Fig. 2. Difference between the circular economy and the linear economy. (Catherine Weetman?Own work, CC BY-SA 4.0 Link, 2016)
+May be the most clearly explained: a circular economy reduces material use, redesigns materials, products and services to be less resources intensive, and recapture waste as a resource to manufacture new materials, products and energy.
+2. CIRCULAR ECONOMY AND SUSTAINABILITY
+The 2030 Agenda for Sustainable Development was adopted by all United Nations Member States in 2015, providing a shared blueprint for peace and prosperity for people and the planet, now and into the future. At its heart are the 17 Sustainable Development Goals (SDGs), which are an urgent call for action by all countries - developed and developing - in a global partnership. They recognize that ending poverty and other deprivations must go hand-in-hand with strategies that improve health and education, reduce inequality, and spur economic growth ? all while tackling climate change and working to preserve our oceans and forests.
+The circular economy has the potential to contribute significantly to the sustainable development goals (SDGs) set by the United Nations (UN). The Ellen MacArthur Foundation states that "the circular economy offers a powerful vision for a future in which economic growth is decoupled from resource constraints and negative environmental impacts" (Ellen MacArthur Foundation, n.d.). 
+One of the critical ways the circular economy can contribute to the SDGs is by reducing waste and pollution. According to the European Environment Agency, "the circular economy aims to minimize the environmental impacts of economic activities by closing the loop on resource use. It seeks to keep products, components and materials at their highest utility and value at all times, thereby eliminating the generation of waste and minimizing the use of natural resources" (European Environment Agency, 2018). By reusing and recycling resources, the circular economy helps reduce the amount of waste generated and the amount of pollution released into the environment (Ghisellini et al., 2017). This can positively impact the goal of ensuring sustainable cities and communities and the pursuit of responsible consumption and production (SDG 11 and 12). 
+Among the successful initiatives attempting to reduce waste and pollution through the circular economy is the city of Malm?'s "Malm? Milj?byr?n" program. Launched in 2002, this program aims to reduce the city's environmental impact by implementing various measures, including recycling, composting, and reuse (City of Malm?, n.d.). As part of this program, the city has established a network of recycling stations, composting facilities, and a range of educational and outreach programs to promote the circular economy. In addition, the city has implemented a range of circular procurement policies, including using life cycle assessment tools to evaluate the environmental impact of products and services (City of Malm?, n.d.). 
+Besides reducing waste and pollution, the circular economy can promote economic growth and development. According to the World Business Council for Sustainable Development, "the circular economy can drive innovation, create new business opportunities and jobs, and contribute to the competitiveness of companies and regions. It can also enhance resource productivity, reduce costs and improve resilience" (World Business Council for Sustainable Development, 2015). By creating new business opportunities and jobs, the circular economy can contribute to the goal of decent work and economic growth (SDG 8). It can also promote innovation and technological development, supporting industry's plan, innovation, and infrastructure (SDG 9). For example, the circular economy can support the development of small and medium enterprises, which can help to build more inclusive and diverse economic systems (Ghisellini et al., 2017). 
+A successful example of a circular economy's economic benefits is the circular textile industry in the Netherlands. According to the Dutch Ministry of Infrastructure and Water Management, "the circular textile industry in the Netherlands is a fast-growing sector, which generates a turnover of more than ?1 billion per year and employs around 15,000 people" (Ministry of Infrastructure and Water Management, n.d.). This industry has developed a range of innovative business models, including circular design, production and consumption, which have helped create new economic opportunities and jobs and reduce waste and pollution (Ministry of Infrastructure and Water Management, n.d.). 
+In addition to promoting economic growth and development and resource efficiency, the circular economy can also support the goal of sustainable cities and communities (SDG 11). The city of San Francisco's "Zero Waste" program?, launched in 2002, aims to divert all of the city's solid waste from landfill and incineration by 2020, through the implementation of a range of measures, including recycling, composting, and reuse (City and County of San Francisco, n.d.). As of 2019, the city had achieved an 82% waste diversion rate, up from just 52% in 2002, resulting in significant reductions in waste and pollution (City and County of San Francisco, 2019). The success of the Zero Waste program demonstrates the significant role that local governments can play in promoting the circular economy and supporting the achievement of the SDGs. 
+The circular economy can also contribute to resource efficiency and the use of renewable resources. According to the United Nations Environment Program, "a circular economy can increase resource productivity and decrease the demand for virgin resources, as well as lower greenhouse gas emissions and improve energy security. This can also help reduce economies' vulnerability to resource price fluctuations and supply risks" (United Nations Environment Program, 2017). By using resources more efficiently, the circular economy can help reduce the demand for non-renewable resources and promote renewable resources (Ghisellini et al., 2017). This can support the goal of ensuring access to affordable, reliable, and modern energy for all (SDG 7) and the goal of climate action (SDG 13). 
+In terms of resource efficiency, one example of the circular economy's benefits is the "Cradle to Cradle" design approach developed by the German company MBDC. This approach is based on circular economy principles and aims to design products that can be continually reused and recycled rather than disposed of at the end of their life (MBDC, n.d.). According to MBDC, the Cradle-to-Cradle design approach has successfully reduced non-renewable resources and promoted renewable resources while reducing waste and pollution. 
+Moreover, it is imperative to consider the potential impact of the circular economy on equity and inclusion. While the circular economy has the potential to bring significant benefits, including economic growth and development, it is crucial to ensure that these benefits are shared equitably (Ghisellini et al., 2017). As the United Nations Development Program notes, "achieving the SDGs requires the active participation and empowerment of all stakeholders, including marginalized and disadvantaged groups, to ensure that no one is left behind". This may require targeted efforts to support the participation of marginalized and disadvantaged groups in the circular economy, such as through training and capacity-building programs. Additionally, marginalized and disadvantaged groups must not be negatively impacted by the transition to a circular economy. 
+Among the circular economy initiatives that emphasize equity and inclusion is the "Circular Economy for All" initiative, launched by the European Commission in 2019. This initiative aims to ensure that the benefits of the circular economy are shared equitably and to support the participation of marginalized and disadvantaged groups in the circular economy (European Commission, 2019). As part of this initiative, the European Commission has developed a range of measures to promote the inclusion of marginalized and disadvantaged groups in the circular economy, including the development of training and capacity-building programs, the establishment of a circular economy stakeholder platform to promote dialogue and cooperation between different stakeholders, and the development of a circular economy finance support platform to support the financing of circular projects. 
+The role of local governments in promoting the circular economy is crucial. According to the European Committee of the Regions, "local and regional governments play a key role in driving the transition towards a circular economy, as they are responsible for implementing the majority of environmental and waste policies, as well as investing in infrastructure and providing public services" (European Committee of the Regions, 2018). Local governments can take many steps to promote the circular economy. This includes implementing circular procurement policies, supporting the development of circular business models, and investing in infrastructure for waste collection and treatment. 
+An example of the role local governments plays in promoting circular economies is the city of Gothenburg's "Circular Gothenburg" initiative. Launched in 2017, this initiative aims to transform Gothenburg into a circular city by 2030 by implementing various measures, including recycling, composting, and reuse (City of Gothenburg, n.d.). As part of this initiative, the city has established a range of circular procurement policies, including using life cycle assessment tools to evaluate the environmental impact of products and services (City of Gothenburg, n.d.). In addition, the city has established a circular economy innovation hub, which supports businesses and organizations developing circular solutions. 
+Another example of the role of local governments in promoting the circular economy is the city of Aarhus's "Aarhus, the Sustainable City" initiative, which aims to make Aarhus a "fully sustainable city" by 2030 (City of Aarhus, n.d.). As part of this initiative, the city has implemented a number of measures to promote the circular economy, including the development of circular procurement guidelines for public authorities, the establishment of a circular economy innovation hub, and the implementation of a "repair cafe" program, which provides support for the repair of broken or damaged items (City of Aarhus, n.d.). The success of these initiatives demonstrates the potential for local governments to play a leading role in the transition to a circular economy. 
+Denmark is a leader in the transition to a circular economy, with a range of initiatives at the national and local level to promote the circular economy and support the achievement of the SDGs. The Danish Ministry of the Environment's "Circular Denmark" initiative, launched in 2016, aims to transform Denmark into a fully circular economy by 2050 (Danish Ministry of the Environment, n.d.). As part of this initiative, the ministry has developed a range of measures to promote the circular economy, including the establishment of a circular economy secretariat to support the implementation of circular economy policies, the development of circular procurement guidelines for public authorities, and the implementation of a "circular public sector" program, which aims to stimulate the demand for circular products and services in the public sector (Danish Ministry of the Environment, n.d.). 
+
+Fig. 3. The circular economy model (Source: European Parliament research Service)
+
+Many tools and resources are available to help local governments implement circular economy strategies. The European Union's Resource Efficiency Support Centers provide support and guidance to local and regional authorities in developing and implementing circular economy strategies (European Commission, n.d.). The Ellen MacArthur Foundation's Circularity Index is a tool that measures the circularity of economies at the regional and national levels and provides recommendations for improving circularity (Ellen MacArthur Foundation, n.d.). In addition, the World Business Council for Sustainable Development's Circularity Index for Cities is a tool that helps cities assess their circularity and identify opportunities for improvement (World Business Council for Sustainable Development, n.d.). 
+It is to underline the need of assessing the ethical implications of resource use and waste and examining the values and principles that should guide the transition to a circular economy. This could include the principles of climate justice, which recognize the disproportionate impact of climate change on marginalized and disadvantaged communities, and call for a just and equitable transition to a low-carbon economy (United Nations Framework Convention on Climate Change, 2018).
+3. BENEFITS OF SWITCHING TO A CIRCULAR ECONOMY
+To protect the environment
+Reusing and recycling products would slow down the use of natural resources, reduce landscape and habitat disruption and help to limit biodiversity loss.
+Another benefit from the circular economy is a reduction in total annual greenhouse gas emissions. According to the European Environment Agency, industrial processes and product use are responsible for 9.10% of greenhouse gas emissions in the EU, while the management of waste accounts for 3.32%.
+Creating more efficient and sustainable products from the start would help to reduce energy and resource consumption, as it is estimated that more than 80% of a product's environmental impact is determined during the design phase.
+A shift to more reliable products that can be reused, upgraded and repaired would reduce the amount of waste. Packaging is a growing issue and, on average, the average European generates nearly 180 kilos of packaging waste per year. The aim is to tackle excessive packaging and improve its design to promote reuse and recycling.
+Reduce raw material dependence
+The world's population is growing and with it the demand for raw materials. However, the supply of crucial raw materials is limited.
+Finite supplies also mean some EU countries are dependent on other countries for their raw materials. According to Eurostat, the EU imports about half of the raw materials it consumes.
+The total value of trade (import plus exports) of raw materials between the EU and the rest of the world has almost tripled since 2002, with exports growing faster than imports. Regardless, the EU still imports more than it exports. In 2021, this resulted in a trade deficit of ?35.5 billion.
+Recycling raw materials mitigates the risks associated with supply, such as price volatility, availability and import dependency.
+This especially applies to critical raw materials, needed for the production of technologies that are crucial for achieving climate goals, such as batteries and electric engines.
+Create jobs and save consumers money
+Moving towards a more circular economy could increase competitiveness, stimulate innovation, boost economic growth and create jobs (700,000 jobs in the EU alone by 2030). 
+Redesigning materials and products for circular use would also boost innovation across different sectors of the economy.
+Consumers will be provided with more durable and innovative products that will increase the quality of life and save them money in the long term.
+4. CIRCULAR ECONOMY ACTION PLAN OF THE EUROPEAN GREEN DEAL (2020)
+a) Context
+Yet by 2050, the world will be consuming as if there were three planets Earth. Global consumption of materials such as biomass, fossil fuels, metals and minerals are expected to double in the next forty years, while annual waste generation is projected to increase by 70% by 2050.
+So, it is more than necessary a regenerative growth model that gives back to the planet more than it takes, advance towards keeping its resource consumption within planetary boundaries, and therefore strive to reduce its consumption footprint and double its circular material use rate in the coming decade.
+Circular Economy Action Plan is a product policy framework that will make sustainable products, services and business models the norm and transform consumption patterns so that no waste is produced in the first place. This sustainable product policy framework has as central objectives to reduce waste and ensure that the EU has a well-functioning internal market for high quality secondary raw materials. The capacity of the EU to take responsibility for its waste will be also strengthened.
+
+b). Main needed actions:
+I. Designing sustainable products
+In order to make products fit for a climate-neutral, resource-efficient and circular economy, reduce waste and ensure that the performance of front-runners in sustainability progressively becomes the norm, the Commission will propose a sustainable product policy legislative initiative.
+The core of this legislative initiative will be to widen the Eco design Directive beyond energy-related products so as to make the Eco design framework applicable to the broadest possible range of products and make it deliver on circularity.
+As part of this legislative initiative, and, where appropriate, through complementary legislative proposals, the Commission will consider establishing sustainability principles and other appropriate ways to regulate the following aspects:
+* improving product durability, reusability, upgradability and reparability,
+*addressing the presence of hazardous chemicals in products, and increasing their energy and resource efficiency;
+* increasing recycled content in products, while ensuring their performance and safety;
+* enabling remanufacturing and high-quality recycling;
+* reducing carbon and environmental footprints;
+* restricting single-use and countering premature obsolescence;
+* introducing a ban on the destruction of unsold durable goods;
+* incentivizing product-as-a-service or other models where producers keep the ownership of the product or the responsibility for its performance throughout its lifecycle;
+* mobilizing the potential of digitalization of product information, including solutions such as digital passports, tagging and watermarks;
+* rewarding products based on their different sustainability performance, including by linking high performance levels to incentives.
+Priority will be given to addressing product groups identified in the context of the value chains featuring in this Action Plan, such as electronics, ICT and textiles but also furniture and high impact intermediary products such as steel, cement and chemicals. Further product groups will be identified based on their environmental impact and circularity potential.
+The Commission will also increase the effectiveness of the current Eco design framework for energy-related products.
+The review of the Eco design Directive as well as further work on specific product groups, under the Eco design framework or in the context of other instruments, will build, where appropriate, on criteria and rules established under the EU Ecolabel Regulation, the Product Environmental Footprint approach and the EU GPP criteria. 
+Furthermore, to support the effective and efficient application of the new sustainable product framework, the Commission will:
+* establish a common European Dataspace for Smart Circular Applications with data on value chains and product information.
+II. Empowering consumers and public buyers
+The Commission will propose a revision of EU consumer law to ensure that consumers receive trustworthy and relevant information on products at the point of sale, including on their lifespan and on the availability of repair services, spare parts and repair manuals.
+III. Circularity in production processes
+The Commission will enable greater circularity in industry by:
+* assessing options for further promoting circularity in industrial processes in the context of the review of the Industrial Emissions Directive, including the integration of circular economy practices in upcoming Best Available Techniques.
+* facilitating industrial symbiosis by developing an industry-led reporting and certification system, and enabling the implementation of industrial symbiosis;
+* supporting the sustainable and circular bio-based sector through the implementation of the Bioeconomy Action Plan;
+* promoting the use of digital technologies for tracking, tracing and mapping of resources;
+* promoting the uptake of green technologies through a system of solid verification by registering the EU Environmental Technology Verification scheme as an EU certification mark.
+
+c). Key products value chains
+I. Electronics and ICT 
+II. Batteries and vehicles
+III. Packaging
+*reducing (over)packaging and packaging waste, including by setting targets and other waste prevention measures;
+* driving design for re-use and recyclability of packaging,
+IV. Plastics
+* The EU Strategy for Plastics in the Circular Economy with measures to reduce plastic litter sourcing, labelling and use of bio-based plastics, based on assessing where the use of bio-based feedstock results in genuine environmental benefits, going beyond reduction in using fossil resources;
+* use of biodegradable or compostable plastics.
+V. Textiles: boosting the sorting, re-use and recycling of textiles, including through innovation.
+VI. Construction and buildings 
+It is proposed the Construction Product Regulation, including the possible introduction of recycled content requirements for certain construction products, taking into account their safety and functionality.
+VII. Food, water and nutrients boosting the sustainability of renewable bio-based materials, including through actions following the Bioeconomy Strategy and Action Plan.
+There are proposals for a new Water Reuse Regulation and directives on wastewater treatment and sewage sludge.
+
+d) Other topics
+1.Enhancing circularity in a toxic-free environment by developing methodologies to minimize the presence of substances that pose problems to health or the environment in recycled materials and articles made thereof;
+2. Creating a well-functioning EU market for secondary raw materials
+3. The proposed European Urban Initiative, the Intelligent Cities Challenge Initiative, and the Circular Cities and Regions Initiative will provide key assistance to cities. Circular economy will be among the priority areas of the Green City Accord.
+4. Driving the transition through research, innovation and digitalization
+
+
+Fig. 4. The international dimension of the EU? Circular Economy Action Plan (Source: SPBL Netherlands)
+5. CIRCULAR BUSINESS MODELS (BM)
+Business model innovation is ?the conceptualization and implementation of new business models that can comprise the development of entirely new business models, the diversification into additional business models, the acquisition of new business models, or the transformation from one business model to another?. The transformation can affect the entire BM or individual or a combination of its value proposition, value creation and deliver, and value capture elements, the interrelations between the elements, and the value network.? (M. Geissdoerfer et al., 2020. Circular business models: A review. Journal of Cleaner Production, article 123741)
+
+
+
+Fig. 5. Circular business model strategies (M. Geissdoerfer et al., 2020. Circular business models: A review. Journal of Cleaner Production, article 123741)
+The four different types of circular business model innovation identified:
+1) Circular business model transformation describes the modification of an existing business model. While the initial business model can be either both conventional or circular the resulting business model incorporates circular economy strategies.
+2) Circular start-ups refer to the creation of new business models that incorporate circular economy strategies (i.e. cycling, extending, intensifying, and/or dematerializing resource loops) outside of an existing company - with their own brand, employees and resources - although they can be supported by non-independent institutions, such as incubators or accelerators.
+3) Circular business model diversification describes the development of new business models that incorporate circular economy strategies from within an existing organization by using their resources and network. The current business model of the parent organization stays in place and the new business models are either integrated into the organization as new businesses or spun-off as subsidiaries. This also includes joint business model innovation projects with other organizations.
+4) Circular business model acquisition describes merger and acquisition (M&A) activities that target business models that incorporate circular economy strategies. It comprises the identification, acquisition, and integration of new circular business models. The extent of integration can vary.
+Organizations can also combine different strategies, for example, support start-ups with an incubator program and acquire successful participates for their business model portfolio, while also diversifying their portfolio with the outputs of an internal business building unit. They could also divest from their core business towards this new portfolio or leverage acquisitions to introduce circular economy capabilities to transform their core business model.
+
+
+
+
+Fig. 6. Four types of circular business model innovation, (M. Geissdoerfer et al., 2020. Circular business models: A review. Journal of Cleaner Production, article 123741)
+
+Of these strategies, the ?transformation? might have the highest potential impact, especially, if it replaces an existing linear model with a circular one.
+Strategic alliances could also be of interest, because of the important role of ecosystem partnerships. Alliances can be an enabler for the different strategies, for example in the context of circular business model transformation, beverage companies in Denmark have teamed up with municipalities to create a coordination entity to manage the return systems for packaging recycling.
+
+
+
+6. CIRCULAR ECONOMY IMPLEMENTATION IN THE EU
+
+
+
+Fig. 7. Circular economy initiatives in the European Union (P. Mhatre et al., Sustainable Production and Consumption 26 (2021) 187?202)
+
+Main conclusions: The analysis points to the fact that recycling is the most commonly used CE strategy. Additionally, technical nutrients are looped more as compared to biological ones. Most of the CE initiatives have been implemented at a macro level, i.e. in cities or regions or nation-wide. The penetration of CE has been varied in various industries. While waste-management, electrical and electronic equipment and construction industries are rapidly adopting the CE principles, industries like mining and quarrying, health equipment and entertainment and recreation have had a slow approach towards CE.
+
+II. CIRCULAR BIOECONOMY
+
+1. BIO-BASED ECONOMY / BIOECONOMY
+The bioeconomy means using renewable biological resources from land and sea, like crops, forests, fish, animals and micro-organisms to produce food, materials and energy. (EU Commission definition). Stronger development of the bioeconomy will help the EU accelerate progress towards a circular and low-carbon economy. It will help modernize and strengthen the EU industrial base, creating new value chains and greener, more cost-effective industrial processes, while protecting biodiversity and the environment.
+Biobased economy, bioeconomy or biotechonomy is an economic activity involving the use of biotechnology and biomass in the production of goods, services, or energy. The terms are widely used by regional development agencies, national and international organizations, and biotechnology companies. They are closely linked to the evolution of the biotechnology industry and the capacity to study, understand, and manipulate genetic material that has been possible due to scientific research and technological development. This includes the application of scientific and technological developments to agriculture, health, chemical, and energy industries.
+The terms bioeconomy (BE) and bio-based economy (BBE) are sometimes used interchangeably. However, it is worth to distinguish them: the biobased economy takes into consideration the production of non-food goods, whilst bioeconomy covers both bio-based economy and the production and use of food and feed.
+According to European Union Bioeconomy Strategy updated in 2018 the bioeconomy covers all sectors and systems that rely on biological resources (animals, plants, micro-organisms and derived biomass, including organic waste), their functions and principles. It covers all primary production and economic and industrial sectors that base on use, production or processing biological resources from agriculture, forestry, fisheries and aquaculture. The product of bioeconomy are typically food, feed and other biobased products, bioenergy and services based on biological resources. The bioeconomy aims to drive towards sustainability, circularity as well as the protection of the environment and will enhance biodiversity. 
+In some definitions, bioeconomy comprises also ecosystem services that are services offered by the environment, including binding carbon dioxide and opportunities for recreation. Another key aspect of the bioeconomy is not wasting natural resources but using and recycling them efficiently. 
+According to EU Bioeconomy Report 2016, the bioeconomy brings together various sectors of the economy that produce, process and reuse renewable biological resources (agriculture, forestry, fisheries, food, bio-based chemicals and materials and bioenergy).
+One opportunity was making economic use of the emerging new potential of using biotechnologies, as indicated above. Another opportunity inherent in the concept of the bioeconomy is the replacement of fossil-based resources by bio-based resources, both for energy and for material use. In developing the concept of the bioeconomy in the EU, the label ?knowledge-based? was added so that it became the ?knowledge-based bioeconomy?. The label ?knowledge-based? was in line with the EU innovation policy that prevailed at the time.
+The concept of the knowledge-based economy reflects the vision of achieving economic growth through high-technology industries, which requires investments in innovation and highly skilled labor.
+The development of the concept of the bioeconomy was characterized by two perspectives: (1) the resource substitution perspective and (2) the biotechnology innovation perspective.
+
+Uses and applications 
+The use and commercialization of products in modern bioeconomy often fall into four main fields: environment, medicine, industry and agriculture. Main products categories are:
+1. Therapeutics 
+2. Biologics and vaccines 
+3. In vitro diagnostics and personalized medicine 
+4. Medical devices 
+5. Combination device/therapeutics 
+6. Digital health IT applications 
+7. Research instruments and tools 
+8. Bio-crops
+9. Bio-fuels 
+10. Industrial biotechnology 
+
+
+
+
+
+Fig. 8. Bioeconomy products (BIOPRO Baden-Wurttemberg, Germany) https://www.biooekonomie-bw.de/en/bw/definition/bioeconomy-products)
+
+
+Fig. 9. Types of biotechnology generating bioeconomy applications (https://www.techtarget.com/whatis/definition/biotechnology)
+
+
+Types of applications function of domain of interest:
+Environment
+The aim of environmental biotechnology is to develop sustainable environmental practices that reduce pollution and waste. The following are examples of environmental biotech:
+* Phytoremediation uses genetically engineered microorganisms to purify soils of heavy metals and other pollutants.
+* Bioremediation introduces microorganisms into waste sites in order to organically break down nonrecyclable waste.
+* Plastic-eating bacteria breaks down waste such as plastic in soils and water.
+* GMO foods stay fresher longer and reduce food waste.
+* Genetic restoration attempts to restore endangered species.
+* Cover-crops such as corn are used as biofuels, replacing traditional fuel sources that produce greenhouse gas emissions when extracted and used.
+Most genetic engineering is performed in laboratories. 
+Medicine
+Medical biotechnology, also known as biopharma, aims to fight and prevent disease and improve healthcare. Biotechnology and biomedical research are the basis of the modern pharmaceutical industry. Uses include the followings
+* stem cell research that helps replace or repair dead or defective cells;
+* antibiotics development;
+* gene therapies for diseases such as leukemia;
+* research into dangerous pathogens and the antibodies that fight them;
+* 3D printing or growing of organs and bones in labs; and
+* mRNA vaccines, monoclonal antibody treatments and research for COVID-19.
+Industry
+Industrial biotechnology involves using microorganisms to produce industrial goods. Examples include the followings:
+* Production of industrial enzymes;
+* Industrial biotechnology processes are being employed to create bio plastics;
+* Fermentation and the use of enzymes and microbes to streamline chemical manufacturing and reduce operational costs and chemical emissions;
+* Biofuels that use renewable crops such as corn to produce combustible fuel instead of natural, nonrenewable fossil fuel resources, such as petroleum and oil; and
+* Biodegradable garments and textiles made from the proteins of living organisms, such as the silk proteins of spiders.
+Agriculture
+Bio agricultural products can be divided into three major sectors: seeds, agro bio products instead of agro chemicals, and bio fertilizers.
+Agricultural biotechnology can produce genetically engineered plants and animals to realize a more efficient agriculture, increase nutritional value and reduce food insecurity. Some examples of agricultural biotechnology are the followings:
+* Animal cells and plant cells cultivation technologies;
+* Modern food biotechnology based on genetically modified organisms
+* Biologically produced pesticides and herbicides that are less harmful to humans than chemical ones;
+* Drought-resistant crops;
+* Minimal space-resilient crops;
+* Meat grown in labs or using 3D printers;
+* Gluten-free grains friendly to sufferers of celiac;
+* Selective breeding that produces healthier, bigger livestock and crops; and
+* Nutrient supplementation that infuses food with added nutrients to improve diets and medical treatments.
+
+2. CIRCULAR BIOECONOMY
+Biomass is projected to play a key role in meeting global climate targets. To achieve a resource-efficient biomass use, European bioeconomy strategies increasingly consider the concept of a circular bioeconomy (CBE).
+The updated bioeconomy strategy of the European Commission (2018a) announces that the ?European Bioeconomy needs to have sustainability and circularity at its heart?. Many key strategies towards a more resource-efficient and circular bioeconomy, e.g. integrated biorefineries and cascading use of biomass depend on a close cooperation of local actors from agriculture, industry, research and regional public institutions, e.g. within bioeconomy clusters.
+The Ellen MacArthur Foundation (2013) implied that the bioeconomy is an integral part of the CE by including the biological cycle into their CE illustration. Similarly, Temmes and Peck (2019) see the CBE as a CE where ?non-renewable inputs to industrial systems are replaced by renewable biological resources?. The European Commission (2017) defined the CBE as the application of the CE concept to biological resources, products and materials.
+
+
+Fig. 10. The Circular bioeconomy (CBE) in relation with Bioeconomy (BE)and Circular Economy (CE)
+
+The circular bioeconomy focuses on the sustainable, resource-efficient valorization of biomass in integrated, multi-output production chains (e.g. biorefineries) while also making use of residues and wastes and optimizing the value of biomass over time via cascading. Such an optimization can focus on economic, environmental or social aspects and ideally considers all three pillars of sustainability. The cascading steps aim at retaining the resource quality by adhering to the bio-based value pyramid and the waste hierarchy where possible and adequate (Paul Stegmann et al., Resources, Conservation and Recycling, X6, 2020, 100029) 
+
+Fig. 11. The Circular Bioeconomy and its elements (Paul Stegmann et al., Resources, Conservation and Recycling, X6, 2020, 100029) 
+
+
+Fig. 12. Bio-base value pyramid ((aul Stegmann et al., Resources, Conservation and Recycling, X6, 2020, 100029) 
+
+In a CBE, more biomass would ideally first be delegated to a material use before ? after one or potentially multiple cascading steps ? it would be delegated to a final energetic use or composting. In theory, this cascading would follow a movement down the bio-based value pyramid and the waste hierarchy, moving from high value to lower value biomass applications. Moving from the upper part of the bio-based value pyramid and the waste hierarchy to the lower part theoretically goes along with decreasing options for further uses and cascading opportunities, due to the lowering of the resource quality. Staying on the upper part of both hierarchies would therefore theoretically be desirable in a CBE. However, in practice, applications on the lower part might still be preferable from an environmental and economic perspective.
+Practitioners in bioeconomy clusters can support the development towards a CBE by (1) facilitating cooperation between stakeholders along and across supply chains; (2) fostering bio-based product design that facilitates durability, reuse, repair, recycling or biodegradability; (3) fostering the use of residues and wastes as resource; (4) intensifying the cooperation with the waste management sector to ensure that the bio-based products can be integrated in collection, separation, recycling and composting schemes.
+In the intersection area that defines the CBE concept, three complementary views can be found as key interfaces between CBE and CE. First, the utilization of biomass as a resource. Since this includes ?by-products?, ?residues? and ?waste?, using it keeps material in the economy for longer, closes material loops, and increases resources productivity. Second, the cascading use of biomass, i.e. the sequential recycling of a material into another type of product after its use. Here, the main target of both cascading use and CE is an increased resource efficiency and lower demand for raw materials, with both being frequently linked to value addition and job creation. (A.S. Brandao et al., Journal of Cleaner Production 295 ,2021, 126407). The pulp and paper or textile industries are good examples of how cascading has been used for decades, long before the term itself became mainstream. Third, the strive to create a more sustainable and resource efficient society. In this regard, both CE and CBE minimize the use of fossil fuels. The CE concept strengthens the resource efficiency of processes and the use of recycled materials to reduce the demand for fossil carbon, while CBE substitutes fossil carbon by renewable carbon from biomass (Carus and Dammer, 2018). Thus, CBE emerges as the result of the pursuit of a more sustainable and resource efficient world, providing various societal, economic and environmental benefits.
+Recycling and other circular waste management practices are a key part of the CBE paradigm, as exemplified by the sustainable, resource-efficient valorization of biomass in integrated production chains (e.g. biorefineries) while making use of residues and wastes. For instance, the product sectors related to plastics and building materials have significant recycling and cascading potential. However, established waste management practices do not necessarily result in the most economical or environmentally friendly solution. In fact, key challenges for implementing circular strategies include costs (besides e.g. policies and regulations, and the current small size of bio-based markets). In this context, Stegmann et al. (2020) suggest the optimization of the value of biomass over time as a key characteristic of the CBE. Such an optimization can focus on economic (e.g. for profit), environmental (e.g. for GHG emissions) and/or social aspects (e.g. for job).
+The circular bioeconomy has great potential to catalyze an inclusive European economic, political and societal project that is urgently needed.
+The shift to a circular biobased economic paradigm should be a long-term strategy for decoupling economic growth from environmental degradation.
+Recommendations for European circular bioeconomy development (Hetemaki L. et al., Leading the way to a European circular bioeconomy strategy. From Science to Policy 5. European Forest Institute, 2017):
+Circular bioeconomy strategies should not take sustainability as a given, but address it explicitly.
+a. There can be synergies between economic growth and improvement in the state of natural capital. The pace of growth is not the problem, but rather the quality of growth. It requires the advancement of truly sustainable economic growth, and not the type of unsustainable growth often seen in the past. One essential requirement is that renewable resources are not used to the extent that they can no longer reproduce themselves, i.e. they become non-renewable. 
+b. Natural capital is a necessary production input along with the traditional ones,
+c. Research, development and innovation (R&D&I) needs to increase to strengthen the foundations of a circular bioeconomy.
+A circular bioeconomy can help to support biodiversity and climate mitigation; biodiversity and climate mitigation are necessary for a successful circular bioeconomy.
+
+
+
+Fig. 13. Societal, economic, and environmental benefits of CBE approach (source: adapted from BIOWAYS?s public consultation on the bioeconomy, available at http://www.bioways.eu/).
+
+3. REFINING SOLID WASTE TO PRODUCTS AND ENERGY
+The core specific technological operations characteristic to circular bioeconomy are:  waste use, cascading principle of biomass use, biorefining.
+Biorefining concept. 
+Biorefining, the sustainable processing of biomass into a spectrum of marketable biobased products and bioenergy/biofuels, is an innovative and efficient approach to use available biomass resources for the synergistic coproduction of power, heat and biofuels alongside food and feed ingredients, pharmaceuticals, chemicals, materials, minerals and short-cyclic CO2. A biorefinery is an overall concept of a processing plant where biomass feedstocks are converted and extracted into a spectrum of valuable products. (https://knowledge4policy.ec.europa.eu/glossary-item/biorefinery_en)
+Biorefining is one of the keys enabling strategies of the Circular Economy, closing loops of raw biomass materials (re-use of forestry, agro, process and postconsumer residues), minerals, water and carbon. Therefore, biorefining is the optimal strategy for large-scale sustainable use of biomass in the Bio Economy. It will result in cost-competitive co-production of food/feed ingredients, biobased products and bioenergy combined with optimal socio-economic and environmental impacts (efficient use of resources, reduced GHG emissions, etc.).
+
+
+Fig.14. Cascading principle of biomass use is illustrated for wood biomass, conforming to EU Commission vision (https://saf.org.ua/en/news/1399/)
+
+
+Fig. 15. Biorefinery concept illustration (https://www.ctc-n.org/technologies/biorefinery)
+
+Examples of integrated biorefineries of biomass waste:
+
+
+Fig. 16. Biorefinery potential for various products and energy sources (R. A. Quevedo-Amador et al., Application of waste biomass for the production of biofuels and catalysts: a review, Clean Technologies and Environmental Policy, 2024)
+
+
+Fig. 17. Borregaard biorefinery for lignocellulosic biomass waste in operation in Norway, Borregaard operating one of the world's most advanced and sustainable biorefineries. (BALI TM process) (https://www.borregaard.com/)
+The bioprocessing of lignocellulosic biomass to produce bio-based products under biorefinery setup is gaining global attention. The economic viability of this biorefinery would be inclined by the efficient bioconversion of all three major constituents of lignocellulosic biomass i.e. cellulose, hemicellulose, and lignin for value-added biochemicals and biofuels production. Although the lignocellulosic biorefinery setup has a clear value proposition, the commercial success at the industrial scale is still inadequate. This can be attributed mainly to irregular biomass supply chain, market uncertainties, and scale-up challenges. Global research efforts are underway by public and private sectors to get deeper market penetration. A comprehensive account of important factors, limitations, and propositions are worth consideration for the commercial success of lignocellulosic biorefineries.
+URBIOFIN is an innovation project funded by the Bio Based Industries Joint Undertaking (BBI JU) under the EU Horizon 2020 program and coordinated by ?PERSEO BIOTECHNOLOGY S.L. (PERSEO)?. The aim of the URBIOFIN project is to demonstrate techno-economic and environmental viability of an integrated and innovative biorefinery for the transformation of the organic fraction of municipal solid waste (MSW) into new marketable bioproducts, chemical building blocks, biopolymers and additives.
+Project title: Demonstration of an integrated innovative biorefinery for the transformation of Municipal Solid Waste (MSW) into new Bio Based products (URBIOFIN)
+Acronym: URBIOFIN
+Type: Innovation Action ? ?Demonstration Action?
+Partners involved: The URBIOFIN Consortium is composed of 15 recognized key actors on the topics of Waste management, Bioprocessing technologies (industrial processes relying on biological agents to drive the process), Bioproducts (products that are manufactured using biological material as feedstock) and Biomaterials, Biofuels, Municipal Solid Waste, industrial processes and integration.
+* Industry: URBASER S.A., BIOMASA PENINSULAR S.A., Novozymes A/S, NATUREPLAST SAS, NATRUE AISBL, IRIS Technology Solutions S.L., Leygatech SAS, ETAM SA
+* Research Organisations: ainia, Wageningen University & Bioresearch, Centro de Investigaciones Energ?ticas Medioambientales y Tecnol?gicas, IRIAF (CLAMBER Biorefinery), Consejo Superior de Investigaciones Cient?ficas
+* Universities: University of Valladolid
+Today, in Europe, each inhabitant generates in average 0.5 tons of municipal solid waste (MSW) per year. Around 40-50% of it corresponds to organic waste. This organic fraction mainly contains carbohydrates, proteins and lipids, which are all useful raw materials that can be converted to valuable products. Its valorization will help to solve environmental pollution, but also contribute to the transition from a linear to a renewable circular economy. Digestion and composting have contributed to the reduction of the biodegradable fraction of MSW sent to landfill. However, the low economical value of compost and biogas is limiting the sustainable implementation of separate sourcing systems. New bio-based products obtained from waste treatment can contribute to the environmental and socio-economical sustainability. Therefore, the aim of URBIOFIN project is to demonstrate the techno-economic and environmental feasibility of the conversion at semi-industrial scale (10 T/day) of the organic fraction of MSW into: Chemical building blocks (bioethanol, volatile fatty acids, biogas), biopolymers (polyhydroyalkanoate and biocomposites) or additives (bioethylene, microalgae hydrolisated for biofertilisers). By using the biorefinery concept applied to MSW, URBIOFIN will exploit the organic fractions of MSW as feedstock to produce different valuable marketable products for different markets like agriculture and cosmetics.
+
+
+
+Fig. 18. Operating flow in case of URBIOFIN demonstration plant (https://www.urbiofin.eu)
+
+
+Circular bioeconomy, much similar to the circular economy, aims at ?closing the loop? to prevent expansive and unfettered extraction of biological resources and define goals such as sustainability and environmental protection. The ?zero-waste? policy of circular bioeconomy has fueled the development of waste biorefineries, microalgal biorefineries, and lignocellulosic biorefineries. Environmental protection by sustaining the regional ecological balance and watchful emission controls is deemed vital. Global inclusiveness in the development of an organization to oversee knowledge sharing, development of global testing standards, assessment of the demand and supply of bio-based products, and supporting research and development in biotechnology for commercialization will help realize the successful transition to circular bioeconomy.
+
+
+
+

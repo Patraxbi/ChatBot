@@ -1,0 +1,177 @@
+
+
+MODULE I. CLIMATE CHANGE
+
+EU target: In 2021, the EU proposed climate neutrality, the goal of zero net emissions by 2050, legally binding to the EU whole package of economic policies. It set an interim target of 55% emission reduction by 2030. This goal of zero net emissions is enshrined in the climate law. The European Green deal (EGD) is the roadmap for the EU to become climate-neutral by 2050.
+1. CLIMATE NEUTRALITY VERSUS CARBON NEUTRALITY
+Climate neutrality means to only emit as much greenhouse gas into the atmosphere as can be absorbed by nature, that is forests, oceans and soil. To reach such a net-zero emissions balance by 2050, EU countries will have to drastically reduce their greenhouse gas emissions and find ways of compensating for the remaining and unavoidable emissions.
+Carbon Neutrality and Climate Neutrality are often used interchangeably, but they are not the same thing. So, a company can be considered carbon neutral when the amount of CO? emissions emitted into the atmosphere is the same amount of CO? that can be absorbed naturally by forests and plants (which function as carbon sinks thanks to photosynthesis) or that is compensated by other actions. In other words:
+Gross CO? Emissions Produced ? CO? Emissions Absorbed and/or Offset = 0
+Although it is a simple equation, getting to zero is a bit more complicated. First of all, one need to calculate what your Carbon Footprint is (it will be explained in a dedicated seminar). 
+Once you know what your Carbon Footprint is, one should reduce as much as possible the emissions produced as a result of economic activity, and on the other hand, compensate for those that one has not been able to eliminate.
+To reduce carbon emissions, the key is to change habits and invest in cleaner, more efficient technologies that consume less energy and produce fewer CO?. But, to be honest, depending on the economic activity characteristics, one will not always be able to reduce the carbon emissions to the point where they are 100% absorbed by nature, or at least not immediately. So those CO? emissions one has not been able to eliminate, it is to compensate for them in other ways, so that the equation results in zero.
+
+Fig. 1. Application: Zero waste biochar as a carbon-neutral tool for sustainable development
+To compensate for carbon emissions NOT absorbed one can choose between different actions, such as:
+* Carbon capture and storage,
+* Investing in synthetic fuel research,
+* Supporting projects to restore or preserving carbon sinks, such as investing in forest restoration, wetlands, coastline, etc,
+* Or purchasing carbon credits. 
+Climate Neutrality refers to the mitigation of all greenhouse gases (GHG), not just carbon dioxide.
+In other words, a company will achieve climate neutrality when the amount of greenhouse gas (GHG) emissions it emits into the atmosphere is the same as the amount of greenhouse gases (GHG) that can be naturally absorbed by natural sinks (forests, seas, etc.), or that are offset by other actions.
+In this case, the equation would be as follows:
+(Any) Gross GHG Emissions Produced ? (Any) GHG Emissions Absorbed and/or Offset = 0
+It is true that carbon neutrality is a big step, as carbon dioxide accounts for about 80% of the planet?s greenhouse gases. But there are still 20% of other gases that need to be in balance in order not to affect global warming. We are referring to:
+* Water Vapor (H?O)
+* Nitrous oxide (N2O)
+* Methane (CH4)
+* Ozone (O3)
+* Some Halocarbons (such as CFCs, HCFCs, HFCs and PFCs)
+In many cases, being carbon neutral will limit the contribution to climate change. However, any company? actions should not only focus on mitigating the CO? emissions, but also on controlling and improving emissions of these other gases.?
+In some sectors, for example, they do not need to be carbon neutral to limit their contribution to global warming, as they release major amounts of GHGs (see the list above). One of the well-known examples is the livestock sector, whose contribution to global warming is through methane emissions produced by animals. 
+2. EU POLITICS FOR CLIMATE NEUTRALITY
+The European Council underlined that the transition to climate neutrality brings significant opportunities for:
+* economic growth
+* markets and jobs
+* technological development
+For the latest option, there is a market regulated by the European Union. It is like a kind of stock exchange, where the price per ton of carbon has been set, and where one can buy or sell the needed tons of CO? to meet the legal and carbon neutrality targets.
+The EC also recognized the need to ensure that the green transition is cost-effective, as well as socially balanced and fair. Leaders called on the European Commission to put forward proposals, so that countries can reach the 2030 goal, including by:
+* improving green finance standards
+* strengthening the EU's emissions trading system
+* spurring climate-friendly innovation
+* ensuring fairness and cost-effectiveness
+In July 2021, the European climate law ? a key element of the European Green Deal ? entered into force, one month after the Council had adopted it. EU countries are now legally obliged to reach both the 2030 and 2050 climate goals.
+
+Fig. 2. The climate law sets the framework for action to be taken by the EU and the member states to progressively reduce emissions and ultimately reach climate neutrality in the EU by 2050.
+Also in June 2021, the Council approved conclusions endorsing the new EU strategy on adaptation to climate change presented by the European Commission. The strategy outlines a long-term vision for the EU to become by 2050 a climate-resilient society that is fully adapted to the unavoidable impacts of climate change.
+Another key part of the EU's work towards climate neutrality is the 'Fit for 55' package. A set of proposals for revision of existing legislation and new initiatives, it is the EU's key plan for turning climate goals in accordance to EU law.
+Fig. 3. 'Fit for 55' package actions
+The package includes rules on:
+* energy
+* transport
+* emissions trading and reductions
+* land use and forestry
+Shifting to a greener way of life is crucial to address the climate emergency and reduce dependency on fossil fuels, especially those from Russia. The EU and its 27 countries are working on new common rules under the Fit for 55 package to reduce the EU?s carbon footprint.
+While emissions are rising in some sectors, such as international aviation and transport, other sectors have reduced their emissions enormously since 1990, with energy industries leading the way with a decrease of 47%. By 2020, the EU had already achieved a 30% reduction compared to 1990 levels.
+Financing the EU's climate transition
+The shift towards a climate-friendly economy will require major public and private investment.
+EU countries have committed to spending 30% of the EU's long-term budget for 2021-2027 and the 'Next Generation EU' recovery instrument on climate-related projects.
+To ensure that the climate transition is fair, the EU has introduced a just transition mechanism to provide financial and technical support to the regions most affected by the move towards a low-carbon economy. Up to ?90 billion is to be mobilized to this end.
+30% of all EU expenditure until 2027 will go to climate-related projects.
+
+Shaping global action
+The EU's efforts in fighting climate change are in line with the commitments made by the EU and the member states in the Paris Agreement, signed in 2015. EU countries support a high level of ambition in implementing this international agreement and encourage global partners, both in international forums and in bilateral relations, to accelerate action to limit global warming.
+The EU, together with its member states, is the biggest provider of climate finance in the world. The funds it provides support climate-related action in developing countries, to facilitate their green transition and tackle the adverse effects of climate change.
+A. 2030 climate & energy framework? objectives
+The 2030 climate and energy framework include EU-wide targets and policy objectives for the period from 2021 to 2030.
+The 2030 Framework maintains the target structure of the EU?s 2020 Package, which aims to cut greenhouse gas emissions by 20 percent, increase the share of renewable energy in the EU?s final energy consumption to 20 percent and improve energy efficiency by 20 percent. Along the same lines, the 2030 Framework includes an at least 32 percent target for renewable energy and a target to enhance energy efficiency by at least 32.5 percent.
+Greenhouse gas emissions - raising the ambition
+In July 2021, the European Commission adopted a set of proposals to make the EU's climate, energy, transport and taxation policies fit for reducing net greenhouse gas emissions by at least 55% by 2030, compared to 1990 levels.
+This will enable the EU to become the first climate-neutral continent by 2050.
+The proposals refer to:
+1. Energy efficiency
+Reducing energy consumption and achieving energy savings is essential to deliver the European Green Deal.
+2. Renewable energy
+Energy from renewable sources reduces greenhouse gas emissions and lowers our dependence on imported fossil fuels.
+3. Markets and consumers
+The EU's integrated internal energy market helps to keep energy affordable and guarantee secure supplies.
+4. Energy strategy
+The EU's strategy for secure, competitive, and sustainable energy.
+5. Oil, gas and coal
+Ensuring the efficient and responsible use of fossil fuels.
+6. Infrastructure
+A modern energy infrastructure, connecting markets and regions, is crucial to meet EU?s energy and climate goals.
+7. Energy security
+The EU works to ensure that energy supplies from abroad are secure and affordable.
+8. Research and technology
+Innovation in low-carbon and clean energy technologies are essential to fulfil the EU?s energy union strategy.
+9. Funding and financing
+EU programs, calls for tenders and private-public initiatives to finance energy projects.
+10. International cooperation
+EU energy cooperation with countries around the world and international institutions.
+11. Nuclear energy
+The EU aims to ensure safe and secure use of civil nuclear energy, which generates almost 30% of its electricity.
+12. Energy system integration
+Our energy systems need to be sufficiently flexible to facilitate cross-border, cross-sector innovation and investment.
+B. 3 main Legal Instruments in the 2030 Framework
+The Governance Regulation is the ?major novelty element? in the 2030 Framework. Aligned with the Paris Agreement, it covers three key areas: planning, reporting and monitoring.
+Planning
+The Governance Regulation requires Member States to prepare two plans, national energy and climate plans (NECPs) and long-term strategies (LTSs). The Commission must prepare an LTS for the EU as a whole.
+NECPs are a core element of the 2030 Framework. In the NECP, each Member State defines its national contribution to the five Energy Union objectives, including the EU-level renewable energy and energy efficiency targets. Member States are also required to specify their plans to reach these targets along with their national greenhouse gas emission reduction targets in sectors outside the ETS. NECPs are prepared every 10 years and updated at five-year intervals.
+Reporting
+The Governance Regulation also serves to comply with reporting obligations under the Paris Agreement and to track the implementation of the EU?s energy efficiency, renewable energy and other Energy Union targets.
+Starting from 2023 and every two years thereafter, Member States must prepare integrated national energy and climate progress reports (biennial progress reports). These cover all five dimensions of the Energy Union and describe progress in NECP implementation. In addition, each Member State must submit annual greenhouse gas inventory reports to the Commission and the UNFCCC (United Nations Framework Convention on Climate Change). Secretariat. The Governance Regulation includes various provisions on national and Union-level data collection and reporting systems, as well as registries to account for the NDC (Nationally Determined Contribution) and international carbon credits.
+Monitoring
+The Governance Regulation creates a monitoring system to track the implementation of the 2030 Framework and the associated targets at the EU and Member State levels. The system relies on ex ante and ex post monitoring by the Commission.
+Public participation
+The Governance Regulation requires that Member States establish a multilevel climate and energy dialogue involving various stakeholders and the general public to discuss different scenarios for climate and energy policies. NECPs may also be considered during the dialogue.
+C. The climate component of the 2030 Framework
+As a whole it has put precise limits to greenhouse gas emissions and created a price for them in the covered sectors, namely power generation, iron and steel, chemicals, oil refineries, cement and other building materials, as well as pulp and paper. In addition, the ETS applies to aviation emissions in the participating countries.
+D. The energy component of the 2030 Framework
+Our focus is on the switch to an overall EU renewable energy target, national support schemes, self-consumers and renewable energy communities, renewables in heating and cooling as well as in transport, including biofuels (comprising bioliquids, biogas and biomass fuels).
+authorizes Member States to apply renewable energy support schemes and requires that direct price support schemes take the form of a market premium
+includes provisions to promote renewable energy in sectors other than electricity, namely transport as well as heating and cooling
+
+3. TECHNOLOGIES FOR ACHIEVING C-NEUTRALITY
+Carbon is one of the most important elements that contribute to the existence of life on Earth. Since the Industrial Revolution, C-based resources have been exploited to produce energy, food, and other commodities, affecting the global ecosystems in countless ways. The extensive use of fossil fuels and deforestation to promote anthropogenic activities and urbanization are entwined with global climate change, which stems from the greenhouse effect associated with increased atmospheric CO2 and other GHGs. Currently, the international community is confronted with developing cost-effective and sustainable methods for minimizing C emissions and promoting C sequestration. As the global community is moving towards C neutrality, there is a need to revise our understanding of the current state of C flows in the total environment. Therefore, it has become imperative to switch from non-renewables to renewables that sustain current production systems and address climate change issues to protect human health and the environment
+To achieve C neutrality and sustainably support human activities, it is of utmost importance to reduce fossil fuel and food C emissions while promoting C sequestration in terrestrial and marine ecosystems.
+
+A. Technologies for renewable energy production
+1. Solar energy
+Although their power conversion efficiencies have reached more than 18%, it is necessary to further improve the efficiency and stability of large-area solar cells and reduce the product manufacturing and decarbonization costs. 
+Besides photovoltaic and solar thermal technologies, some strategies to convert solar radiation into stable chemical fuels also provide feasible ways for large-scale utilization and storage of solar energy toward energy decarbonization. For instance, great efforts have been made on solar hydrogen production, demonstrating an extremely attractive route to produce hydrogen fuel by adopting renewable solar energy or solar-derived power to electrolyze water.
+
+
+Fig. 4. Technologies for Carbon neutrality (F. Wang et al, Technologies &perspectives for achieving C-neutrality, The Innovation 2, 100180, November 28, 2021, 1-22)
+
+2. Wind energy
+Although the wind resource on Earth is abundant, the uneven distribution of wind resources across the landscape poses a challenge to the transport of electrical energy produced by wind turbines. And the unpredictable nature of winds in terms of speed and direction will result in a variable and unstable phase, amplitude, and frequency for the generation of electricity, which may make it difficult to be integrated into the grid.
+3. Ocean Energy
+The ocean energy reserve is enormous globally and is enough to power the entire world. Technologies to harvest tidal and wave energy are on the verge of commercialization. Technologies for harvesting ocean current energy, thermal energy, and osmotic energy are still in their early development stage
+4. Bioenergy
+Biomass is a renewable source of energy that originates from plants. The most important sources of biomass are agricultural and forestry residues, biogenic materials in municipal solid waste, animal waste, human sewage, and industrial wastes. Biomass provides 13%?14% of the annual global energy consumption. Various processes are used to convert biomass into energy, including the followings: a) Thermochemical conversion of biomass includes gasification, pyrolysis, and combustion. b) Chemical conversion converts vegetable oils and animal fats into fatty acid esters through esterification or/and transesterification to produce biodiesel. c) Biochemical conversion converts biomass into liquid fuels (e.g., alcohols and alkanes), natural gas (e.g., hydrogen and methane), different types of bio-products.
+The most common biomass feedstock used for biological conversion is lignocellulosic biomass, such as agricultural and forestry residues. Lignocellulosic biomass is the most abundant and widely available renewable resource in the world, mainly composed of three heterogeneous biopolymers.
+5. H2 energy
+Hydrogen fuel cell technologies have developed rapidly and are ready for commercialization, to the point that we now see commercial sales of hydrogen-powered passenger cars, and heavy-duty vehicles, trains, and ships. The main issue now is to reduce the cost while maintaining an acceptable level of durability and efficiency.
+6. Nuclear energy
+Nuclear energy is a major contributor to clean energy, accounting for 40% of low-C electricity generation worldwide, and avoids about 1.7 Gt CO2 emissions a year globally. Therefore, nuclear energy is a strategic approach to ensure national energy security and achieve C neutrality. Nuclear energy is mainly generated through nuclear fission, while nuclear fusion technology is at the R&D stage.
+7. Geothermal energy 
+Geothermal energy is non-carbon-based heat energy contained in the interior of the Earth, with the advantages of stability, continuity, and high capacity. It will play an important role in providing a stable and continuous basic load in the future energy structure.
+8. Energy storage
+The electricity produced from most renewables is random and intermittent, which hinders the widespread application of renewables. Therefore, developing energy storage technology is pivotal to improving electricity output reliability and stability from renewables.
+Different energy storage technologies have different reliability, cost, efficiency, scale, and safety. These technologies complement each other, and their applications are dependent on many aspects, such as energy storage time, site requirements, and environmental concerns.
+
+Fig. 5. Core technologies for renewable energy production (F. Wang et al, Technologies & perspectives for achieving C-neutrality, The Innovation 2, 100180, November 28, 2021, 1-22)
+
+B. Technologies for enhanced carbon sink in global ecosystems
+
+Global ecosystems contribute to the release and capture of CO2, methane (CH4), and nitrous oxide (N2O), and influence the atmospheric GHG composition and the climate. 
+
+Fig. 6. Systems for GHG reduction & absorption
+
+Zero waste biochar is a carbon-neutral tool, very important to reduce solid waste. Driven by the extensive expansion of food, urban, and industrial systems, billions of tons of solid waste are generated globally every year.
+Biochar, a fairly new term but an ancient tool, is a porous solid material that is produced from the treatment of feedstocks at high temperatures (3000C? 9000C) under limited oxygen or oxygen-free conditions. The thermochemical decomposition of feedstocks into biochar can be carried out by various methods, including pyrolysis, hydrothermal carbonization, torrefaction, gasification, and traditional carbonization. Among these methods, pyrolysis is widely employed to produce biochar since it preserves one-third of the feedstocks as persistent biochar products while also generating biooils and non-condensable gases.
+
+C. Technologies for CO2 capture, utilization, and storage
+
+The CO2 capture, utilization, and storage (CCUS) technology comprises three different processes: separating CO2 from emission sources, CO2 conversion and utilization, transportation, and storage underground with long term isolation from the atmosphere.
+
+
+Fig. 7. The roadmap for CO2 capture technology development in the industry (F. Wang et al, Technologies & perspectives for achieving C-neutrality, The Innovation 2, 100180, November 28, 2021, 1-22)
+
+CO2 utilization
+The CO2 chemical utilization refers to processes of converting CO2 into other high-value chemicals under certain conditions of temperature, pressure, and the presence of a catalyst. Although significant efforts have been made over the past several years, the conversion of CO2 into fuels and chemicals is still challenging in overcoming both thermodynamic and kinetic barriers.
+Because we are already committed to some level of climate change, responding to climate change involves a three-pronged approach: 
+1. Reducing emissions of and stabilizing the levels of heat-trapping greenhouse gases in the atmosphere (?mitigation?);
+2. Geoengineering is the deliberate large-scale intervention in the Earth's natural systems to counteract climate change.
+3. Adapting to the climate change already in the pipeline (?adaptation?).
+
+Fig. 8. Conceptualizing climate change mitigation, geoengineering, and adaptation (Matos S. et al, Technovation 117 (2022) 102612, 1-17)
+
+Harnessing the power of renewable resources in energy, food, and industrial production systems and promoting C sequestration in terrestrial and marine ecosystems are seen as possible routes towards C neutrality and achieving sustainable development goals. However, the current level of research has not overcome the major challenges to efficiently use renewable resources in production systems and prevent us from depending on fossil fuels. Many problems still require scientific, socio economical political, and technological solutions to adopt practices that reduce GHG emissions in current global production systems. These include:
+1. Given that the potential of global renewable energy resources surpasses global energy demand, the most pressing research needs in sustainable development are enhancing the current renewable energy production trend to phase out the use of fossil fuels. Increasing the amount of power and heat generated from C-free sources (i.e., sun, wind, and ocean) is one aspect of this, but so is the production of biofuels and hydrogen from biomass. The intermittency of wind, solar and other renewable energy sources is one of the major challenges limiting the replacement of fossil fuels with renewable energy. Energy storage is the apparent answer to the intermittency of some of the renewable energy sources. However, the scalability and cost-effectiveness of energy storage are subject to many constraints and limitations. Energy storage development and promotion entail scientific and technological challenges, as well as economic and regulatory concerns that must be addressed in order to drive investment and competition in the energy storage industry. Improving energy efficiency (including residential heating/cooling) has a major impact on reducing GHG emissions in our daily lives. Therefore, more research is needed to fully understand how to maximize energy efficiency and support C-neutral economic growth. As there is a clear link between energy conservation and climate change mitigation, efforts to minimize energy consumption in end-use sectors will contribute to sustainable development as well as carbon neutrality targets.
+2. Considering that unsustainable management practices in food systems, spanning from the production and application of chemical fertilizers to waste landfilling and burning, continue to account for a significant portion of GHG emissions, more research is needed to reduce emissions from food systems and enhance sinks of C and other important nutrients (i.e., nitrogen, potassium, phosphorus, and sulfur). To achieve this, developing new methods for further optimization of waste recycling and nature-based processes in agroecosystems, along with the technological development of food factories, has the potential to reduce the need for chemical fertilizers and sustainably support human activities. Given that biochar has multifunctional values in addition to carbon sequestration, there is a need to integrate ecological strategies to optimize biochar production, characterization and life cycle analysis, and to formulate model-based standards and experimental evidence to spur biochar-assisted sustainable development. Since terrestrial and marine ecosystems are the largest C reservoirs on Earth, strengthening policies that promote afforestation and reforestation and use of C-negative materials to conserve terrestrial ecosystems and sustainable management of aquatic ecosystems could contribute to increasing C sequestration, thereby mitigating climate change.
+3. Even though the CCUS (CO2 capture, utilization, and storage) approach has a pivotal role to play in our pursuit of carbon neutrality, the adoption of current CCUS technologies is hampered by their high energy consumption and costs. Carbon capture and storage in the power industry require scientific and technological innovations to achieve low or even net-zero energy use. Poly generation, chemical looping combustion, and technologies that combine fossil fuels and renewable energy sources for capturing CO2 could open a new era for CCUS. At the same time, the conversion of CO2 to fuels and chemicals is also a promising possibility, but the obstacles of thermodynamics and kinetics need to be overcome.
+4. Given the utmost relevance of monitoring GHG emissions from space to ensure the world is on track to meet its climate change mitigation goals, the accuracy and spatiotemporal resolution of monitoring GHG emissions from satellites need to be further strengthened so as to monitor greenhouse gas emission sources and rates more comprehensively and timely. The capacity and accuracy of satellites in monitoring terrestrial ecosystem biomass also need to be improved. Remote sensing monitoring of marine carbon sink potential needs new theoretical breakthroughs. Carrying out accurate carbon budget calculation based on land-sea-air joint observation is an important basis for carbon peak and carbon neutralization decision-making.
+
+
