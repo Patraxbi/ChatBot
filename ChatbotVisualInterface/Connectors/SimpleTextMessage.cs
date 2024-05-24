@@ -8,6 +8,7 @@ namespace ChatbotVisualInterface.Connectors
     /// </summary>
     public class SimpleTextMessage
     {
+        public readonly bool isQuestion;
         public string Text { get; set; }
         public SolidColorBrush ColorBrush { get; set; }
         public CornerRadius CornerRadius { get; set; }
@@ -19,6 +20,7 @@ namespace ChatbotVisualInterface.Connectors
         public SimpleTextMessage(string text, bool isQuestion = false)
         {
             Text = text;
+            this.isQuestion = isQuestion;
             if (isQuestion)
             {
                 ColorBrush = new SolidColorBrush(questionColor);

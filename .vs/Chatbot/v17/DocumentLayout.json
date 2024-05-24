@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9D635D-180E-407B-9592-8EA8578F7D46}|ChatbotVisualInterface\\ChatbotVisualInterface.csproj|c:\\users\\vladc\\desktop\\proiecte\\github\\chatbot\\chatbotvisualinterface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9D635D-180E-407B-9592-8EA8578F7D46}|ChatbotVisualInterface\\ChatbotVisualInterface.csproj|solutionrelative:chatbotvisualinterface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9D635D-180E-407B-9592-8EA8578F7D46}|ChatbotVisualInterface\\ChatbotVisualInterface.csproj|C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\chatbotvisualinterface\\connectors\\pythoncaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9D635D-180E-407B-9592-8EA8578F7D46}|ChatbotVisualInterface\\ChatbotVisualInterface.csproj|solutionrelative:chatbotvisualinterface\\connectors\\pythoncaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\ChatbotVisualInterface\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChatbotVisualInterface\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\ChatbotVisualInterface\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChatbotVisualInterface\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAQwD4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:59:24.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PythonCaller.cs",
+              "DocumentMoniker": "C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\ChatbotVisualInterface\\Connectors\\PythonCaller.cs",
+              "RelativeDocumentMoniker": "ChatbotVisualInterface\\Connectors\\PythonCaller.cs",
+              "ToolTip": "C:\\Users\\vladc\\Desktop\\Proiecte\\GitHub\\ChatBot\\ChatbotVisualInterface\\Connectors\\PythonCaller.cs",
+              "RelativeToolTip": "ChatbotVisualInterface\\Connectors\\PythonCaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:34:49.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

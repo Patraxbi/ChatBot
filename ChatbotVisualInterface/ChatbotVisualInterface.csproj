@@ -39,6 +39,8 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>2</WarningLevel>
+    <Prefer32Bit>true</Prefer32Bit>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -56,8 +58,33 @@
     <ApplicationIcon>Assets\LogoDT.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.Dynamic, Version=1.3.4.0, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\DynamicLanguageRuntime.1.3.4\lib\net452\Microsoft.Dynamic.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Scripting, Version=1.3.4.0, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\DynamicLanguageRuntime.1.3.4\lib\net452\Microsoft.Scripting.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Scripting.Metadata, Version=1.3.4.0, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\DynamicLanguageRuntime.1.3.4\lib\net452\Microsoft.Scripting.Metadata.dll</HintPath>
+    </Reference>
+    <Reference Include="Python.Runtime, Version=3.0.3.0, Culture=neutral, PublicKeyToken=5000fea6cba702dd, processorArchitecture=MSIL">
+      <HintPath>..\packages\pythonnet.3.0.3\lib\netstandard2.0\Python.Runtime.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
     <Reference Include="System.Data" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -92,6 +119,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Connectors\PythonCaller.cs" />
     <Compile Include="Connectors\SimpleTextMessage.cs" />
     <Compile Include="DefinedControls\MathConverter.cs" />
     <Compile Include="MainWindow.xaml.cs">
@@ -118,6 +146,10 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <Resource Include="Fonts\RadeilRounded-Regular-BF65fe318c435c6.otf" />
+    <Resource Include="Output\wordlist.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -147,6 +179,53 @@
   <ItemGroup>
     <Resource Include="Assets\LogoDT.ico" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="documents\document.xml" />
+    <Resource Include="documents\document_mod1.xml" />
+    <Resource Include="documents\document_mod2.xml" />
+    <Resource Include="documents\document_mod3.xml" />
+    <Resource Include="documents\document_mod4.xml" />
+    <Resource Include="documents\document_mod5.xml" />
+    <Resource Include="documents\document_mod6.xml" />
+    <Resource Include="documents\hashmap.txt" />
+    <Resource Include="documents\Introduction.txt" />
+    <Resource Include="documents\MODULE 1 CLIMATE CHANGE.txt" />
+    <Resource Include="documents\MODULE 2 GREEN ENERGY.txt" />
+    <Resource Include="documents\MODULE 3 INDUSTRIAL STRATEGY FOR CIRCULAR ECONOMY.txt" />
+    <Resource Include="documents\MODULE 4 GREEN AGRICULTURE.txt" />
+    <Resource Include="documents\MODULE 5 BIODIVERSITY.txt" />
+    <Resource Include="documents\MODULE 6 ZERO POLLUTION.txt" />
+    <Resource Include="documents\module_docs\Introduction.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="documents\module_docs\MODULE 1 CLIMATE CHANGE.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="documents\module_docs\MODULE 2 GREEN ENERGY.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="documents\module_docs\MODULE 3 INDUSTRIAL STRATEGY FOR CIRCULAR ECONOMY.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="documents\module_docs\MODULE 4 GREEN AGRICULTURE.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="documents\module_docs\MODULE 5 BIODIVERSITY.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="documents\module_docs\MODULE 6 ZERO POLLUTION.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TextProcessingLayer.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fuzzy_search.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
