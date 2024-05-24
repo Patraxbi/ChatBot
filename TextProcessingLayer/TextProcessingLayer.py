@@ -22,9 +22,9 @@ docs_table={
 # Element class that matches the ELEMENT struct from fuzzy_search.h
 class Element(ctypes.Structure):
     _fields_ = [('sequence', ctypes.c_char_p),
-                ('priority', ctypes.c_uint),
-                ('modul', ctypes.c_uint),
-                ('paragraph', ctypes.c_uint)]
+                ('priority', ctypes.c_ulong),
+                ('modul', ctypes.c_ulong),
+                ('paragraph', ctypes.c_ulong)]
 
 def display_paragraph(document, paragraph):
     if not(document in docs_table):
@@ -38,7 +38,7 @@ def display_paragraph(document, paragraph):
         doc_number="From module "+str(document)+", paragraph "+str(paragraph)+":\n"
     lines=module_file.readlines()
     # indexing starts at 0, but the line numbering starts at 1, so we have to compensate
-    return doc_number+lines[paragraph+1]
+    return doc_number+lines[paragraph - 1]
 
 # Main function accessed by interface layer
 def text_processing_layer(question: str)->list[str]:
@@ -70,7 +70,7 @@ def text_processing_layer(question: str)->list[str]:
     free_mem=test.free_mem
     result_driver=test.result_driver
     
-    result_driver.argtypes=[ctypes.c_char_p]
+    result_driver.argtypes=[ctypes.c_char_p, ctypes.POINTER(ctypes.c_int)]
     result_driver.restype=ctypes.POINTER(Element)
 
     elements_found=ctypes.c_int32()

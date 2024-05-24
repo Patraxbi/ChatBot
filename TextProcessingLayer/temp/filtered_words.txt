@@ -1,6 +1,0 @@
-building
-baby
-dog
-kite
-programmer
-bug
