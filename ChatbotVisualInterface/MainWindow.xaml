@@ -53,6 +53,23 @@
             <TextBlock Grid.Row="2" HorizontalAlignment="Center" Padding="10"
                        Text="Educational project"
                        FontSize="14" FontFamily="{StaticResource Radeil}"/>
+
+            <Border Grid.Row="3" Padding="8 6">
+                <Button Height="30" VerticalAlignment="Top"
+                        Style="{DynamicResource CellButtonStyle}" Click="OpenCredits">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="24"/>
+                            <ColumnDefinition Width="5"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Credit" Grid.Column="2"
+                                   Foreground="White" FontSize="16"
+                                   FontFamily="{StaticResource Radeil}"/>
+                        <Path Stroke="White" StrokeThickness="2" StrokeStartLineCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round" Data="{StaticResource People}"/>
+                    </Grid>
+                </Button>
+            </Border>
         </Grid>
         <!--#endregion-->
 
@@ -89,6 +106,62 @@
                 </Button>
             </Border>
         </StackPanel>
+        <!--#endregion-->
+        
+        <!--#region Credits-->
+        <Border x:Name="CreditsPopup" Grid.Column="1" Panel.ZIndex="1" Background="White" Visibility="Collapsed">
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <StackPanel.Resources>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="HorizontalAlignment" Value="Center"/>
+                        <Setter Property="FontWeight" Value="Medium"/>
+                        <Setter Property="Foreground" Value="DarkSlateGray"/>
+                        <Setter Property="FontSize" Value="17"/>
+                    </Style>
+                </StackPanel.Resources>
+                
+                <TextBlock FontSize="20" Foreground="Navy" FontWeight="Bold" Padding="7">
+                    EU Programme Erasmus+
+                </TextBlock>
+                <TextBlock>
+                    Project title: <Italic>Gender, Digitalization, Green: Ensuring a Sustainable Future for all in Europe</Italic>
+                </TextBlock>
+                <TextBlock>
+                    Project No: 2023-1-RO01- KA220-HED-000154433
+                </TextBlock>
+                <Border Padding="20">
+                    <StackPanel HorizontalAlignment="Center">
+                        <TextBlock HorizontalAlignment="Left">
+                            Students:
+                        </TextBlock>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock TextAlignment="Right" Padding="5 0" Foreground="{StaticResource Medium}">
+                                Bicu David-Mihai :<LineBreak/>
+                                Bolocan Vlad-Constantin :<LineBreak/>
+                                Andrei Bratosin :<LineBreak/>
+                                Dinu Ștefan :<LineBreak/>
+                                Pătrașcu Gabriel-Alexandru : 
+                            </TextBlock>
+                            <TextBlock>
+                                david_mihai.bicu@stud.acs.upb.ro <LineBreak/>
+                                vlad.bolocan@stud.acs.upb.ro <LineBreak/>
+                                andrei.bratosin2703@stud.acs.upb.ro <LineBreak/>
+                                stefan.dinu2809@stud.acs.upb.ro <LineBreak/>
+                                gabriel.patrascu04@stud.acs.upb.ro
+                            </TextBlock>
+                        </StackPanel>
+
+                        <TextBlock Padding="0 22 0 0" HorizontalAlignment="Left" >
+                            Teachers : 
+                        </TextBlock>
+                        <TextBlock HorizontalAlignment="Left" Padding="30 0 0 0" Foreground="{StaticResource Medium}">
+                            Prof M. Caramihai &amp; D. Chis
+                        </TextBlock>
+                    </StackPanel>
+                </Border>
+                
+            </StackPanel>
+        </Border>
         <!--#endregion-->
 
         <!--#region Chat pannel-->

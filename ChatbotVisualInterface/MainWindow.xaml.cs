@@ -124,5 +124,13 @@ namespace ChatbotVisualInterface
         {
             Input_Bar.Focus();
         }
+
+        private void OpenCredits(object sender, RoutedEventArgs e)
+        {
+            if (CreditsPopup.Visibility == Visibility.Visible)
+                CreditsPopup.Visibility = Visibility.Collapsed;
+            else
+                CreditsPopup.Visibility = Visibility.Visible;
+        }
     }
 }
